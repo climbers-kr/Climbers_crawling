@@ -1,0 +1,217 @@
+{
+	"summary": {
+		"siteInquiryType": "detail",
+		"siteType": "drt",
+		"coordinate": {
+			"x": "126.9395638",
+			"y": "37.5116305",
+			"mapZoomLevel": "12",
+			"isExactPosition": true
+		},
+		"id": "19997823",
+		"name": "노량진클라이밍센터",
+		"address": "서울특별시 동작구 노량진동",
+		"addressAbbr": "",
+		"roadAddr": {
+			"text": "",
+			"abbrText": ""
+		},
+		"isPollingPlace": false,
+		"isRestaurant": false,
+		"isHairshop": false,
+		"isPlaceAttraction": false,
+		"isAccommodation": false,
+		"phone": "",
+		"virtualPhone": "",
+		"phoneOrigin": "",
+		"isCallLink": false,
+		"callLinkKey": "9304fa042674b633bbb9c308c202cfdb",
+		"isPremium": false,
+		"category": "스포츠,오락 &gt; 암벽등반",
+		"twoDepthCategory": "스포츠,오락 &gt; 암벽등반",
+		"lastCategory": "암벽등반",
+		"josaForLastCategory": "을",
+		"cid": "222037",
+		"homepageList": null,
+		"description": "",
+		"detailedDescription": "",
+		"descriptionForMobile": "",
+		"moreDescriptionBtnForMobile": false,
+		"moreDetailedDescription": "",
+		"moreDetailedDescriptionUrl": "",
+		"road": "",
+		"infoSource": "",
+		"infoSourceUrl": "",
+		"targetUrl": "",
+		"mobileTargetUrl": "",
+		"hasPoint": false,
+		"hasReview": false,
+		"isUserEditCheck": false,
+		"repKeywordList": null,
+		"brandDirNum": null,
+		"naverTalktalkUrlForPc": null,
+		"naverTalktalkUrlForMobile": null,
+		"isNailshop": false,
+		"isHospital": false,
+		"isNaverhotel": false
+	},
+	"bizHours": {
+		"bizHourList": []
+	},
+	"options": {
+		"optionList": [],
+		"optionDescList": []
+	},
+	"images": {
+		"imageList": []
+	},
+	"menus": {
+		"menuImage": null,
+		"menuList": []
+	},
+	"menuImages": {
+		"menuImageList": []
+	},
+	"coupon": {
+		"isShow": false,
+		"url": "",
+		"mobileUrl": ""
+	},
+	"subphones": {
+		"count": "0",
+		"subphoneList": []
+	},
+	"relateInfos": {
+		"relateInfoList": []
+	},
+	"searchInterlock": {
+		"TRUE": "1",
+		"keyword": "35ac3c268065f1b8f7c594262a804eabf1bcb43cc6a979b116e2b7e3ef3b8080571effb5cf20a0b1ef5b7c8ebde930dbc4b9c525c3efecea0cb2fbae209f2a64f68df8abb14500ac0ab65935b8fccd265dcda519af43eba9930716fcccd3826863b034c163e884e2280162ad5e50aa4d",
+		"blog": "1",
+		"cafe": "1"
+	},
+	"streetPanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"skyPanorama": {
+		"id": "asykkVN+cx03n8TW06BIiA==",
+		"pan": "176.45",
+		"tilt": "-30",
+		"lng": "126.9393845",
+		"lat": "37.5144463",
+		"fov": "124"
+	},
+	"insidePanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"interiorPanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"indoorPanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"indoor": {
+		"floor": "",
+		"underGmid": null,
+		"underMid": "0"
+	},
+	"theme": null,
+	"themeDetail": null,
+	"editButtons": {
+		"editButtonList": [
+			{
+				"name": "정보수정 제안",
+				"type": "report",
+				"url": "\n\t\thttps://report.map.naver.com/form.nhn\n\t",
+				"nclicksName": "wronginfo",
+				"outer-class": {
+					"editButtonList": null
+				}
+			},
+			{
+				"name": "통계",
+				"type": "stats",
+				"url": "https://submit.naver.com/checkLoginType.nhn",
+				"nclicksName": "stats",
+				"outer-class": {
+					"editButtonList": null
+				}
+			}
+		]
+	},
+	"poi": {
+		"poi_info": {
+			"road": {
+				"poiShapeType": "1",
+				"shapeKey": null,
+				"boundary": null,
+				"detail": null
+			},
+			"hasRoad": false,
+			"land": null,
+			"hasLand": false,
+			"polygon": null,
+			"hasPolygon": false
+		},
+		"entrance_coord": {
+			"ENTRANCE_COORD_FIELD_SIZE": 7,
+			"entranceCoords": []
+		}
+	},
+	"thumbnail": null,
+	"cpDetail": {
+		"nadleDetail": null,
+		"citymapDetail": null,
+		"baeminDetail": null,
+		"onnuriDetail": null,
+		"campingzoneDetail": null,
+		"parkingModuDetail": null,
+		"toiletDetail": null,
+		"naverBookingDetail": null,
+		"uokDetail": null,
+		"hiraDetail": null,
+		"tvcastDetail": null,
+		"shopwindowDetail": null,
+		"yogiyoDetail": null,
+		"cescoDetail": null,
+		"golfzonDetail": null,
+		"opinetDetail": null,
+		"yanoljaDetail": null,
+		"goodchoiceDetail": null,
+		"yeogiyaDetail": null,
+		"naverhotelDetail": null,
+		"cpMenuList": [
+			"DEFAULT"
+		],
+		"relatedLinks": {
+			"relatedLinkList": []
+		},
+		"michelinGuide": null,
+		"kozazaDetail": null,
+		"heybeautyDetail": null
+	},
+	"card": {
+		"hasBenefit": false
+	},
+	"hairshop": null
+}

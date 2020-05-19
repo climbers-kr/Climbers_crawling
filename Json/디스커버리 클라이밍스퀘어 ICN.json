@@ -1,0 +1,480 @@
+{
+	"summary": {
+		"siteInquiryType": "detail",
+		"siteType": "drt",
+		"coordinate": {
+			"x": "126.667369",
+			"y": "37.597803",
+			"mapZoomLevel": "8",
+			"isExactPosition": true
+		},
+		"id": "37017836",
+		"name": "디스커버리 클라이밍스퀘어 ICN",
+		"address": "인천광역시 서구 마전동 999-4",
+		"addressAbbr": "마전동 999-4",
+		"roadAddr": {
+			"text": "인천광역시 서구 완정로 70",
+			"abbrText": "완정로 70"
+		},
+		"isPollingPlace": false,
+		"isRestaurant": false,
+		"isHairshop": false,
+		"isPlaceAttraction": false,
+		"isAccommodation": false,
+		"phone": "032-715-5014",
+		"virtualPhone": "0507-1404-5014",
+		"phoneOrigin": "032-715-5014",
+		"isCallLink": false,
+		"callLinkKey": "1cb368fc23359a0972cdab343eb8a736",
+		"isPremium": false,
+		"category": "스포츠,오락 &gt; 암벽등반",
+		"twoDepthCategory": "스포츠,오락 &gt; 암벽등반",
+		"lastCategory": "암벽등반",
+		"josaForLastCategory": "을",
+		"cid": "222037",
+		"homepageList": [
+			{
+				"url": "http://www.climbingsquare.kr",
+				"landingUrl": "http://www.climbingsquare.kr",
+				"korName": "공식",
+				"type": "normal",
+				"mUrl": "http://www.climbingsquare.kr",
+				"mLandingUrl": "http://www.climbingsquare.kr",
+				"className": "official",
+				"isRepresent": true,
+				"isDeadUrl": false
+			},
+			{
+				"url": "http://www.instagram.com/climbsquare_icn",
+				"landingUrl": "http://www.instagram.com/climbsquare_icn",
+				"korName": "공식",
+				"type": "instagram",
+				"mUrl": "http://www.instagram.com/climbsquare_icn",
+				"mLandingUrl": "http://www.instagram.com/climbsquare_icn",
+				"className": "official",
+				"isRepresent": false,
+				"isDeadUrl": false
+			},
+			{
+				"url": "http://www.facebook.com/profile.php?id=100009712148633&fref=search&__tn__=%2Cd%2CP-R&eid=ARC5of6VieIb62IQUcaKw0yE28yfc6jqhkkImKm3IJMjzIEqrvlqMKv5EASBlkxEwh-Im8LGZjpNcCh2",
+				"landingUrl": "http://www.facebook.com/profile.php?id=100009712148633&fref=search&__tn__=%2Cd%2CP-R&eid=ARC5of6VieIb62IQUcaKw0yE28yfc6jqhkkImKm3IJMjzIEqrvlqMKv5EASBlkxEwh-Im8LGZjpNcCh2",
+				"korName": "공식",
+				"type": "facebook",
+				"mUrl": "http://www.facebook.com/profile.php?id=100009712148633&fref=search&__tn__=%2Cd%2CP-R&eid=ARC5of6VieIb62IQUcaKw0yE28yfc6jqhkkImKm3IJMjzIEqrvlqMKv5EASBlkxEwh-Im8LGZjpNcCh2",
+				"mLandingUrl": "http://www.facebook.com/profile.php?id=100009712148633&fref=search&__tn__=%2Cd%2CP-R&eid=ARC5of6VieIb62IQUcaKw0yE28yfc6jqhkkImKm3IJMjzIEqrvlqMKv5EASBlkxEwh-Im8LGZjpNcCh2",
+				"className": "official",
+				"isRepresent": false,
+				"isDeadUrl": false
+			}
+		],
+		"description": "",
+		"detailedDescription": "ICN에서는 15m 리드클라이밍 & 톱로프클라이밍, 5m 볼더링, 10m이지클라이밍 등 클라이밍의 모든 것을 보고 경험할 수 있는 국내 최고의 시설에서 다양한 체험프로그램 및 정규강습프로그램을 운영하고 있습니다.",
+		"descriptionForMobile": "ICN에서는 15m 리드클라이밍 & 톱로프클라이밍, 5...",
+		"moreDescriptionBtnForMobile": true,
+		"moreDetailedDescription": "",
+		"moreDetailedDescriptionUrl": "",
+		"road": "인천시 서구 완정로 70, 마전동 영남탑스빌 웰빙센터 5층\n인천지하철 2호선 마전역 인접",
+		"infoSource": "",
+		"infoSourceUrl": "",
+		"targetUrl": "",
+		"mobileTargetUrl": "",
+		"hasPoint": false,
+		"hasReview": false,
+		"isUserEditCheck": false,
+		"repKeywordList": [
+			"클라이밍",
+			"암벽체험",
+			"실내암벽",
+			"엑시트",
+			"인공암벽"
+		],
+		"brandDirNum": null,
+		"naverTalktalkUrlForPc": null,
+		"naverTalktalkUrlForMobile": null,
+		"isNailshop": false,
+		"isHospital": false,
+		"isNaverhotel": false
+	},
+	"bizHours": {
+		"bizHourList": [
+			{
+				"type": "평일",
+				"startTime": "10:00",
+				"endTime": "23:00",
+				"isDayOff": false,
+				"description": "",
+				"outer-class": {
+					"bizHourList": null
+				}
+			},
+			{
+				"type": "금요일",
+				"startTime": "17:00",
+				"endTime": "23:00",
+				"isDayOff": false,
+				"description": "",
+				"outer-class": {
+					"bizHourList": null
+				}
+			},
+			{
+				"type": "토요일",
+				"startTime": "10:00",
+				"endTime": "22:00",
+				"isDayOff": false,
+				"description": "",
+				"outer-class": {
+					"bizHourList": null
+				}
+			},
+			{
+				"type": "일요일",
+				"startTime": "10:00",
+				"endTime": "19:00",
+				"isDayOff": false,
+				"description": "",
+				"outer-class": {
+					"bizHourList": null
+				}
+			},
+			{
+				"type": "공휴일",
+				"startTime": "10:00",
+				"endTime": "19:00",
+				"isDayOff": false,
+				"description": "",
+				"outer-class": {
+					"bizHourList": null
+				}
+			}
+		]
+	},
+	"options": {
+		"optionList": [
+			{
+				"id": "2",
+				"name": "주차",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			},
+			{
+				"id": "1",
+				"name": "예약",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			},
+			{
+				"id": "6",
+				"name": "유아시설(놀이방)",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			},
+			{
+				"id": "8",
+				"name": "남/녀 화장실 구분",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			},
+			{
+				"id": "37",
+				"name": "지역화폐(카드형)",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			},
+			{
+				"id": "39",
+				"name": "제로페이",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			}
+		],
+		"optionDescList": []
+	},
+	"images": {
+		"imageList": [
+			{
+				"type": "DRT",
+				"number": "1",
+				"url": "/디스커버리 클라이밍스퀘어 ICN_main0_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2018-05-23 17:45:13",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			},
+			{
+				"type": "DRT",
+				"number": "2",
+				"url": "/디스커버리 클라이밍스퀘어 ICN_main1_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2018-05-23 17:45:13",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			},
+			{
+				"type": "DRT",
+				"number": "3",
+				"url": "/디스커버리 클라이밍스퀘어 ICN_main2_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2018-05-23 17:45:13",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			},
+			{
+				"type": "DRT",
+				"number": "4",
+				"url": "/디스커버리 클라이밍스퀘어 ICN_main3_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2018-05-23 17:45:13",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			},
+			{
+				"type": "DRT",
+				"number": "5",
+				"url": "/디스커버리 클라이밍스퀘어 ICN_main4_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2018-05-23 17:45:13",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			}
+		]
+	},
+	"menus": {
+		"menuImage": null,
+		"menuList": []
+	},
+	"menuImages": {
+		"menuImageList": []
+	},
+	"coupon": {
+		"isShow": false,
+		"url": "",
+		"mobileUrl": ""
+	},
+	"subphones": {
+		"count": "0",
+		"subphoneList": []
+	},
+	"relateInfos": {
+		"relateInfoList": []
+	},
+	"searchInterlock": {
+		"TRUE": "1",
+		"keyword": "e5ceca2801c17f752e6f9f159ee02d06",
+		"blog": "1",
+		"cafe": "1"
+	},
+	"streetPanorama": {
+		"id": "gcRCEACoCo78z8XOOv7yng==",
+		"pan": "63.01",
+		"tilt": "10",
+		"lng": "126.6670851",
+		"lat": "37.5976582",
+		"fov": "120"
+	},
+	"skyPanorama": {
+		"id": "mUmDuxUlZGRy+CEX6QWRIw==",
+		"pan": "70.84",
+		"tilt": "-30",
+		"lng": "126.6668817",
+		"lat": "37.5976333",
+		"fov": "124"
+	},
+	"insidePanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"interiorPanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"indoorPanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"indoor": {
+		"floor": "",
+		"underGmid": null,
+		"underMid": "0"
+	},
+	"theme": {
+		"isMovie": false,
+		"isOpinet": false,
+		"isWingbus": false,
+		"isWingspoon": false,
+		"isHospital": false,
+		"isLand": false,
+		"isSubway": false,
+		"isStation": false,
+		"isTerminal": false,
+		"isAirport": false,
+		"isAttraction": false,
+		"isLeisure": false,
+		"isIndoorMap": false,
+		"extKey": "143747"
+	},
+	"themeDetail": {
+		"movieDetail": null,
+		"attractionDetail": null,
+		"leisureDetail": null,
+		"indoorMapDetail": null
+	},
+	"editButtons": {
+		"editButtonList": [
+			{
+				"name": "정보수정 제안",
+				"type": "report",
+				"url": "\n\t\thttps://report.map.naver.com/form.nhn\n\t",
+				"nclicksName": "wronginfo",
+				"outer-class": {
+					"editButtonList": null
+				}
+			},
+			{
+				"name": "통계",
+				"type": "stats",
+				"url": "https://submit.naver.com/checkLoginType.nhn",
+				"nclicksName": "stats",
+				"outer-class": {
+					"editButtonList": null
+				}
+			}
+		]
+	},
+	"poi": {
+		"poi_info": {
+			"road": {
+				"poiShapeType": "1",
+				"shapeKey": null,
+				"boundary": null,
+				"detail": null
+			},
+			"hasRoad": false,
+			"land": null,
+			"hasLand": false,
+			"polygon": null,
+			"hasPolygon": false
+		},
+		"entrance_coord": {
+			"ENTRANCE_COORD_FIELD_SIZE": 7,
+			"entranceCoords": []
+		}
+	},
+	"thumbnail": {
+		"number": "0",
+		"url": "http://ldb.phinf.naver.net/20180523_128/1527065014448Xfftn_JPEG/kR6XqAxHRupRqDcVv0psvy5T.jpg",
+		"source": null,
+		"imageTabName": "baseInfo",
+		"modDate": null,
+		"hasMore": true
+	},
+	"cpDetail": {
+		"nadleDetail": null,
+		"citymapDetail": null,
+		"baeminDetail": null,
+		"onnuriDetail": null,
+		"campingzoneDetail": null,
+		"parkingModuDetail": null,
+		"toiletDetail": null,
+		"naverBookingDetail": {
+			"isShow": true,
+			"reserveUrl": "https://booking.naver.com/booking/12/bizes/143747",
+			"isNaverEasyBooking": false
+		},
+		"uokDetail": null,
+		"hiraDetail": null,
+		"tvcastDetail": null,
+		"shopwindowDetail": null,
+		"yogiyoDetail": null,
+		"cescoDetail": null,
+		"golfzonDetail": null,
+		"opinetDetail": null,
+		"yanoljaDetail": null,
+		"goodchoiceDetail": null,
+		"yeogiyaDetail": null,
+		"naverhotelDetail": null,
+		"cpMenuList": [
+			"DEFAULT"
+		],
+		"relatedLinks": {
+			"relatedLinkList": []
+		},
+		"michelinGuide": null,
+		"kozazaDetail": null,
+		"heybeautyDetail": null
+	},
+	"card": {
+		"hasBenefit": false
+	},
+	"hairshop": null
+}

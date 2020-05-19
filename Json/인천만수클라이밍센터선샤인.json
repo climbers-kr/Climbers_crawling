@@ -1,0 +1,229 @@
+{
+	"summary": {
+		"siteInquiryType": "detail",
+		"siteType": "drt",
+		"coordinate": {
+			"x": "126.7397279",
+			"y": "37.440818",
+			"mapZoomLevel": "12",
+			"isExactPosition": true
+		},
+		"id": "32049607",
+		"name": "인천만수클라이밍센터선샤인",
+		"address": "인천광역시 남동구 만수6동 1048 금호타운상가 204호",
+		"addressAbbr": "만수6동 1048",
+		"roadAddr": {
+			"text": "인천광역시 남동구 담방로 22-16 금호타운",
+			"abbrText": "담방로 22-16"
+		},
+		"isPollingPlace": false,
+		"isRestaurant": false,
+		"isHairshop": false,
+		"isPlaceAttraction": false,
+		"isAccommodation": false,
+		"phone": "032-463-5015",
+		"virtualPhone": "",
+		"phoneOrigin": "032-463-5015",
+		"isCallLink": false,
+		"callLinkKey": "47c8aada89600f30f2c634363de7baef",
+		"isPremium": false,
+		"category": "스포츠,오락 &gt; 암벽등반",
+		"twoDepthCategory": "스포츠,오락 &gt; 암벽등반",
+		"lastCategory": "암벽등반",
+		"josaForLastCategory": "을",
+		"cid": "222037",
+		"homepageList": [
+			{
+				"url": "http://cafe.daum.net/sunshine5014/",
+				"landingUrl": "http://cafe.daum.net/sunshine5014/",
+				"korName": "공식",
+				"type": "normal",
+				"mUrl": "http://cafe.daum.net/sunshine5014/",
+				"mLandingUrl": "http://cafe.daum.net/sunshine5014/",
+				"className": "official",
+				"isRepresent": true,
+				"isDeadUrl": false
+			}
+		],
+		"description": "스포츠클라이밍을 통해 멋진 근육 만들기와 다이어트에 도전해 보세요. 초보, 학생, 주부 환영합니다.",
+		"detailedDescription": "",
+		"descriptionForMobile": "",
+		"moreDescriptionBtnForMobile": false,
+		"moreDetailedDescription": "",
+		"moreDetailedDescriptionUrl": "",
+		"road": "",
+		"infoSource": "",
+		"infoSourceUrl": "",
+		"targetUrl": "",
+		"mobileTargetUrl": "",
+		"hasPoint": false,
+		"hasReview": false,
+		"isUserEditCheck": false,
+		"repKeywordList": null,
+		"brandDirNum": null,
+		"naverTalktalkUrlForPc": null,
+		"naverTalktalkUrlForMobile": null,
+		"isNailshop": false,
+		"isHospital": false,
+		"isNaverhotel": false
+	},
+	"bizHours": {
+		"bizHourList": []
+	},
+	"options": {
+		"optionList": [],
+		"optionDescList": []
+	},
+	"images": {
+		"imageList": []
+	},
+	"menus": {
+		"menuImage": null,
+		"menuList": []
+	},
+	"menuImages": {
+		"menuImageList": []
+	},
+	"coupon": {
+		"isShow": false,
+		"url": "",
+		"mobileUrl": ""
+	},
+	"subphones": {
+		"count": "0",
+		"subphoneList": []
+	},
+	"relateInfos": {
+		"relateInfoList": []
+	},
+	"searchInterlock": {
+		"TRUE": "1",
+		"keyword": "2c1b6c0f17a7481d1b72ff75b1659b765423e055891f32c545eee76e444231310acec4b6c1371f360021a21113b809197c8d34f574d626ed8a7ab808b3999fdf7c82d888bd8dae69a07a3847ee773e36da58055c7e11820569ec228da565b4ebedcafb4f8c20f3bd16eeb384434ff2e1d349be17be2ec122bc429f1cfc37129b",
+		"blog": "1",
+		"cafe": "1"
+	},
+	"streetPanorama": {
+		"id": "J1nj0nvaL2LusVH2InNqPA==",
+		"pan": "114.63",
+		"tilt": "10",
+		"lng": "126.739673",
+		"lat": "37.4408431",
+		"fov": "120"
+	},
+	"skyPanorama": {
+		"id": "LsCtGIxSK17AbDgrt2z3mw==",
+		"pan": "-97.94",
+		"tilt": "-30",
+		"lng": "126.7438889",
+		"lat": "37.4413948",
+		"fov": "124"
+	},
+	"insidePanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"interiorPanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"indoorPanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"indoor": {
+		"floor": "",
+		"underGmid": null,
+		"underMid": "0"
+	},
+	"theme": null,
+	"themeDetail": null,
+	"editButtons": {
+		"editButtonList": [
+			{
+				"name": "정보수정 제안",
+				"type": "report",
+				"url": "\n\t\thttps://report.map.naver.com/form.nhn\n\t",
+				"nclicksName": "wronginfo",
+				"outer-class": {
+					"editButtonList": null
+				}
+			},
+			{
+				"name": "통계",
+				"type": "stats",
+				"url": "https://submit.naver.com/checkLoginType.nhn",
+				"nclicksName": "stats",
+				"outer-class": {
+					"editButtonList": null
+				}
+			}
+		]
+	},
+	"poi": {
+		"poi_info": {
+			"road": {
+				"poiShapeType": "1",
+				"shapeKey": null,
+				"boundary": null,
+				"detail": null
+			},
+			"hasRoad": false,
+			"land": null,
+			"hasLand": false,
+			"polygon": null,
+			"hasPolygon": false
+		},
+		"entrance_coord": {
+			"ENTRANCE_COORD_FIELD_SIZE": 7,
+			"entranceCoords": []
+		}
+	},
+	"thumbnail": null,
+	"cpDetail": {
+		"nadleDetail": null,
+		"citymapDetail": null,
+		"baeminDetail": null,
+		"onnuriDetail": null,
+		"campingzoneDetail": null,
+		"parkingModuDetail": null,
+		"toiletDetail": null,
+		"naverBookingDetail": null,
+		"uokDetail": null,
+		"hiraDetail": null,
+		"tvcastDetail": null,
+		"shopwindowDetail": null,
+		"yogiyoDetail": null,
+		"cescoDetail": null,
+		"golfzonDetail": null,
+		"opinetDetail": null,
+		"yanoljaDetail": null,
+		"goodchoiceDetail": null,
+		"yeogiyaDetail": null,
+		"naverhotelDetail": null,
+		"cpMenuList": [
+			"DEFAULT"
+		],
+		"relatedLinks": {
+			"relatedLinkList": []
+		},
+		"michelinGuide": null,
+		"kozazaDetail": null,
+		"heybeautyDetail": null
+	},
+	"card": {
+		"hasBenefit": false
+	},
+	"hairshop": null
+}

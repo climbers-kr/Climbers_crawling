@@ -1,0 +1,427 @@
+{
+	"summary": {
+		"siteInquiryType": "detail",
+		"siteType": "drt",
+		"coordinate": {
+			"x": "126.8348265",
+			"y": "37.3189133",
+			"mapZoomLevel": "12",
+			"isExactPosition": true
+		},
+		"id": "1664829644",
+		"name": "클럽클라이밍 2호점",
+		"address": "경기도 안산시 단원구 고잔동 533-3",
+		"addressAbbr": "고잔동 533-3",
+		"roadAddr": {
+			"text": "경기도 안산시 단원구 고잔로 76 6층 클럽클라이밍",
+			"abbrText": "고잔로 76"
+		},
+		"isPollingPlace": false,
+		"isRestaurant": false,
+		"isHairshop": false,
+		"isPlaceAttraction": false,
+		"isAccommodation": false,
+		"phone": "070-7797-0526",
+		"virtualPhone": "0507-1372-0526",
+		"phoneOrigin": "070-7797-0526",
+		"isCallLink": false,
+		"callLinkKey": "e329f9c07b5cf970299e280e70cf5a4c",
+		"isPremium": false,
+		"category": "스포츠,오락 &gt; 암벽등반",
+		"twoDepthCategory": "스포츠,오락 &gt; 암벽등반",
+		"lastCategory": "암벽등반",
+		"josaForLastCategory": "을",
+		"cid": "222037",
+		"homepageList": [
+			{
+				"url": "http://www.instagram.com/club_climbing_",
+				"landingUrl": "http://www.instagram.com/club_climbing_",
+				"korName": "공식",
+				"type": "instagram",
+				"mUrl": "http://www.instagram.com/club_climbing_",
+				"mLandingUrl": "http://www.instagram.com/club_climbing_",
+				"className": "official",
+				"isRepresent": true,
+				"isDeadUrl": false
+			},
+			{
+				"url": "http://cafe.naver.com/clx2",
+				"landingUrl": "http://cafe.naver.com/clx2",
+				"korName": "카페",
+				"type": "cafe",
+				"mUrl": "http://cafe.naver.com/clx2",
+				"mLandingUrl": "http://cafe.naver.com/clx2",
+				"className": "cafe",
+				"isRepresent": false,
+				"isDeadUrl": false
+			}
+		],
+		"description": "",
+		"detailedDescription": " 👉로잉머신, 헹잉턱걸이, 딥스바,  돔볼 등 기타 운동기구도 보유하고 있는 클럽클라이밍👈\n\n1️⃣사전예약확정시 10% 할인\n2️⃣단체사전예약확정시 10%할인에 추가 10%할인\n.\n💰경기도화폐, 안산 다온 사용(지역화폐) 가능\n.\n.\n👍안산 최고의 클라이밍 실내암벽\n👍안산 최대의 규모 실내암벽\n👍이색운동 전신운동 성취감\n👍날씨애 구애받지않는 운동\n👍야외에선 외벽과 바위 실내에선 클럽클라이밍\n👍수입 볼륨홀드. 매크로 등\n👍클라이밍 코치 7년 이상\n👍남녀노소 즐겁게 운동\n👍로잉머신. 헹잉턱걸이. 딥스바 등 기타운동기구 보유\n👍안산 유일 클라이밍 인증센터.1급 지도사 상주\n.\n.\n. 💬📌\n월 수 13시~24시\n화목금 13시~22시\n토일 11시~20시\n공휴일 휴무 입니다.\n.\n✂✂✂✂✂✂✂✂✂✂✂✂✂\n.\n⚠️안산시 단원구 고잔로 76, 6층\n(롯데백화점 맞은편 에스안과건물)\n📞070-7797-0526",
+		"descriptionForMobile": " 👉로잉머신, 헹잉턱걸이, 딥스바,  돔볼 등 기타 ...",
+		"moreDescriptionBtnForMobile": true,
+		"moreDetailedDescription": "",
+		"moreDetailedDescriptionUrl": "",
+		"road": "경기도 안산시 단원구 고잔로 76. 6층(2호점)\n에스안과 고든병원 건물(롯데백화점 앞)\n.",
+		"infoSource": "",
+		"infoSourceUrl": "",
+		"targetUrl": "",
+		"mobileTargetUrl": "",
+		"hasPoint": false,
+		"hasReview": false,
+		"isUserEditCheck": false,
+		"repKeywordList": [
+			"안산실내암벽",
+			"안산클라이밍",
+			"중앙동클라이밍",
+			"안산이색",
+			"안산다이어트"
+		],
+		"brandDirNum": null,
+		"naverTalktalkUrlForPc": null,
+		"naverTalktalkUrlForMobile": null,
+		"isNailshop": false,
+		"isHospital": false,
+		"isNaverhotel": false
+	},
+	"bizHours": {
+		"bizHourList": [
+			{
+				"type": "평일",
+				"startTime": "13:00",
+				"endTime": "22:00",
+				"isDayOff": false,
+				"description": "월,수 제외 요일(평일)",
+				"outer-class": {
+					"bizHourList": null
+				}
+			},
+			{
+				"type": "월요일",
+				"startTime": "13:00",
+				"endTime": "23:59",
+				"isDayOff": false,
+				"description": "1시~24시",
+				"outer-class": {
+					"bizHourList": null
+				}
+			},
+			{
+				"type": "수요일",
+				"startTime": "13:00",
+				"endTime": "23:59",
+				"isDayOff": false,
+				"description": "1시~24시",
+				"outer-class": {
+					"bizHourList": null
+				}
+			},
+			{
+				"type": "주말",
+				"startTime": "11:00",
+				"endTime": "20:00",
+				"isDayOff": false,
+				"description": "",
+				"outer-class": {
+					"bizHourList": null
+				}
+			},
+			{
+				"type": "공휴일",
+				"startTime": "00:00",
+				"endTime": "00:00",
+				"isDayOff": true,
+				"description": "",
+				"outer-class": {
+					"bizHourList": null
+				}
+			}
+		]
+	},
+	"options": {
+		"optionList": [
+			{
+				"id": "2",
+				"name": "주차",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			},
+			{
+				"id": "1",
+				"name": "예약",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			},
+			{
+				"id": "7",
+				"name": "무선 인터넷",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			},
+			{
+				"id": "8",
+				"name": "남/녀 화장실 구분",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			}
+		],
+		"optionDescList": []
+	},
+	"images": {
+		"imageList": [
+			{
+				"type": "DRT",
+				"number": "1",
+				"url": "/클럽클라이밍 2호점_main0_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2020-04-26 15:35:24",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			},
+			{
+				"type": "DRT",
+				"number": "2",
+				"url": "/클럽클라이밍 2호점_main1_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2020-04-26 15:35:24",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			},
+			{
+				"type": "DRT",
+				"number": "3",
+				"url": "/클럽클라이밍 2호점_main2_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2020-04-26 15:35:24",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			},
+			{
+				"type": "DRT",
+				"number": "4",
+				"url": "/클럽클라이밍 2호점_main3_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2020-04-26 15:35:24",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			},
+			{
+				"type": "DRT",
+				"number": "5",
+				"url": "/클럽클라이밍 2호점_main4_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2020-04-26 15:35:24",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			}
+		]
+	},
+	"menus": {
+		"menuImage": null,
+		"menuList": []
+	},
+	"menuImages": {
+		"menuImageList": []
+	},
+	"coupon": {
+		"isShow": false,
+		"url": "",
+		"mobileUrl": ""
+	},
+	"subphones": {
+		"count": "0",
+		"subphoneList": []
+	},
+	"relateInfos": {
+		"relateInfoList": []
+	},
+	"searchInterlock": {
+		"TRUE": "1",
+		"keyword": "77ab686d0588c2e12595061e7e52af5e938132ad84d782e7d6e984fefb874ad8faeb4732c38e0662a245a54d829eeacd85dd987bc7d39d30bb7e37c3c271df7cbc0724c2b58418e061c79f808a76d4f4a8659b74454425bab5f75d1958863d7ada57f70d3484c0e0a6b042abb6c6fe193f83c88b60032c3d0ae5ceaaf63ca5e1",
+		"blog": "1",
+		"cafe": "1"
+	},
+	"streetPanorama": {
+		"id": "lB09BYJiZkZaKcuuuREzZQ==",
+		"pan": "-179.1",
+		"tilt": "10",
+		"lng": "126.8348308",
+		"lat": "37.3191617",
+		"fov": "120"
+	},
+	"skyPanorama": {
+		"id": "3frbybydaX+BRyJ6JJpXsQ==",
+		"pan": "-8.55",
+		"tilt": "-30",
+		"lng": "126.835289",
+		"lat": "37.315834",
+		"fov": "124"
+	},
+	"insidePanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"interiorPanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"indoorPanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"indoor": {
+		"floor": "",
+		"underGmid": null,
+		"underMid": "0"
+	},
+	"theme": null,
+	"themeDetail": null,
+	"editButtons": {
+		"editButtonList": [
+			{
+				"name": "정보수정 제안",
+				"type": "report",
+				"url": "\n\t\thttps://report.map.naver.com/form.nhn\n\t",
+				"nclicksName": "wronginfo",
+				"outer-class": {
+					"editButtonList": null
+				}
+			},
+			{
+				"name": "통계",
+				"type": "stats",
+				"url": "https://submit.naver.com/checkLoginType.nhn",
+				"nclicksName": "stats",
+				"outer-class": {
+					"editButtonList": null
+				}
+			}
+		]
+	},
+	"poi": {
+		"poi_info": {
+			"road": {
+				"poiShapeType": "1",
+				"shapeKey": null,
+				"boundary": null,
+				"detail": null
+			},
+			"hasRoad": false,
+			"land": null,
+			"hasLand": false,
+			"polygon": null,
+			"hasPolygon": false
+		},
+		"entrance_coord": {
+			"ENTRANCE_COORD_FIELD_SIZE": 7,
+			"entranceCoords": []
+		}
+	},
+	"thumbnail": {
+		"number": "0",
+		"url": "http://ldb.phinf.naver.net/20200228_187/1582881321507s1VXL_JPEG/KTYr3eMA9mE1zCH4JX6z78m1.jpg",
+		"source": null,
+		"imageTabName": "baseInfo",
+		"modDate": null,
+		"hasMore": true
+	},
+	"cpDetail": {
+		"nadleDetail": null,
+		"citymapDetail": null,
+		"baeminDetail": null,
+		"onnuriDetail": null,
+		"campingzoneDetail": null,
+		"parkingModuDetail": null,
+		"toiletDetail": null,
+		"naverBookingDetail": null,
+		"uokDetail": null,
+		"hiraDetail": null,
+		"tvcastDetail": null,
+		"shopwindowDetail": null,
+		"yogiyoDetail": null,
+		"cescoDetail": null,
+		"golfzonDetail": null,
+		"opinetDetail": null,
+		"yanoljaDetail": null,
+		"goodchoiceDetail": null,
+		"yeogiyaDetail": null,
+		"naverhotelDetail": null,
+		"cpMenuList": [
+			"DEFAULT"
+		],
+		"relatedLinks": {
+			"relatedLinkList": []
+		},
+		"michelinGuide": null,
+		"kozazaDetail": null,
+		"heybeautyDetail": null
+	},
+	"card": {
+		"hasBenefit": false
+	},
+	"hairshop": null
+}

@@ -1,0 +1,270 @@
+{
+	"summary": {
+		"siteInquiryType": "detail",
+		"siteType": "drt",
+		"coordinate": {
+			"x": "126.7445315",
+			"y": "37.7120819",
+			"mapZoomLevel": "12",
+			"isExactPosition": true
+		},
+		"id": "37202664",
+		"name": "애스트로맨클라이밍센터",
+		"address": "경기도 파주시 동패동 1758 1002호",
+		"addressAbbr": "동패동 1758",
+		"roadAddr": {
+			"text": "경기도 파주시 와석순환로 135 신한프라자",
+			"abbrText": "와석순환로 135"
+		},
+		"isPollingPlace": false,
+		"isRestaurant": false,
+		"isHairshop": false,
+		"isPlaceAttraction": false,
+		"isAccommodation": false,
+		"phone": "031-944-6262",
+		"virtualPhone": "",
+		"phoneOrigin": "031-944-6262",
+		"isCallLink": false,
+		"callLinkKey": "5f3d39a4d46688a66eb8a4cdd0aace12",
+		"isPremium": false,
+		"category": "스포츠,오락 &gt; 암벽등반",
+		"twoDepthCategory": "스포츠,오락 &gt; 암벽등반",
+		"lastCategory": "암벽등반",
+		"josaForLastCategory": "을",
+		"cid": "222037",
+		"homepageList": [
+			{
+				"url": "http://cafe.daum.net/astroman/",
+				"landingUrl": "http://cafe.daum.net/astroman/",
+				"korName": "카페",
+				"type": "cafe",
+				"mUrl": "http://cafe.daum.net/astroman/",
+				"mLandingUrl": "http://cafe.daum.net/astroman/",
+				"className": "cafe",
+				"isRepresent": true,
+				"isDeadUrl": false
+			}
+		],
+		"description": "",
+		"detailedDescription": "",
+		"descriptionForMobile": "",
+		"moreDescriptionBtnForMobile": false,
+		"moreDetailedDescription": "",
+		"moreDetailedDescriptionUrl": "",
+		"road": "",
+		"infoSource": "",
+		"infoSourceUrl": "",
+		"targetUrl": "",
+		"mobileTargetUrl": "",
+		"hasPoint": false,
+		"hasReview": false,
+		"isUserEditCheck": false,
+		"repKeywordList": null,
+		"brandDirNum": null,
+		"naverTalktalkUrlForPc": null,
+		"naverTalktalkUrlForMobile": null,
+		"isNailshop": false,
+		"isHospital": false,
+		"isNaverhotel": false
+	},
+	"bizHours": {
+		"bizHourList": [
+			{
+				"type": "평일",
+				"startTime": "11:00",
+				"endTime": "23:00",
+				"isDayOff": false,
+				"description": "",
+				"outer-class": {
+					"bizHourList": null
+				}
+			},
+			{
+				"type": "토요일",
+				"startTime": "11:00",
+				"endTime": "18:00",
+				"isDayOff": false,
+				"description": "",
+				"outer-class": {
+					"bizHourList": null
+				}
+			},
+			{
+				"type": "공휴일",
+				"startTime": "00:00",
+				"endTime": "00:00",
+				"isDayOff": true,
+				"description": "",
+				"outer-class": {
+					"bizHourList": null
+				}
+			}
+		]
+	},
+	"options": {
+		"optionList": [
+			{
+				"id": "2",
+				"name": "주차",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			}
+		],
+		"optionDescList": []
+	},
+	"images": {
+		"imageList": []
+	},
+	"menus": {
+		"menuImage": null,
+		"menuList": []
+	},
+	"menuImages": {
+		"menuImageList": []
+	},
+	"coupon": {
+		"isShow": false,
+		"url": "",
+		"mobileUrl": ""
+	},
+	"subphones": {
+		"count": "0",
+		"subphoneList": []
+	},
+	"relateInfos": {
+		"relateInfoList": []
+	},
+	"searchInterlock": {
+		"TRUE": "1",
+		"keyword": "1f921914b3a31d5bf259f61d90dbfe75c721a00f0342d41804f90ce7915f7551df2890aa0a345fcfbfe8e7aab56f9b3cf46716ad49caf62217f085d8078c5c93f782f61b1b5150a6f09de73a3e69923938794e88a8324b2a8a9cd68e2826ce6c8d05b2ee77353095fe95e82e111e38720f9529ac40079beebcf05c2affccbff4",
+		"blog": "1",
+		"cafe": "1"
+	},
+	"streetPanorama": {
+		"id": "lwzCONrhm9FgBEWWzcjbwQ==",
+		"pan": "92.37",
+		"tilt": "10",
+		"lng": "126.7441685",
+		"lat": "37.7120966",
+		"fov": "120"
+	},
+	"skyPanorama": {
+		"id": "zUaooTeiFmuyjaUHMkYrPA==",
+		"pan": "66.87",
+		"tilt": "-30",
+		"lng": "126.742775",
+		"lat": "37.7113304",
+		"fov": "124"
+	},
+	"insidePanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"interiorPanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"indoorPanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"indoor": {
+		"floor": "",
+		"underGmid": null,
+		"underMid": "0"
+	},
+	"theme": null,
+	"themeDetail": null,
+	"editButtons": {
+		"editButtonList": [
+			{
+				"name": "정보수정 제안",
+				"type": "report",
+				"url": "\n\t\thttps://report.map.naver.com/form.nhn\n\t",
+				"nclicksName": "wronginfo",
+				"outer-class": {
+					"editButtonList": null
+				}
+			},
+			{
+				"name": "통계",
+				"type": "stats",
+				"url": "https://submit.naver.com/checkLoginType.nhn",
+				"nclicksName": "stats",
+				"outer-class": {
+					"editButtonList": null
+				}
+			}
+		]
+	},
+	"poi": {
+		"poi_info": {
+			"road": {
+				"poiShapeType": "1",
+				"shapeKey": null,
+				"boundary": null,
+				"detail": null
+			},
+			"hasRoad": false,
+			"land": null,
+			"hasLand": false,
+			"polygon": null,
+			"hasPolygon": false
+		},
+		"entrance_coord": {
+			"ENTRANCE_COORD_FIELD_SIZE": 7,
+			"entranceCoords": []
+		}
+	},
+	"thumbnail": null,
+	"cpDetail": {
+		"nadleDetail": null,
+		"citymapDetail": null,
+		"baeminDetail": null,
+		"onnuriDetail": null,
+		"campingzoneDetail": null,
+		"parkingModuDetail": null,
+		"toiletDetail": null,
+		"naverBookingDetail": null,
+		"uokDetail": null,
+		"hiraDetail": null,
+		"tvcastDetail": null,
+		"shopwindowDetail": null,
+		"yogiyoDetail": null,
+		"cescoDetail": null,
+		"golfzonDetail": null,
+		"opinetDetail": null,
+		"yanoljaDetail": null,
+		"goodchoiceDetail": null,
+		"yeogiyaDetail": null,
+		"naverhotelDetail": null,
+		"cpMenuList": [
+			"DEFAULT"
+		],
+		"relatedLinks": {
+			"relatedLinkList": []
+		},
+		"michelinGuide": null,
+		"kozazaDetail": null,
+		"heybeautyDetail": null
+	},
+	"card": {
+		"hasBenefit": false
+	},
+	"hairshop": null
+}

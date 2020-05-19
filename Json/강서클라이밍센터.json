@@ -1,0 +1,583 @@
+{
+	"summary": {
+		"siteInquiryType": "detail",
+		"siteType": "drt",
+		"coordinate": {
+			"x": "126.839071",
+			"y": "37.5582302",
+			"mapZoomLevel": "8",
+			"isExactPosition": true
+		},
+		"id": "36800715",
+		"name": "강서클라이밍센터",
+		"address": "서울특별시 강서구 내발산동 646",
+		"addressAbbr": "내발산동 646",
+		"roadAddr": {
+			"text": "서울특별시 강서구 공항대로 284 동서빌딩 4층",
+			"abbrText": "공항대로 284"
+		},
+		"isPollingPlace": false,
+		"isRestaurant": false,
+		"isHairshop": false,
+		"isPlaceAttraction": false,
+		"isAccommodation": false,
+		"phone": "02-3662-0138",
+		"virtualPhone": "",
+		"phoneOrigin": "02-3662-0138",
+		"isCallLink": false,
+		"callLinkKey": "8a381f437972c3a747dd007c07dbdaab",
+		"isPremium": false,
+		"category": "스포츠,오락 &gt; 암벽등반",
+		"twoDepthCategory": "스포츠,오락 &gt; 암벽등반",
+		"lastCategory": "암벽등반",
+		"josaForLastCategory": "을",
+		"cid": "222037",
+		"homepageList": [
+			{
+				"url": "https://gangseoclimbing.modoo.at",
+				"landingUrl": "https://gangseoclimbing.modoo.at",
+				"korName": "모두",
+				"type": "modoo",
+				"mUrl": "https://gangseoclimbing.modoo.at",
+				"mLandingUrl": "https://gangseoclimbing.modoo.at",
+				"className": "modoo",
+				"isRepresent": true,
+				"isDeadUrl": false
+			},
+			{
+				"url": "http://https//www.facebook.com/%EA%B0%95%EC%84%9C%ED%81%B4%EB%9D%BC%EC%9D%B4%EB%B0%8D%EC%84%BC%ED%84%B0-830149017073022/",
+				"landingUrl": "http://https//www.facebook.com/%EA%B0%95%EC%84%9C%ED%81%B4%EB%9D%BC%EC%9D%B4%EB%B0%8D%EC%84%BC%ED%84%B0-830149017073022/",
+				"korName": "공식",
+				"type": "facebook",
+				"mUrl": "http://https//www.facebook.com/%EA%B0%95%EC%84%9C%ED%81%B4%EB%9D%BC%EC%9D%B4%EB%B0%8D%EC%84%BC%ED%84%B0-830149017073022/",
+				"mLandingUrl": "http://https//www.facebook.com/%EA%B0%95%EC%84%9C%ED%81%B4%EB%9D%BC%EC%9D%B4%EB%B0%8D%EC%84%BC%ED%84%B0-830149017073022/",
+				"className": "official",
+				"isRepresent": false,
+				"isDeadUrl": false
+			},
+			{
+				"url": "http://https//www.instagram.com/gsclimbing",
+				"landingUrl": "http://https//www.instagram.com/gsclimbing",
+				"korName": "공식",
+				"type": "instagram",
+				"mUrl": "http://https//www.instagram.com/gsclimbing",
+				"mLandingUrl": "http://https//www.instagram.com/gsclimbing",
+				"className": "official",
+				"isRepresent": false,
+				"isDeadUrl": false
+			},
+			{
+				"url": "http://cafe.naver.com/gangseoclimbing",
+				"landingUrl": "http://cafe.naver.com/gangseoclimbing",
+				"korName": "카페",
+				"type": "cafe",
+				"mUrl": "http://cafe.naver.com/gangseoclimbing",
+				"mLandingUrl": "http://cafe.naver.com/gangseoclimbing",
+				"className": "cafe",
+				"isRepresent": false,
+				"isDeadUrl": false
+			}
+		],
+		"description": "",
+		"detailedDescription": "강서클라이밍센터는 실내암벽장(인도어클라이밍센터)으로 볼더링, 클라이밍 기초교육 및 동호인들의 운동과 휴식을 제공하는 동네암장입니다. \n클라이밍은 타 운동에 비해 운동시간이 짧고 강도가 높다보니 집중력 향상이나 자라는 아이들의 성장판 자극에도 도움이 됩니다. 건강한 생활스포츠로서의 클라이밍을 추구하는 공간으로 여러 사람들과의 교류를 통해 보다 넓은 인간관계 형성에도 도움이 됩니다. \n편의시설은 실내에 남녀구분 화장실, 탈의실, 샤워실, 휴게공간, 와이파이 등을 갖추고 있으며, 전면통창에 베란다가 있어 환기나 채광이 좋습니다. \n무엇보다 사진과 같은지, 운동하기는 괜찮은 환경인지 직접 방문하셔서 보시는게 좋을 듯 합니다.\n영업시간내 구경은 언제든 환영입니다. 편하게 오셔서 문의하세요.",
+		"descriptionForMobile": "강서클라이밍센터는 실내암벽장(인도어클라이밍센터)으로 볼...",
+		"moreDescriptionBtnForMobile": true,
+		"moreDetailedDescription": "",
+		"moreDetailedDescriptionUrl": "",
+		"road": "주소: 서울시 강서구 내발산동 646번지 동서빌딩 4층\n\n서울지하철 5호선 발산역 5번출구 나와 30m정도 오시면 \n\n1층에 \"할리스커피\"가 있는 건물입니다.",
+		"infoSource": "",
+		"infoSourceUrl": "",
+		"targetUrl": "",
+		"mobileTargetUrl": "",
+		"hasPoint": false,
+		"hasReview": false,
+		"isUserEditCheck": false,
+		"repKeywordList": [
+			"볼더링",
+			"스포츠클라이밍",
+			"클라이밍",
+			"실내암벽",
+			"암벽등반"
+		],
+		"brandDirNum": null,
+		"naverTalktalkUrlForPc": null,
+		"naverTalktalkUrlForMobile": null,
+		"isNailshop": false,
+		"isHospital": false,
+		"isNaverhotel": false
+	},
+	"bizHours": {
+		"bizHourList": [
+			{
+				"type": "평일",
+				"startTime": "10:00",
+				"endTime": "23:00",
+				"isDayOff": false,
+				"description": "",
+				"outer-class": {
+					"bizHourList": null
+				}
+			},
+			{
+				"type": "주말",
+				"startTime": "10:00",
+				"endTime": "19:00",
+				"isDayOff": false,
+				"description": "",
+				"outer-class": {
+					"bizHourList": null
+				}
+			},
+			{
+				"type": "공휴일",
+				"startTime": "10:00",
+				"endTime": "19:00",
+				"isDayOff": false,
+				"description": "",
+				"outer-class": {
+					"bizHourList": null
+				}
+			}
+		]
+	},
+	"options": {
+		"optionList": [
+			{
+				"id": "2",
+				"name": "주차",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			},
+			{
+				"id": "7",
+				"name": "무선 인터넷",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			},
+			{
+				"id": "8",
+				"name": "남/녀 화장실 구분",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			},
+			{
+				"id": "22",
+				"name": "장애인 편의시설",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			}
+		],
+		"optionDescList": []
+	},
+	"images": {
+		"imageList": [
+			{
+				"type": "DRT",
+				"number": "1",
+				"url": "/강서클라이밍센터_main0_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2020-05-09 11:34:57",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			},
+			{
+				"type": "DRT",
+				"number": "2",
+				"url": "/강서클라이밍센터_main1_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2020-05-09 11:34:57",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			},
+			{
+				"type": "DRT",
+				"number": "3",
+				"url": "/강서클라이밍센터_main2_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2020-05-09 11:34:57",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			},
+			{
+				"type": "DRT",
+				"number": "4",
+				"url": "/강서클라이밍센터_main3_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2020-05-09 11:34:57",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			},
+			{
+				"type": "DRT",
+				"number": "5",
+				"url": "/강서클라이밍센터_main4_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2020-05-09 11:34:57",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			}
+		]
+	},
+	"menus": {
+		"menuImage": null,
+		"menuList": [
+			{
+				"name": "일일사용료",
+				"price": "20,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "일일체험(암벽화대여)",
+				"price": "30,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "월자유사용료(성인)",
+				"price": "120,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "3개월사용료(일시결제)",
+				"price": "300,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "6개월사용료(일시결제)",
+				"price": "550,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "12개월사용료(일시결제)",
+				"price": "1,000,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "초급자 월강습료(사용료와 별도)",
+				"price": "80,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "학생할인 월사용료(대학생포함)",
+				"price": "100,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "초중생 월강습료(주2회강습)",
+				"price": "100,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "초등학생 주1회강습(1개월)",
+				"price": "70,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "초등학생 주2회강습(1개월)",
+				"price": "120,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "초등학생 주3회강습(1개월)",
+				"price": "150,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			}
+		]
+	},
+	"menuImages": {
+		"menuImageList": [
+			{
+				"type": "drt",
+				"imageUrl": "http://ldb.phinf.naver.net/20200508_235/15889140363349PDao_JPEG/BQBm0gf1uv9Z5FJuBoQvrtx9.JPG.jpg",
+				"postUrl": null,
+				"score": null,
+				"updateDate": "2020-05-11 16:44:40",
+				"source": null
+			}
+		]
+	},
+	"coupon": {
+		"isShow": false,
+		"url": "",
+		"mobileUrl": ""
+	},
+	"subphones": {
+		"count": "0",
+		"subphoneList": []
+	},
+	"relateInfos": {
+		"relateInfoList": []
+	},
+	"searchInterlock": {
+		"TRUE": "1",
+		"keyword": "04e0dddf3f82ae74a59f7cb73d201a5a36d615f9aa89727f305565884e6c967dd46ee29601bf8a0b664788bcb743e6d7327d6bff10d41b4ce95f6758bc207c131044cc5ba27baf8218f321d73bd85669c721a00f0342d41804f90ce7915f7551584164425f53bfbb4bbedf9b6979371b",
+		"blog": "1",
+		"cafe": "1"
+	},
+	"streetPanorama": {
+		"id": "wQoiYppBdQgEYDPeGZpoIw==",
+		"pan": "178.52",
+		"tilt": "10",
+		"lng": "126.8390676",
+		"lat": "37.5583544",
+		"fov": "120"
+	},
+	"skyPanorama": {
+		"id": "8MxQX92X2GIqg4mnTmu9nA==",
+		"pan": "7.12",
+		"tilt": "-30",
+		"lng": "126.8388062",
+		"lat": "37.5561104",
+		"fov": "124"
+	},
+	"insidePanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"interiorPanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"indoorPanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"indoor": {
+		"floor": "",
+		"underGmid": null,
+		"underMid": "0"
+	},
+	"theme": {
+		"isMovie": false,
+		"isOpinet": false,
+		"isWingbus": false,
+		"isWingspoon": false,
+		"isHospital": false,
+		"isLand": false,
+		"isSubway": false,
+		"isStation": false,
+		"isTerminal": false,
+		"isAirport": false,
+		"isAttraction": false,
+		"isLeisure": false,
+		"isIndoorMap": false,
+		"extKey": "354680"
+	},
+	"themeDetail": {
+		"movieDetail": null,
+		"attractionDetail": null,
+		"leisureDetail": null,
+		"indoorMapDetail": null
+	},
+	"editButtons": {
+		"editButtonList": [
+			{
+				"name": "정보수정 제안",
+				"type": "report",
+				"url": "\n\t\thttps://report.map.naver.com/form.nhn\n\t",
+				"nclicksName": "wronginfo",
+				"outer-class": {
+					"editButtonList": null
+				}
+			},
+			{
+				"name": "통계",
+				"type": "stats",
+				"url": "https://submit.naver.com/checkLoginType.nhn",
+				"nclicksName": "stats",
+				"outer-class": {
+					"editButtonList": null
+				}
+			}
+		]
+	},
+	"poi": {
+		"poi_info": {
+			"road": {
+				"poiShapeType": "1",
+				"shapeKey": null,
+				"boundary": null,
+				"detail": null
+			},
+			"hasRoad": false,
+			"land": null,
+			"hasLand": false,
+			"polygon": null,
+			"hasPolygon": false
+		},
+		"entrance_coord": {
+			"ENTRANCE_COORD_FIELD_SIZE": 7,
+			"entranceCoords": []
+		}
+	},
+	"thumbnail": {
+		"number": "0",
+		"url": "http://ldb.phinf.naver.net/20150901_291/1441099149211GL6fr_JPEG/166567495233538_0.jpeg",
+		"source": null,
+		"imageTabName": "baseInfo",
+		"modDate": null,
+		"hasMore": true
+	},
+	"cpDetail": {
+		"nadleDetail": null,
+		"citymapDetail": null,
+		"baeminDetail": null,
+		"onnuriDetail": null,
+		"campingzoneDetail": null,
+		"parkingModuDetail": null,
+		"toiletDetail": null,
+		"naverBookingDetail": {
+			"isShow": true,
+			"reserveUrl": "https://booking.naver.com/booking/6/bizes/354680",
+			"isNaverEasyBooking": false
+		},
+		"uokDetail": null,
+		"hiraDetail": null,
+		"tvcastDetail": null,
+		"shopwindowDetail": null,
+		"yogiyoDetail": null,
+		"cescoDetail": null,
+		"golfzonDetail": null,
+		"opinetDetail": null,
+		"yanoljaDetail": null,
+		"goodchoiceDetail": null,
+		"yeogiyaDetail": null,
+		"naverhotelDetail": null,
+		"cpMenuList": [
+			"DEFAULT"
+		],
+		"relatedLinks": {
+			"relatedLinkList": []
+		},
+		"michelinGuide": null,
+		"kozazaDetail": null,
+		"heybeautyDetail": null
+	},
+	"card": {
+		"hasBenefit": false
+	},
+	"hairshop": null
+}

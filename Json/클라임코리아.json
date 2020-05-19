@@ -1,0 +1,366 @@
+{
+	"summary": {
+		"siteInquiryType": "detail",
+		"siteType": "drt",
+		"coordinate": {
+			"x": "126.6949096",
+			"y": "37.729",
+			"mapZoomLevel": "12",
+			"isExactPosition": true
+		},
+		"id": "11697624",
+		"name": "클라임코리아",
+		"address": "경기도 파주시 신촌동 724-9",
+		"addressAbbr": "신촌동 724-9",
+		"roadAddr": {
+			"text": "경기도 파주시 신촌2로 7-22",
+			"abbrText": "신촌2로 7-22"
+		},
+		"isPollingPlace": false,
+		"isRestaurant": false,
+		"isHairshop": false,
+		"isPlaceAttraction": false,
+		"isAccommodation": false,
+		"phone": "031-945-4064",
+		"virtualPhone": "",
+		"phoneOrigin": "031-945-4064",
+		"isCallLink": false,
+		"callLinkKey": "140ed9122e183d2c277dfacd6d6ef4c3",
+		"isPremium": false,
+		"category": "스포츠,오락 &gt; 암벽등반",
+		"twoDepthCategory": "스포츠,오락 &gt; 암벽등반",
+		"lastCategory": "암벽등반",
+		"josaForLastCategory": "을",
+		"cid": "222037",
+		"homepageList": [
+			{
+				"url": "http://www.climbkorea.com/",
+				"landingUrl": "http://www.climbkorea.com/",
+				"korName": "공식",
+				"type": "normal",
+				"mUrl": "http://www.climbkorea.com/",
+				"mLandingUrl": "http://www.climbkorea.com/",
+				"className": "official",
+				"isRepresent": true,
+				"isDeadUrl": false
+			}
+		],
+		"description": "",
+		"detailedDescription": "지금까지의 사랑과 관심, 그리고 아낌없는 질책에 진심으로 감사드리며, 앞으로 상호공생과 WinWin하는 경쟁을 위해 협조체계를 구축하는 한편, 스포츠 클라이머들이 자연스럽게 자연의 산하로 옮겨갈 수 있도록 그 틀을 마련하는데 심혈을 기울이겠습니다. 더욱 많은 참여와 동참으로 저희의 미래를 열어주십시오. 끝없는 도전을 향해 나아가는 에스케이월 이라는 배의 선장은 바로 여러분입니다. 감사합니다.",
+		"descriptionForMobile": "지금까지의 사랑과 관심, 그리고 아낌없는 질책에 진심으...",
+		"moreDescriptionBtnForMobile": true,
+		"moreDetailedDescription": "",
+		"moreDetailedDescriptionUrl": "",
+		"road": "맥금동 갈현사거리에서 2km 지점 취영루 인근.",
+		"infoSource": "",
+		"infoSourceUrl": "",
+		"targetUrl": "",
+		"mobileTargetUrl": "",
+		"hasPoint": false,
+		"hasReview": false,
+		"isUserEditCheck": false,
+		"repKeywordList": null,
+		"brandDirNum": null,
+		"naverTalktalkUrlForPc": null,
+		"naverTalktalkUrlForMobile": null,
+		"isNailshop": false,
+		"isHospital": false,
+		"isNaverhotel": false
+	},
+	"bizHours": {
+		"bizHourList": [
+			{
+				"type": "평일",
+				"startTime": "09:00",
+				"endTime": "18:00",
+				"isDayOff": false,
+				"description": "",
+				"outer-class": {
+					"bizHourList": null
+				}
+			}
+		]
+	},
+	"options": {
+		"optionList": [],
+		"optionDescList": []
+	},
+	"images": {
+		"imageList": [
+			{
+				"type": "DRT",
+				"number": "1",
+				"url": "/클라임코리아_main0_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2017-08-09 01:12:08",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			},
+			{
+				"type": "DRT",
+				"number": "2",
+				"url": "/클라임코리아_main1_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2017-08-09 01:12:08",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			},
+			{
+				"type": "DRT",
+				"number": "3",
+				"url": "/클라임코리아_main2_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2017-08-09 01:12:08",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			},
+			{
+				"type": "DRT",
+				"number": "4",
+				"url": "/클라임코리아_main3_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2017-08-09 01:12:08",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			},
+			{
+				"type": "DRT",
+				"number": "5",
+				"url": "/클라임코리아_main4_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2017-08-09 01:12:08",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			}
+		]
+	},
+	"menus": {
+		"menuImage": null,
+		"menuList": []
+	},
+	"menuImages": {
+		"menuImageList": []
+	},
+	"coupon": {
+		"isShow": false,
+		"url": "",
+		"mobileUrl": ""
+	},
+	"subphones": {
+		"count": "3",
+		"subphoneList": [
+			{
+				"department": "",
+				"phone": "031-945-4060",
+				"outer-class": {
+					"count": null,
+					"subphoneList": null
+				}
+			},
+			{
+				"department": "팩스",
+				"phone": "031-945-4065",
+				"outer-class": {
+					"count": null,
+					"subphoneList": null
+				}
+			},
+			{
+				"department": "",
+				"phone": "031-945-4066",
+				"outer-class": {
+					"count": null,
+					"subphoneList": null
+				}
+			}
+		]
+	},
+	"relateInfos": {
+		"relateInfoList": []
+	},
+	"searchInterlock": {
+		"TRUE": "1",
+		"keyword": "81cbb266f007f516ba57b2d28d9f93efbe77aff667f79c9180a1745d0804ed1eef7b1f52294e1b3f655ba36a0632f4b50fa7411c079ee34b36bccb298734230c4c59da41cc37f678ea206756b727544d0957420f97d6e0aa80f1b49f2297e748",
+		"blog": "1",
+		"cafe": "1"
+	},
+	"streetPanorama": {
+		"id": "E2R2MvD+rAvVMAh09+UqRg==",
+		"pan": "-5.66",
+		"tilt": "10",
+		"lng": "126.694944",
+		"lat": "37.7286525",
+		"fov": "120"
+	},
+	"skyPanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"insidePanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"interiorPanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"indoorPanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"indoor": {
+		"floor": "",
+		"underGmid": null,
+		"underMid": "0"
+	},
+	"theme": null,
+	"themeDetail": null,
+	"editButtons": {
+		"editButtonList": [
+			{
+				"name": "정보수정 제안",
+				"type": "report",
+				"url": "\n\t\thttps://report.map.naver.com/form.nhn\n\t",
+				"nclicksName": "wronginfo",
+				"outer-class": {
+					"editButtonList": null
+				}
+			},
+			{
+				"name": "통계",
+				"type": "stats",
+				"url": "https://submit.naver.com/checkLoginType.nhn",
+				"nclicksName": "stats",
+				"outer-class": {
+					"editButtonList": null
+				}
+			}
+		]
+	},
+	"poi": {
+		"poi_info": {
+			"road": {
+				"poiShapeType": "1",
+				"shapeKey": null,
+				"boundary": null,
+				"detail": null
+			},
+			"hasRoad": false,
+			"land": null,
+			"hasLand": false,
+			"polygon": null,
+			"hasPolygon": false
+		},
+		"entrance_coord": {
+			"ENTRANCE_COORD_FIELD_SIZE": 7,
+			"entranceCoords": [
+				{
+					"isRepresentative": "1",
+					"coordType": "5",
+					"entranceCoordX": "126.6949270",
+					"entranceCoordY": "37.7287340",
+					"coordSubType": 1
+				}
+			]
+		}
+	},
+	"thumbnail": {
+		"number": "0",
+		"url": "http://ldb.phinf.naver.net/20150831_90/1441022511441iiCrW_JPEG/11697624_0.jpg",
+		"source": null,
+		"imageTabName": "baseInfo",
+		"modDate": null,
+		"hasMore": true
+	},
+	"cpDetail": {
+		"nadleDetail": null,
+		"citymapDetail": null,
+		"baeminDetail": null,
+		"onnuriDetail": null,
+		"campingzoneDetail": null,
+		"parkingModuDetail": null,
+		"toiletDetail": null,
+		"naverBookingDetail": null,
+		"uokDetail": null,
+		"hiraDetail": null,
+		"tvcastDetail": null,
+		"shopwindowDetail": null,
+		"yogiyoDetail": null,
+		"cescoDetail": null,
+		"golfzonDetail": null,
+		"opinetDetail": null,
+		"yanoljaDetail": null,
+		"goodchoiceDetail": null,
+		"yeogiyaDetail": null,
+		"naverhotelDetail": null,
+		"cpMenuList": [
+			"DEFAULT"
+		],
+		"relatedLinks": {
+			"relatedLinkList": []
+		},
+		"michelinGuide": null,
+		"kozazaDetail": null,
+		"heybeautyDetail": null
+	},
+	"card": {
+		"hasBenefit": false
+	},
+	"hairshop": null
+}

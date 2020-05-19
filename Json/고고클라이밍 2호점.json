@@ -1,0 +1,463 @@
+{
+	"summary": {
+		"siteInquiryType": "detail",
+		"siteType": "drt",
+		"coordinate": {
+			"x": "127.9369182",
+			"y": "37.3225393",
+			"mapZoomLevel": "10",
+			"isExactPosition": true
+		},
+		"id": "1846498429",
+		"name": "고고클라이밍 2호점",
+		"address": "강원도 원주시 판부면 서곡리 445-7",
+		"addressAbbr": "서곡리 445-7",
+		"roadAddr": {
+			"text": "강원도 원주시 판부면 서곡널다리길 8",
+			"abbrText": "서곡널다리길 8"
+		},
+		"isPollingPlace": false,
+		"isRestaurant": false,
+		"isHairshop": false,
+		"isPlaceAttraction": false,
+		"isAccommodation": false,
+		"phone": "033-765-0909",
+		"virtualPhone": "",
+		"phoneOrigin": "033-765-0909",
+		"isCallLink": false,
+		"callLinkKey": "217a7a9b6edf06107926f052eaba72ac",
+		"isPremium": false,
+		"category": "스포츠,오락 &gt; 암벽등반",
+		"twoDepthCategory": "스포츠,오락 &gt; 암벽등반",
+		"lastCategory": "암벽등반",
+		"josaForLastCategory": "을",
+		"cid": "222037",
+		"homepageList": [
+			{
+				"url": "http://Higogo.co.kr",
+				"landingUrl": "http://Higogo.co.kr",
+				"korName": "공식",
+				"type": "normal",
+				"mUrl": "http://Higogo.co.kr",
+				"mLandingUrl": "http://Higogo.co.kr",
+				"className": "official",
+				"isRepresent": true,
+				"isDeadUrl": false
+			},
+			{
+				"url": "http://www.instagram.com/gogoclimbing",
+				"landingUrl": "http://www.instagram.com/gogoclimbing",
+				"korName": "공식",
+				"type": "instagram",
+				"mUrl": "http://www.instagram.com/gogoclimbing",
+				"mLandingUrl": "http://www.instagram.com/gogoclimbing",
+				"className": "official",
+				"isRepresent": false,
+				"isDeadUrl": false
+			},
+			{
+				"url": "http://blog.naver.com/miniqwe",
+				"landingUrl": "http://blog.naver.com/miniqwe",
+				"korName": "블로그",
+				"type": "blog",
+				"mUrl": "http://blog.naver.com/miniqwe",
+				"mLandingUrl": "http://blog.naver.com/miniqwe",
+				"className": "blog",
+				"isRepresent": false,
+				"isDeadUrl": false
+			}
+		],
+		"description": "",
+		"detailedDescription": "좋은사람들과 함께하는 좋은운동\n강원도 최고의 시설 고고클라이밍입니다\n새로운 하루와 멋진 몸!!레져와 운동,좋은 인연을 만들어드립니다\n체계화된 강습시스템과 12명의 강사진의 강습 \n넓고 편한주차장\n모든 것이 완벽합니다!\n오시기만 하세요 나머지는 저희가 책임지겠습니다.\n원주 실내 암벽등반\n원주 실내 클라이밍\n고고 클라이밍\n",
+		"descriptionForMobile": "좋은사람들과 함께하는 좋은운동\n강원도 최고의 시설 고고...",
+		"moreDescriptionBtnForMobile": true,
+		"moreDetailedDescription": "",
+		"moreDetailedDescriptionUrl": "",
+		"road": "고고클라이밍 2호점은\n포스코 더 샾 아파트 앞에 있습니다\n단구동 무실동 명륜동 사이에 있으며\n34번 버스 이용시 동보노빌리티 아파트 하차 3분거리입니다.",
+		"infoSource": "",
+		"infoSourceUrl": "",
+		"targetUrl": "",
+		"mobileTargetUrl": "",
+		"hasPoint": false,
+		"hasReview": false,
+		"isUserEditCheck": false,
+		"repKeywordList": [
+			"원주클라이밍",
+			"클라이밍",
+			"고고클라이밍",
+			"원주운동",
+			"원주"
+		],
+		"brandDirNum": null,
+		"naverTalktalkUrlForPc": null,
+		"naverTalktalkUrlForMobile": null,
+		"isNailshop": false,
+		"isHospital": false,
+		"isNaverhotel": false
+	},
+	"bizHours": {
+		"bizHourList": [
+			{
+				"type": "평일",
+				"startTime": "12:00",
+				"endTime": "23:00",
+				"isDayOff": false,
+				"description": "",
+				"outer-class": {
+					"bizHourList": null
+				}
+			},
+			{
+				"type": "주말",
+				"startTime": "13:00",
+				"endTime": "19:00",
+				"isDayOff": false,
+				"description": "",
+				"outer-class": {
+					"bizHourList": null
+				}
+			},
+			{
+				"type": "공휴일",
+				"startTime": "13:00",
+				"endTime": "19:00",
+				"isDayOff": false,
+				"description": "",
+				"outer-class": {
+					"bizHourList": null
+				}
+			}
+		]
+	},
+	"options": {
+		"optionList": [
+			{
+				"id": "13",
+				"name": "단체석",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			},
+			{
+				"id": "2",
+				"name": "주차",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			},
+			{
+				"id": "1",
+				"name": "예약",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			},
+			{
+				"id": "7",
+				"name": "무선 인터넷",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			},
+			{
+				"id": "8",
+				"name": "남/녀 화장실 구분",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			}
+		],
+		"optionDescList": []
+	},
+	"images": {
+		"imageList": [
+			{
+				"type": "DRT",
+				"number": "1",
+				"url": "/고고클라이밍 2호점_main0_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2019-12-11 01:23:16",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			},
+			{
+				"type": "DRT",
+				"number": "2",
+				"url": "/고고클라이밍 2호점_main1_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2019-12-11 01:23:16",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			},
+			{
+				"type": "DRT",
+				"number": "3",
+				"url": "/고고클라이밍 2호점_main2_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2019-12-11 01:23:16",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			},
+			{
+				"type": "DRT",
+				"number": "4",
+				"url": "/고고클라이밍 2호점_main3_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2019-12-11 01:23:16",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			},
+			{
+				"type": "DRT",
+				"number": "5",
+				"url": "/고고클라이밍 2호점_main4_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2019-12-11 01:23:16",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			}
+		]
+	},
+	"menus": {
+		"menuImage": null,
+		"menuList": [
+			{
+				"name": "일일체험",
+				"price": "15,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			}
+		]
+	},
+	"menuImages": {
+		"menuImageList": [
+			{
+				"type": "drt",
+				"imageUrl": "http://ldb.phinf.naver.net/20190901_147/1567335033084RTfpC_JPEG/XGbnbQDpY5sUrF_9Kf7pPp4z.JPG.jpg",
+				"postUrl": null,
+				"score": null,
+				"updateDate": "2020-02-17 19:38:54",
+				"source": null
+			},
+			{
+				"type": "drt",
+				"imageUrl": "http://ldb.phinf.naver.net/20190901_137/15673350455874lvTD_JPEG/of3wh-MytO6eiAAzMO32Hygb.jpg",
+				"postUrl": null,
+				"score": null,
+				"updateDate": "2020-02-17 19:38:54",
+				"source": null
+			},
+			{
+				"type": "drt",
+				"imageUrl": "http://ldb.phinf.naver.net/20190901_236/15673350468671sP00_JPEG/FzPTrorZIGDgwdR6sJDfwazP.JPG.jpg",
+				"postUrl": null,
+				"score": null,
+				"updateDate": "2020-02-17 19:38:54",
+				"source": null
+			}
+		]
+	},
+	"coupon": {
+		"isShow": false,
+		"url": "",
+		"mobileUrl": ""
+	},
+	"subphones": {
+		"count": "0",
+		"subphoneList": []
+	},
+	"relateInfos": {
+		"relateInfoList": []
+	},
+	"searchInterlock": {
+		"TRUE": "1",
+		"keyword": "f525cf772902dbcef952829f54fb6021938132ad84d782e7d6e984fefb874ad8acb29214420818afbbc7c1ef16607eb2432b903cb67b8e44792f782f6b32cb09a97d02e0764eff2d14e25d2bfcf181c5ac3663e47eda26a628325ce2dec603b7d8e699086dbb6bdd4516758e6e42c464",
+		"blog": "1",
+		"cafe": "1"
+	},
+	"streetPanorama": {
+		"id": "1SRy7zY/8S8SynmuTbTJTQ==",
+		"pan": "103.81",
+		"tilt": "10",
+		"lng": "127.936745",
+		"lat": "37.3225817",
+		"fov": "120"
+	},
+	"skyPanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"insidePanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"interiorPanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"indoorPanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"indoor": {
+		"floor": "",
+		"underGmid": null,
+		"underMid": "0"
+	},
+	"theme": null,
+	"themeDetail": null,
+	"editButtons": {
+		"editButtonList": [
+			{
+				"name": "정보수정 제안",
+				"type": "report",
+				"url": "\n\t\thttps://report.map.naver.com/form.nhn\n\t",
+				"nclicksName": "wronginfo",
+				"outer-class": {
+					"editButtonList": null
+				}
+			},
+			{
+				"name": "통계",
+				"type": "stats",
+				"url": "https://submit.naver.com/checkLoginType.nhn",
+				"nclicksName": "stats",
+				"outer-class": {
+					"editButtonList": null
+				}
+			}
+		]
+	},
+	"poi": {
+		"poi_info": {
+			"road": {
+				"poiShapeType": "1",
+				"shapeKey": null,
+				"boundary": null,
+				"detail": null
+			},
+			"hasRoad": false,
+			"land": null,
+			"hasLand": false,
+			"polygon": null,
+			"hasPolygon": false
+		},
+		"entrance_coord": {
+			"ENTRANCE_COORD_FIELD_SIZE": 7,
+			"entranceCoords": []
+		}
+	},
+	"thumbnail": {
+		"number": "0",
+		"url": "http://ldb.phinf.naver.net/20190330_258/1553938553560RWlXX_JPEG/VtUpqiJhuLXylpWW2HapQSoW.jpg",
+		"source": null,
+		"imageTabName": "baseInfo",
+		"modDate": null,
+		"hasMore": true
+	},
+	"cpDetail": {
+		"nadleDetail": null,
+		"citymapDetail": null,
+		"baeminDetail": null,
+		"onnuriDetail": null,
+		"campingzoneDetail": null,
+		"parkingModuDetail": null,
+		"toiletDetail": null,
+		"naverBookingDetail": null,
+		"uokDetail": null,
+		"hiraDetail": null,
+		"tvcastDetail": null,
+		"shopwindowDetail": null,
+		"yogiyoDetail": null,
+		"cescoDetail": null,
+		"golfzonDetail": null,
+		"opinetDetail": null,
+		"yanoljaDetail": null,
+		"goodchoiceDetail": null,
+		"yeogiyaDetail": null,
+		"naverhotelDetail": null,
+		"cpMenuList": [
+			"DEFAULT"
+		],
+		"relatedLinks": {
+			"relatedLinkList": []
+		},
+		"michelinGuide": null,
+		"kozazaDetail": null,
+		"heybeautyDetail": null
+	},
+	"card": {
+		"hasBenefit": false
+	},
+	"hairshop": null
+}

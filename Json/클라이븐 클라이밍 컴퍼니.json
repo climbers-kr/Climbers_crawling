@@ -1,0 +1,469 @@
+{
+	"summary": {
+		"siteInquiryType": "detail",
+		"siteType": "drt",
+		"coordinate": {
+			"x": "126.9171662",
+			"y": "35.1468306",
+			"mapZoomLevel": "8",
+			"isExactPosition": true
+		},
+		"id": "37749592",
+		"name": "클라이븐 클라이밍 컴퍼니",
+		"address": "광주광역시 동구 황금동 74",
+		"addressAbbr": "황금동 74",
+		"roadAddr": {
+			"text": "광주광역시 동구 충장로안길 40-2",
+			"abbrText": "충장로안길 40-2"
+		},
+		"isPollingPlace": false,
+		"isRestaurant": false,
+		"isHairshop": false,
+		"isPlaceAttraction": false,
+		"isAccommodation": false,
+		"phone": "062-236-5051",
+		"virtualPhone": "0507-1443-5051",
+		"phoneOrigin": "062-236-5051",
+		"isCallLink": false,
+		"callLinkKey": "518db7c58893602118a8481ea524d851",
+		"isPremium": false,
+		"category": "스포츠,오락 &gt; 암벽등반",
+		"twoDepthCategory": "스포츠,오락 &gt; 암벽등반",
+		"lastCategory": "암벽등반",
+		"josaForLastCategory": "을",
+		"cid": "222037",
+		"homepageList": [
+			{
+				"url": "http://climben.blog.me/",
+				"landingUrl": "http://climben.blog.me/",
+				"korName": "블로그",
+				"type": "blog",
+				"mUrl": "http://climben.blog.me/",
+				"mLandingUrl": "http://climben.blog.me/",
+				"className": "blog",
+				"isRepresent": true,
+				"isDeadUrl": false
+			},
+			{
+				"url": "http://facebook.com/climbenclimbingcompany/",
+				"landingUrl": "http://facebook.com/climbenclimbingcompany/",
+				"korName": "공식",
+				"type": "facebook",
+				"mUrl": "http://facebook.com/climbenclimbingcompany/",
+				"mLandingUrl": "http://facebook.com/climbenclimbingcompany/",
+				"className": "official",
+				"isRepresent": false,
+				"isDeadUrl": false
+			},
+			{
+				"url": "http://www.instagram.com/climben_climbing_company/",
+				"landingUrl": "http://www.instagram.com/climben_climbing_company/",
+				"korName": "공식",
+				"type": "instagram",
+				"mUrl": "http://www.instagram.com/climben_climbing_company/",
+				"mLandingUrl": "http://www.instagram.com/climben_climbing_company/",
+				"className": "official",
+				"isRepresent": false,
+				"isDeadUrl": false
+			}
+		],
+		"description": "",
+		"detailedDescription": "안녕하세요~\n클라이븐 클라이밍 컴퍼니 입니다.\n저희는 현 국내최대 클라이밍 / 볼더링 시설로\n\n1. 압도적인 높이의 볼더링 구역\n2. 실내에서 경험하는 리드 클라이밍 구역(로프 등반)\n3. 초보자들부터 체계적인 연습이 가능한 트레이닝 구역\n4. 편안한 휴식공간\n5. 다양한 용품을 직접 보고 구입할수 있는 매장\n으로 구성되어있습니다.\n\n초보자 부터 고급자까지 수준별 맞춤형 강습과 재밌는 이벤트들,\n그리고 아웃도어에서 즐기는 등반과 등반외에 다양한 활동들까지...\n\n클라이븐이 여러분의 일상에 도전과 모험을 함께하고 싶습니다~",
+		"descriptionForMobile": "안녕하세요~\n클라이븐 클라이밍 컴퍼니 입니다.\n저희는 ...",
+		"moreDescriptionBtnForMobile": true,
+		"moreDetailedDescription": "",
+		"moreDetailedDescriptionUrl": "",
+		"road": "충장로 우체국 사거리에서 학생회관 정문(버거킹 방향) 바로 맞은편에 저희 간판이 보여요.\n거기로 들어오셔서 엘레베이터에 4층을 누르면 클라이븐입니다~",
+		"infoSource": "",
+		"infoSourceUrl": "",
+		"targetUrl": "",
+		"mobileTargetUrl": "",
+		"hasPoint": false,
+		"hasReview": false,
+		"isUserEditCheck": false,
+		"repKeywordList": [
+			"클라이밍",
+			"암벽등반",
+			"볼더링",
+			"초보자강습",
+			"용품판매"
+		],
+		"brandDirNum": null,
+		"naverTalktalkUrlForPc": null,
+		"naverTalktalkUrlForMobile": null,
+		"isNailshop": false,
+		"isHospital": false,
+		"isNaverhotel": false
+	},
+	"bizHours": {
+		"bizHourList": [
+			{
+				"type": "평일",
+				"startTime": "12:00",
+				"endTime": "01:00",
+				"isDayOff": false,
+				"description": "",
+				"outer-class": {
+					"bizHourList": null
+				}
+			},
+			{
+				"type": "주말",
+				"startTime": "12:00",
+				"endTime": "20:00",
+				"isDayOff": false,
+				"description": "",
+				"outer-class": {
+					"bizHourList": null
+				}
+			},
+			{
+				"type": "공휴일",
+				"startTime": "12:00",
+				"endTime": "20:00",
+				"isDayOff": false,
+				"description": "",
+				"outer-class": {
+					"bizHourList": null
+				}
+			}
+		]
+	},
+	"options": {
+		"optionList": [
+			{
+				"id": "2",
+				"name": "주차",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			},
+			{
+				"id": "1",
+				"name": "예약",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			},
+			{
+				"id": "7",
+				"name": "무선 인터넷",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			},
+			{
+				"id": "8",
+				"name": "남/녀 화장실 구분",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			}
+		],
+		"optionDescList": []
+	},
+	"images": {
+		"imageList": [
+			{
+				"type": "DRT",
+				"number": "1",
+				"url": "/클라이븐 클라이밍 컴퍼니_main0_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2017-08-09 04:44:56",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			},
+			{
+				"type": "DRT",
+				"number": "2",
+				"url": "/클라이븐 클라이밍 컴퍼니_main1_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2017-08-09 04:44:56",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			},
+			{
+				"type": "DRT",
+				"number": "3",
+				"url": "/클라이븐 클라이밍 컴퍼니_main2_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2017-08-09 04:44:56",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			},
+			{
+				"type": "DRT",
+				"number": "4",
+				"url": "/클라이븐 클라이밍 컴퍼니_main3_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2017-08-09 04:44:56",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			},
+			{
+				"type": "DRT",
+				"number": "5",
+				"url": "/클라이븐 클라이밍 컴퍼니_main4_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2017-08-09 04:44:56",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			}
+		]
+	},
+	"menus": {
+		"menuImage": null,
+		"menuList": [
+			{
+				"name": "1일",
+				"price": "20,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "1개월",
+				"price": "100,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "3개월",
+				"price": "270,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "6개월",
+				"price": "500,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "1년",
+				"price": "900,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			}
+		]
+	},
+	"menuImages": {
+		"menuImageList": []
+	},
+	"coupon": {
+		"isShow": false,
+		"url": "",
+		"mobileUrl": ""
+	},
+	"subphones": {
+		"count": "0",
+		"subphoneList": []
+	},
+	"relateInfos": {
+		"relateInfoList": []
+	},
+	"searchInterlock": {
+		"TRUE": "1",
+		"keyword": "bea7f664867ac6cf750fa606ac2851e0",
+		"blog": "1",
+		"cafe": "1"
+	},
+	"streetPanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"skyPanorama": {
+		"id": "ug3Q3CxeSWpkReLDXnmBxQ==",
+		"pan": "89.16",
+		"tilt": "-30",
+		"lng": "126.9150009",
+		"lat": "35.1467972",
+		"fov": "124"
+	},
+	"insidePanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"interiorPanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"indoorPanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"indoor": {
+		"floor": "",
+		"underGmid": null,
+		"underMid": "0"
+	},
+	"theme": null,
+	"themeDetail": null,
+	"editButtons": {
+		"editButtonList": [
+			{
+				"name": "정보수정 제안",
+				"type": "report",
+				"url": "\n\t\thttps://report.map.naver.com/form.nhn\n\t",
+				"nclicksName": "wronginfo",
+				"outer-class": {
+					"editButtonList": null
+				}
+			},
+			{
+				"name": "통계",
+				"type": "stats",
+				"url": "https://submit.naver.com/checkLoginType.nhn",
+				"nclicksName": "stats",
+				"outer-class": {
+					"editButtonList": null
+				}
+			}
+		]
+	},
+	"poi": {
+		"poi_info": {
+			"road": {
+				"poiShapeType": "1",
+				"shapeKey": null,
+				"boundary": null,
+				"detail": null
+			},
+			"hasRoad": false,
+			"land": null,
+			"hasLand": false,
+			"polygon": null,
+			"hasPolygon": false
+		},
+		"entrance_coord": {
+			"ENTRANCE_COORD_FIELD_SIZE": 7,
+			"entranceCoords": []
+		}
+	},
+	"thumbnail": {
+		"number": "0",
+		"url": "http://ldb.phinf.naver.net/20160630_290/1467258956871iIFLH_JPEG/176580528572665_9.jpeg",
+		"source": null,
+		"imageTabName": "baseInfo",
+		"modDate": null,
+		"hasMore": true
+	},
+	"cpDetail": {
+		"nadleDetail": null,
+		"citymapDetail": null,
+		"baeminDetail": null,
+		"onnuriDetail": null,
+		"campingzoneDetail": null,
+		"parkingModuDetail": null,
+		"toiletDetail": null,
+		"naverBookingDetail": null,
+		"uokDetail": null,
+		"hiraDetail": null,
+		"tvcastDetail": null,
+		"shopwindowDetail": null,
+		"yogiyoDetail": null,
+		"cescoDetail": null,
+		"golfzonDetail": null,
+		"opinetDetail": null,
+		"yanoljaDetail": null,
+		"goodchoiceDetail": null,
+		"yeogiyaDetail": null,
+		"naverhotelDetail": null,
+		"cpMenuList": [
+			"DEFAULT"
+		],
+		"relatedLinks": {
+			"relatedLinkList": []
+		},
+		"michelinGuide": null,
+		"kozazaDetail": null,
+		"heybeautyDetail": null
+	},
+	"card": {
+		"hasBenefit": false
+	},
+	"hairshop": null
+}

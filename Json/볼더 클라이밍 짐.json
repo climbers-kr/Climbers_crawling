@@ -1,0 +1,461 @@
+{
+	"summary": {
+		"siteInquiryType": "detail",
+		"siteType": "drt",
+		"coordinate": {
+			"x": "127.0535853",
+			"y": "37.6777761",
+			"mapZoomLevel": "8",
+			"isExactPosition": true
+		},
+		"id": "37351333",
+		"name": "볼더 클라이밍 짐",
+		"address": "서울특별시 노원구 상계동 1110",
+		"addressAbbr": "상계동 1110",
+		"roadAddr": {
+			"text": "서울특별시 노원구 동일로241길 53 202~209호",
+			"abbrText": "동일로241길 53"
+		},
+		"isPollingPlace": false,
+		"isRestaurant": false,
+		"isHairshop": false,
+		"isPlaceAttraction": false,
+		"isAccommodation": false,
+		"phone": "070-4696-3270",
+		"virtualPhone": "",
+		"phoneOrigin": "070-4696-3270",
+		"isCallLink": false,
+		"callLinkKey": "66ee8326f4550a7952c4e98b2754e4e0",
+		"isPremium": false,
+		"category": "스포츠,오락 &gt; 암벽등반",
+		"twoDepthCategory": "스포츠,오락 &gt; 암벽등반",
+		"lastCategory": "암벽등반",
+		"josaForLastCategory": "을",
+		"cid": "222037",
+		"homepageList": [
+			{
+				"url": "http://cafe.daum.net/we-climbingcenter",
+				"landingUrl": "http://cafe.daum.net/we-climbingcenter",
+				"korName": "공식",
+				"type": "normal",
+				"mUrl": "http://cafe.daum.net/we-climbingcenter",
+				"mLandingUrl": "http://cafe.daum.net/we-climbingcenter",
+				"className": "official",
+				"isRepresent": true,
+				"isDeadUrl": false
+			}
+		],
+		"description": "",
+		"detailedDescription": "**4/5일 까지 휴무입니다. 이용에 참고 부탁드립니다.**\n\n남녀노소 즐기는 볼더 클라이밍 짐입니다!\n\n숙련된 베테랑 전문강사가 안전을 최우선으로 정성껏 지도하기 때문에 클라이밍을 처음 시작하시는 초보자 분들도 쉽게 배우실 수 있습니다.\n삶의 활기와 건강을 지켜갈수 있는 클라이밍에 도전해보세요!\n\n* 실내클라이밍의 장점 *\n1. 날씨와 관계없이 자유롭게 즐길 수 있는 스포츠\n2. 걷기, 조깅 등의 유산소 운동보다 큰 칼로리 소모량\n3. 전신 근육 자극을 통해 균형 잡힌 몸매 완성\n4. 다른 운동에 비해 큰 재미와 성취감",
+		"descriptionForMobile": "**4/5일 까지 휴무입니다. 이용에 참고 부탁드립니다...",
+		"moreDescriptionBtnForMobile": true,
+		"moreDetailedDescription": "",
+		"moreDetailedDescriptionUrl": "",
+		"road": "수락산역 4,5번 출구 3분거리 두산아파트 상가2층\n수락산역 공항버스터미널 건너편 두산아파트로 들어 오시면 됩니다.",
+		"infoSource": "",
+		"infoSourceUrl": "",
+		"targetUrl": "",
+		"mobileTargetUrl": "",
+		"hasPoint": false,
+		"hasReview": false,
+		"isUserEditCheck": false,
+		"repKeywordList": [
+			"클라이밍",
+			"암벽등반",
+			"실내클라이밍",
+			"다이어트",
+			"레포츠"
+		],
+		"brandDirNum": null,
+		"naverTalktalkUrlForPc": null,
+		"naverTalktalkUrlForMobile": null,
+		"isNailshop": false,
+		"isHospital": false,
+		"isNaverhotel": false
+	},
+	"bizHours": {
+		"bizHourList": [
+			{
+				"type": "평일",
+				"startTime": "10:00",
+				"endTime": "23:00",
+				"isDayOff": false,
+				"description": "",
+				"outer-class": {
+					"bizHourList": null
+				}
+			},
+			{
+				"type": "토요일",
+				"startTime": "10:00",
+				"endTime": "18:00",
+				"isDayOff": false,
+				"description": "일요일공휴일휴무",
+				"outer-class": {
+					"bizHourList": null
+				}
+			}
+		]
+	},
+	"options": {
+		"optionList": [
+			{
+				"id": "2",
+				"name": "주차",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			},
+			{
+				"id": "1",
+				"name": "예약",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			},
+			{
+				"id": "7",
+				"name": "무선 인터넷",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			},
+			{
+				"id": "8",
+				"name": "남/녀 화장실 구분",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			}
+		],
+		"optionDescList": []
+	},
+	"images": {
+		"imageList": [
+			{
+				"type": "DRT",
+				"number": "1",
+				"url": "/볼더 클라이밍 짐_main0_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2019-07-10 15:50:35",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			},
+			{
+				"type": "DRT",
+				"number": "2",
+				"url": "/볼더 클라이밍 짐_main1_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2019-07-10 15:50:35",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			},
+			{
+				"type": "DRT",
+				"number": "3",
+				"url": "/볼더 클라이밍 짐_main2_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2019-07-10 15:50:35",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			},
+			{
+				"type": "DRT",
+				"number": "4",
+				"url": "/볼더 클라이밍 짐_main3_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2019-07-10 15:50:35",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			},
+			{
+				"type": "DRT",
+				"number": "5",
+				"url": "/볼더 클라이밍 짐_main4_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2019-07-10 15:50:35",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			}
+		]
+	},
+	"menus": {
+		"menuImage": null,
+		"menuList": [
+			{
+				"name": "1시간 체험권 (기초강습,장비렌탈 포함)",
+				"price": "20,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "1일 종일권 (기초강습,장비렌탈 포함)",
+				"price": "30,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "1개월 주말권 (정규강습1회, 장비렌탈 포함)",
+				"price": "90,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "1개월 정기권 (기초강습,장비렌탈 포함)",
+				"price": "110,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "1개월 강습권 (정규강습8회,장비렌탈 포함)",
+				"price": "160,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			}
+		]
+	},
+	"menuImages": {
+		"menuImageList": []
+	},
+	"coupon": {
+		"isShow": false,
+		"url": "",
+		"mobileUrl": ""
+	},
+	"subphones": {
+		"count": "0",
+		"subphoneList": []
+	},
+	"relateInfos": {
+		"relateInfoList": []
+	},
+	"searchInterlock": {
+		"TRUE": "1",
+		"keyword": "6792c4a2c047f71e8ba020bc316a2218e38df78544c13decd13b330b806cc9719ead38d9fe3f083dcac4d467fc7d135a2ece62ec02af2cda5fd6be58aa00e1c669e0b6280fe19a54e6b70a047084cad379cfab6caae151fd9338f040510a33ca",
+		"blog": "1",
+		"cafe": "1"
+	},
+	"streetPanorama": {
+		"id": "c+vC4Gc+TuPcd0+QesI3wQ==",
+		"pan": "111.75",
+		"tilt": "10",
+		"lng": "127.0535114",
+		"lat": "37.6778055",
+		"fov": "120"
+	},
+	"skyPanorama": {
+		"id": "/qRy9u2MX2QYKHa0nB5Zrw==",
+		"pan": "167.91",
+		"tilt": "-30",
+		"lng": "127.0530472",
+		"lat": "37.6802711",
+		"fov": "124"
+	},
+	"insidePanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"interiorPanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"indoorPanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"indoor": {
+		"floor": "",
+		"underGmid": null,
+		"underMid": "0"
+	},
+	"theme": {
+		"isMovie": false,
+		"isOpinet": false,
+		"isWingbus": false,
+		"isWingspoon": false,
+		"isHospital": false,
+		"isLand": false,
+		"isSubway": false,
+		"isStation": false,
+		"isTerminal": false,
+		"isAirport": false,
+		"isAttraction": false,
+		"isLeisure": false,
+		"isIndoorMap": false,
+		"extKey": "239945"
+	},
+	"themeDetail": {
+		"movieDetail": null,
+		"attractionDetail": null,
+		"leisureDetail": null,
+		"indoorMapDetail": null
+	},
+	"editButtons": {
+		"editButtonList": [
+			{
+				"name": "정보수정 제안",
+				"type": "report",
+				"url": "\n\t\thttps://report.map.naver.com/form.nhn\n\t",
+				"nclicksName": "wronginfo",
+				"outer-class": {
+					"editButtonList": null
+				}
+			},
+			{
+				"name": "통계",
+				"type": "stats",
+				"url": "https://submit.naver.com/checkLoginType.nhn",
+				"nclicksName": "stats",
+				"outer-class": {
+					"editButtonList": null
+				}
+			}
+		]
+	},
+	"poi": {
+		"poi_info": {
+			"road": {
+				"poiShapeType": "1",
+				"shapeKey": null,
+				"boundary": null,
+				"detail": null
+			},
+			"hasRoad": false,
+			"land": null,
+			"hasLand": false,
+			"polygon": null,
+			"hasPolygon": false
+		},
+		"entrance_coord": {
+			"ENTRANCE_COORD_FIELD_SIZE": 7,
+			"entranceCoords": []
+		}
+	},
+	"thumbnail": {
+		"number": "0",
+		"url": "http://ldb.phinf.naver.net/20190710_191/1562741418897x7SPg_JPEG/banner-2_%281%29.jpg",
+		"source": null,
+		"imageTabName": "baseInfo",
+		"modDate": null,
+		"hasMore": true
+	},
+	"cpDetail": {
+		"nadleDetail": null,
+		"citymapDetail": null,
+		"baeminDetail": null,
+		"onnuriDetail": null,
+		"campingzoneDetail": null,
+		"parkingModuDetail": null,
+		"toiletDetail": null,
+		"naverBookingDetail": {
+			"isShow": true,
+			"reserveUrl": "https://booking.naver.com/booking/5/bizes/239945",
+			"isNaverEasyBooking": false
+		},
+		"uokDetail": null,
+		"hiraDetail": null,
+		"tvcastDetail": null,
+		"shopwindowDetail": null,
+		"yogiyoDetail": null,
+		"cescoDetail": null,
+		"golfzonDetail": null,
+		"opinetDetail": null,
+		"yanoljaDetail": null,
+		"goodchoiceDetail": null,
+		"yeogiyaDetail": null,
+		"naverhotelDetail": null,
+		"cpMenuList": [
+			"DEFAULT"
+		],
+		"relatedLinks": {
+			"relatedLinkList": []
+		},
+		"michelinGuide": null,
+		"kozazaDetail": null,
+		"heybeautyDetail": null
+	},
+	"card": {
+		"hasBenefit": false
+	},
+	"hairshop": null
+}

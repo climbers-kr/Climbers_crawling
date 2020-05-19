@@ -1,0 +1,458 @@
+{
+	"summary": {
+		"siteInquiryType": "detail",
+		"siteType": "drt",
+		"coordinate": {
+			"x": "126.7234711",
+			"y": "37.4938806",
+			"mapZoomLevel": "8",
+			"isExactPosition": true
+		},
+		"id": "1670562487",
+		"name": "큐브클라이밍짐",
+		"address": "인천광역시 부평구 부평동 199-1",
+		"addressAbbr": "부평동 199-1",
+		"roadAddr": {
+			"text": "인천광역시 부평구 부평문화로 64 3층",
+			"abbrText": "부평문화로 64"
+		},
+		"isPollingPlace": false,
+		"isRestaurant": false,
+		"isHairshop": false,
+		"isPlaceAttraction": false,
+		"isAccommodation": false,
+		"phone": "032-505-2345",
+		"virtualPhone": "0507-1439-2349",
+		"phoneOrigin": "032-505-2345",
+		"isCallLink": false,
+		"callLinkKey": "9af158e5b02a320b3d73e2ac5c186ecc",
+		"isPremium": false,
+		"category": "스포츠,오락 &gt; 암벽등반",
+		"twoDepthCategory": "스포츠,오락 &gt; 암벽등반",
+		"lastCategory": "암벽등반",
+		"josaForLastCategory": "을",
+		"cid": "222037",
+		"homepageList": [
+			{
+				"url": "http://cafe.naver.com/cubeclimbing.cafe",
+				"landingUrl": "http://cafe.naver.com/cubeclimbing.cafe",
+				"korName": "카페",
+				"type": "cafe",
+				"mUrl": "http://cafe.naver.com/cubeclimbing.cafe",
+				"mLandingUrl": "http://cafe.naver.com/cubeclimbing.cafe",
+				"className": "cafe",
+				"isRepresent": true,
+				"isDeadUrl": false
+			},
+			{
+				"url": "http://www.instagram.com/cubeclimbinggym",
+				"landingUrl": "http://www.instagram.com/cubeclimbinggym",
+				"korName": "공식",
+				"type": "instagram",
+				"mUrl": "http://www.instagram.com/cubeclimbinggym",
+				"mLandingUrl": "http://www.instagram.com/cubeclimbinggym",
+				"className": "official",
+				"isRepresent": false,
+				"isDeadUrl": false
+			}
+		],
+		"description": "",
+		"detailedDescription": "클라이밍은 웨이트 트레이닝이 아닌 보디 트레이닝으로써 몸에 밸런스를 깨지 않게 트레이닝이 가능하며 다른 운동보다 운동강도뿐만 아니라 집중력 또한 필요한 스포츠입니다.\n기본적으로 팔힘으로만 하는 운동이 아닌 코어, 등, 하체 등 전신의 근육이 필요로 하므로 근력 향상, 다이어트에도 좋은 운동입니다.\n큐브 클라이밍 짐은 오락시설(탁구대), 탈의실, 샤워실, 개인 운동공간, 요가 시설, 와이파이, 핸드폰 충전기 등 편의시설을 갖추고 있으며 3층, 4층, 야외가 있기 때문에 넓고 쾌적한 환경에서 운동하실 수 있습니다.\n관심 있으신 분들은 언제든지 방문하셔서 구경해보시고 상담받으시길 바랍니다.\n032-505-2345",
+		"descriptionForMobile": "클라이밍은 웨이트 트레이닝이 아닌 보디 트레이닝으로써 ...",
+		"moreDescriptionBtnForMobile": true,
+		"moreDetailedDescription": "",
+		"moreDetailedDescriptionUrl": "",
+		"road": "*대중교통\n<부평역> 인천라인 밑 1호선 급행을 타시면 빠르게 오실수 있습니다.\n1호선 급행기준 (신길에서 25분) \n-지하상가로 오실경우 29,31번 방향으로 걸어오셔서 28번 출구로 올라오시면 됩니다.\n28번 출구로 올라오셔서 바로 왼쪽에 있는 건물이니 쭉걸어가시지 마시고 올라오신 방향반대로 5m 만 걸어와주세요.\n-지하상가에 출구가 많아 다소 복잡할수있으니 지상으로 올라오셔서 큐브 클라이밍을 치고 오셔도 됩니다.\n맥도날드(부평중앙)점 맞은편에 있음\n*차로 오실경우\n-차로 오실경우 부평 썬주차장을 치고오셔서 지정된 주차장에 주차하시면 됩니다.\n주차권은 70분 무료이용이고 이후에 발생되는 금액은 개인이 지불하셔야 합니다.",
+		"infoSource": "",
+		"infoSourceUrl": "",
+		"targetUrl": "",
+		"mobileTargetUrl": "",
+		"hasPoint": false,
+		"hasReview": false,
+		"isUserEditCheck": false,
+		"repKeywordList": [
+			"클라이밍",
+			"볼더링",
+			"암벽등반",
+			"운동",
+			"다이어트"
+		],
+		"brandDirNum": null,
+		"naverTalktalkUrlForPc": null,
+		"naverTalktalkUrlForMobile": null,
+		"isNailshop": false,
+		"isHospital": false,
+		"isNaverhotel": false
+	},
+	"bizHours": {
+		"bizHourList": [
+			{
+				"type": "평일",
+				"startTime": "14:00",
+				"endTime": "23:00",
+				"isDayOff": false,
+				"description": "",
+				"outer-class": {
+					"bizHourList": null
+				}
+			},
+			{
+				"type": "금요일",
+				"startTime": "14:00",
+				"endTime": "22:00",
+				"isDayOff": false,
+				"description": "",
+				"outer-class": {
+					"bizHourList": null
+				}
+			},
+			{
+				"type": "주말",
+				"startTime": "12:00",
+				"endTime": "19:00",
+				"isDayOff": false,
+				"description": "",
+				"outer-class": {
+					"bizHourList": null
+				}
+			}
+		]
+	},
+	"options": {
+		"optionList": [
+			{
+				"id": "2",
+				"name": "주차",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			},
+			{
+				"id": "7",
+				"name": "무선 인터넷",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			},
+			{
+				"id": "8",
+				"name": "남/녀 화장실 구분",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			}
+		],
+		"optionDescList": []
+	},
+	"images": {
+		"imageList": [
+			{
+				"type": "DRT",
+				"number": "1",
+				"url": "/큐브클라이밍짐_main0_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2017-10-19 14:25:39",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			},
+			{
+				"type": "DRT",
+				"number": "2",
+				"url": "/큐브클라이밍짐_main1_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2017-10-19 14:25:39",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			},
+			{
+				"type": "DRT",
+				"number": "3",
+				"url": "/큐브클라이밍짐_main2_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2017-10-19 14:25:39",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			},
+			{
+				"type": "DRT",
+				"number": "4",
+				"url": "/큐브클라이밍짐_main3_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2017-10-19 14:25:39",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			},
+			{
+				"type": "DRT",
+				"number": "5",
+				"url": "/큐브클라이밍짐_main4_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2017-10-19 14:25:39",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			}
+		]
+	},
+	"menus": {
+		"menuImage": null,
+		"menuList": [
+			{
+				"name": "일일이용권",
+				"price": "20,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "일일체험권 *예약필수",
+				"price": "25,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "1개월",
+				"price": "110,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "3개월",
+				"price": "270,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "6개월",
+				"price": "470,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			}
+		]
+	},
+	"menuImages": {
+		"menuImageList": [
+			{
+				"type": "drt",
+				"imageUrl": "http://ldb.phinf.naver.net/20190820_131/1566286858386rHjlT_JPEG/YrqixWuWtQE11LGDJl5JvxKs.jpg",
+				"postUrl": null,
+				"score": null,
+				"updateDate": "2019-08-20 16:41:14",
+				"source": null
+			}
+		]
+	},
+	"coupon": {
+		"isShow": false,
+		"url": "",
+		"mobileUrl": ""
+	},
+	"subphones": {
+		"count": "0",
+		"subphoneList": []
+	},
+	"relateInfos": {
+		"relateInfoList": []
+	},
+	"searchInterlock": {
+		"TRUE": "1",
+		"keyword": "081c1b1ec06f701a8826baad1e09317ecbc43e060c22084d2618c6b4bca894d33f7a412a8ff08547e9471519cabbe7e050edc5fd803a4d3cccb8a7666fa432080a7111784ee72f218f7ee5292b99782fa4b5548435e0e630c21746dfcdc1e987",
+		"blog": "1",
+		"cafe": "1"
+	},
+	"streetPanorama": {
+		"id": "Fzyj0yzyxaNmdf5qLpEQ+g==",
+		"pan": "-177.53",
+		"tilt": "10",
+		"lng": "126.7234763",
+		"lat": "37.4939971",
+		"fov": "120"
+	},
+	"skyPanorama": {
+		"id": "UOiUnX/SJ3K8o/UU3j8TDQ==",
+		"pan": "90.43",
+		"tilt": "-30",
+		"lng": "126.7222214",
+		"lat": "37.4938889",
+		"fov": "124"
+	},
+	"insidePanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"interiorPanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"indoorPanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"indoor": {
+		"floor": "",
+		"underGmid": null,
+		"underMid": "0"
+	},
+	"theme": null,
+	"themeDetail": null,
+	"editButtons": {
+		"editButtonList": [
+			{
+				"name": "정보수정 제안",
+				"type": "report",
+				"url": "\n\t\thttps://report.map.naver.com/form.nhn\n\t",
+				"nclicksName": "wronginfo",
+				"outer-class": {
+					"editButtonList": null
+				}
+			},
+			{
+				"name": "통계",
+				"type": "stats",
+				"url": "https://submit.naver.com/checkLoginType.nhn",
+				"nclicksName": "stats",
+				"outer-class": {
+					"editButtonList": null
+				}
+			}
+		]
+	},
+	"poi": {
+		"poi_info": {
+			"road": {
+				"poiShapeType": "1",
+				"shapeKey": null,
+				"boundary": null,
+				"detail": null
+			},
+			"hasRoad": false,
+			"land": null,
+			"hasLand": false,
+			"polygon": null,
+			"hasPolygon": false
+		},
+		"entrance_coord": {
+			"ENTRANCE_COORD_FIELD_SIZE": 7,
+			"entranceCoords": []
+		}
+	},
+	"thumbnail": {
+		"number": "0",
+		"url": "http://ldb.phinf.naver.net/20171017_101/1508221469396LVIFt_JPEG/26WkYHwjuqH2ecFEFP0328Mi.jpg",
+		"source": null,
+		"imageTabName": "baseInfo",
+		"modDate": null,
+		"hasMore": true
+	},
+	"cpDetail": {
+		"nadleDetail": null,
+		"citymapDetail": null,
+		"baeminDetail": null,
+		"onnuriDetail": null,
+		"campingzoneDetail": null,
+		"parkingModuDetail": null,
+		"toiletDetail": null,
+		"naverBookingDetail": null,
+		"uokDetail": null,
+		"hiraDetail": null,
+		"tvcastDetail": null,
+		"shopwindowDetail": null,
+		"yogiyoDetail": null,
+		"cescoDetail": null,
+		"golfzonDetail": null,
+		"opinetDetail": null,
+		"yanoljaDetail": null,
+		"goodchoiceDetail": null,
+		"yeogiyaDetail": null,
+		"naverhotelDetail": null,
+		"cpMenuList": [
+			"DEFAULT"
+		],
+		"relatedLinks": {
+			"relatedLinkList": []
+		},
+		"michelinGuide": null,
+		"kozazaDetail": null,
+		"heybeautyDetail": null
+	},
+	"card": {
+		"hasBenefit": false
+	},
+	"hairshop": null
+}

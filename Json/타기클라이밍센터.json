@@ -1,0 +1,553 @@
+{
+	"summary": {
+		"siteInquiryType": "detail",
+		"siteType": "drt",
+		"coordinate": {
+			"x": "127.5023823",
+			"y": "36.6040049",
+			"mapZoomLevel": "12",
+			"isExactPosition": true
+		},
+		"id": "11633101",
+		"name": "타기클라이밍센터",
+		"address": "충청북도 청주시 상당구 방서동 206-1",
+		"addressAbbr": "방서동 206-1",
+		"roadAddr": {
+			"text": "충청북도 청주시 상당구 단재로 293 3층",
+			"abbrText": "단재로 293"
+		},
+		"isPollingPlace": false,
+		"isRestaurant": false,
+		"isHairshop": false,
+		"isPlaceAttraction": false,
+		"isAccommodation": false,
+		"phone": "043-284-5014",
+		"virtualPhone": "0507-1401-5014",
+		"phoneOrigin": "043-284-5014",
+		"isCallLink": false,
+		"callLinkKey": "462c7419d216fc58d4cee8a41259bad5",
+		"isPremium": false,
+		"category": "스포츠,오락 &gt; 암벽등반",
+		"twoDepthCategory": "스포츠,오락 &gt; 암벽등반",
+		"lastCategory": "암벽등반",
+		"josaForLastCategory": "을",
+		"cid": "222037",
+		"homepageList": [
+			{
+				"url": "http://cafe.daum.net/tagymania",
+				"landingUrl": "http://cafe.daum.net/tagymania",
+				"korName": "공식",
+				"type": "normal",
+				"mUrl": "http://cafe.daum.net/tagymania",
+				"mLandingUrl": "http://cafe.daum.net/tagymania",
+				"className": "official",
+				"isRepresent": true,
+				"isDeadUrl": false
+			}
+		],
+		"description": "",
+		"detailedDescription": "단순한 운동은 싫다!  재미와 효과만점인 새롭고 남다른 다이어트,근력강화,성장발달에 좋은 스포츠 클라이밍을 안전하고 체계적으로 배우고, 즐길 수 있는 곳, 청주 타기클라이밍센터 입니다.\n\n타기 실내암벽등반장은 충북 최대규모의 클라이밍의 모든 것을 배우고 경험할 수 있는 시설 입니다. 경험많은 전문가가 쉽고 재미있게 클라이밍을 배울 수 있도록  도와드립니다.\n\n청주에서 클라이밍 시작은 타기 클라이밍센터와 함께!\n\n\n♣회원제 운영(일반, 가족, 학생 회원)\n♣초보자 강습(소그룹,개인지도 형태)\n♣(자연,인공) 암벽등반 교육 \n♣회사,  유치원, 학교 단체체험\n♣클라이밍(암벽등반) 장비,의류 판매",
+		"descriptionForMobile": "단순한 운동은 싫다!  재미와 효과만점인 새롭고 남다른...",
+		"moreDescriptionBtnForMobile": true,
+		"moreDetailedDescription": "",
+		"moreDetailedDescriptionUrl": "",
+		"road": "방서사거리에서 공군사관학교 방향으로 50m, 대로변 왼쪽건물 여명회관 3층.\n방서 중흥 S클래스, 방서센트럴 자이 맞은편에 위치",
+		"infoSource": "",
+		"infoSourceUrl": "",
+		"targetUrl": "",
+		"mobileTargetUrl": "",
+		"hasPoint": false,
+		"hasReview": false,
+		"isUserEditCheck": false,
+		"repKeywordList": [
+			"스포츠클라이밍",
+			"실내암벽등반",
+			"클라이밍강습",
+			"키즈클라이밍",
+			"클라이밍체험"
+		],
+		"brandDirNum": null,
+		"naverTalktalkUrlForPc": null,
+		"naverTalktalkUrlForMobile": null,
+		"isNailshop": false,
+		"isHospital": false,
+		"isNaverhotel": false
+	},
+	"bizHours": {
+		"bizHourList": [
+			{
+				"type": "평일",
+				"startTime": "14:00",
+				"endTime": "23:30",
+				"isDayOff": false,
+				"description": "",
+				"outer-class": {
+					"bizHourList": null
+				}
+			},
+			{
+				"type": "공휴일",
+				"startTime": "00:00",
+				"endTime": "00:00",
+				"isDayOff": true,
+				"description": "",
+				"outer-class": {
+					"bizHourList": null
+				}
+			},
+			{
+				"type": "화요일",
+				"startTime": "10:00",
+				"endTime": "23:00",
+				"isDayOff": false,
+				"description": "",
+				"outer-class": {
+					"bizHourList": null
+				}
+			},
+			{
+				"type": "목요일",
+				"startTime": "10:00",
+				"endTime": "23:00",
+				"isDayOff": false,
+				"description": "",
+				"outer-class": {
+					"bizHourList": null
+				}
+			},
+			{
+				"type": "토요일",
+				"startTime": "14:00",
+				"endTime": "18:00",
+				"isDayOff": false,
+				"description": "",
+				"outer-class": {
+					"bizHourList": null
+				}
+			}
+		]
+	},
+	"options": {
+		"optionList": [
+			{
+				"id": "13",
+				"name": "단체석",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			},
+			{
+				"id": "2",
+				"name": "주차",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			},
+			{
+				"id": "7",
+				"name": "무선 인터넷",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			}
+		],
+		"optionDescList": []
+	},
+	"images": {
+		"imageList": [
+			{
+				"type": "DRT",
+				"number": "1",
+				"url": "/타기클라이밍센터_main0_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2019-03-10 15:20:14",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			},
+			{
+				"type": "DRT",
+				"number": "2",
+				"url": "/타기클라이밍센터_main1_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2019-03-10 15:20:14",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			},
+			{
+				"type": "DRT",
+				"number": "3",
+				"url": "/타기클라이밍센터_main2_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2019-03-10 15:20:14",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			},
+			{
+				"type": "DRT",
+				"number": "4",
+				"url": "/타기클라이밍센터_main3_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2019-03-10 15:20:14",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			},
+			{
+				"type": "DRT",
+				"number": "5",
+				"url": "/타기클라이밍센터_main4_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2019-03-10 15:20:14",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			}
+		]
+	},
+	"menus": {
+		"menuImage": null,
+		"menuList": [
+			{
+				"name": "일반회원(1개월)_카드가",
+				"price": "90,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "일반 회원 (3개월)",
+				"price": "240,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "커플(2인동시등록)/가족 회원 (3개월_2인)",
+				"price": "440,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "초,중,고 학생 회원",
+				"price": "80,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "강습반_성인(1개월,주2회)자유이용포함",
+				"price": "140,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "강습반_성인(첫3개월 할인패키지,주2회)자유이용포함",
+				"price": "340,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "강습반_성인(3개월,주2회)자유이용포함",
+				"price": "400,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "강습반_학생(1개월,8회)",
+				"price": "100,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "강습반_학생(1개월,8회)_형제할인",
+				"price": "90,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "일일체험_성인(강습,슈즈포함)",
+				"price": "25,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "일일체험_학생(강습,슈즈포함)",
+				"price": "20,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "일일체험_2인이상 할인(상담요망)",
+				"price": "변동가격(업주문의)",
+				"isRecommended": false,
+				"change": true,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "단체체험_인원수에따라차등(상담요망)",
+				"price": "변동가격(업주문의)",
+				"isRecommended": false,
+				"change": true,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			}
+		]
+	},
+	"menuImages": {
+		"menuImageList": []
+	},
+	"coupon": {
+		"isShow": false,
+		"url": "",
+		"mobileUrl": ""
+	},
+	"subphones": {
+		"count": "0",
+		"subphoneList": []
+	},
+	"relateInfos": {
+		"relateInfoList": []
+	},
+	"searchInterlock": {
+		"TRUE": "1",
+		"keyword": "20aa065d42467c91883f146ef499b03050adda3cd38d37b49fff940902c8144e228b280116b72d04224adcb264e3b040f281eeb53f826527d0edc4828f0d3cc563ac2f8e42778eb5c6be8209c62e23ad1c9b3c43ae1905c2cb4b78c3b0a08d71a56a51ee8a9cbc79526410ca5d12f0a3",
+		"blog": "1",
+		"cafe": "1"
+	},
+	"streetPanorama": {
+		"id": "teQKrIUJTgQ5QdiUXyYaeg==",
+		"pan": "71.5",
+		"tilt": "10",
+		"lng": "127.5021703",
+		"lat": "36.6039338",
+		"fov": "120"
+	},
+	"skyPanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"insidePanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"interiorPanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"indoorPanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"indoor": {
+		"floor": "",
+		"underGmid": null,
+		"underMid": "0"
+	},
+	"theme": null,
+	"themeDetail": null,
+	"editButtons": {
+		"editButtonList": [
+			{
+				"name": "정보수정 제안",
+				"type": "report",
+				"url": "\n\t\thttps://report.map.naver.com/form.nhn\n\t",
+				"nclicksName": "wronginfo",
+				"outer-class": {
+					"editButtonList": null
+				}
+			},
+			{
+				"name": "통계",
+				"type": "stats",
+				"url": "https://submit.naver.com/checkLoginType.nhn",
+				"nclicksName": "stats",
+				"outer-class": {
+					"editButtonList": null
+				}
+			}
+		]
+	},
+	"poi": {
+		"poi_info": {
+			"road": {
+				"poiShapeType": "1",
+				"shapeKey": null,
+				"boundary": null,
+				"detail": null
+			},
+			"hasRoad": false,
+			"land": null,
+			"hasLand": false,
+			"polygon": null,
+			"hasPolygon": false
+		},
+		"entrance_coord": {
+			"ENTRANCE_COORD_FIELD_SIZE": 7,
+			"entranceCoords": [
+				{
+					"isRepresentative": "1",
+					"coordType": "5",
+					"entranceCoordX": "127.5022410",
+					"entranceCoordY": "36.6040500",
+					"coordSubType": 1
+				},
+				{
+					"isRepresentative": "0",
+					"coordType": "2",
+					"entranceCoordX": "127.5026060",
+					"entranceCoordY": "36.6039190",
+					"coordSubType": 1
+				}
+			]
+		}
+	},
+	"thumbnail": {
+		"number": "0",
+		"url": "http://ldb.phinf.naver.net/20150831_8/1441009497363qiAJN_JPEG/11633101_0.jpg",
+		"source": null,
+		"imageTabName": "baseInfo",
+		"modDate": null,
+		"hasMore": true
+	},
+	"cpDetail": {
+		"nadleDetail": null,
+		"citymapDetail": null,
+		"baeminDetail": null,
+		"onnuriDetail": null,
+		"campingzoneDetail": null,
+		"parkingModuDetail": null,
+		"toiletDetail": null,
+		"naverBookingDetail": null,
+		"uokDetail": null,
+		"hiraDetail": null,
+		"tvcastDetail": null,
+		"shopwindowDetail": null,
+		"yogiyoDetail": null,
+		"cescoDetail": null,
+		"golfzonDetail": null,
+		"opinetDetail": null,
+		"yanoljaDetail": null,
+		"goodchoiceDetail": null,
+		"yeogiyaDetail": null,
+		"naverhotelDetail": null,
+		"cpMenuList": [
+			"DEFAULT"
+		],
+		"relatedLinks": {
+			"relatedLinkList": []
+		},
+		"michelinGuide": null,
+		"kozazaDetail": null,
+		"heybeautyDetail": null
+	},
+	"card": {
+		"hasBenefit": false
+	},
+	"hairshop": null
+}

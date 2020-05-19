@@ -1,0 +1,539 @@
+{
+	"summary": {
+		"siteInquiryType": "detail",
+		"siteType": "drt",
+		"coordinate": {
+			"x": "126.9198113",
+			"y": "35.1498886",
+			"mapZoomLevel": "12",
+			"isExactPosition": true
+		},
+		"id": "37471592",
+		"name": "바위 클라이밍 센터",
+		"address": "광주광역시 동구 대의동 10-1 광주아트센터 지하 2층",
+		"addressAbbr": "대의동 10-1",
+		"roadAddr": {
+			"text": "광주광역시 동구 예술길 31-15 광주아트센터",
+			"abbrText": "예술길 31-15"
+		},
+		"isPollingPlace": false,
+		"isRestaurant": false,
+		"isHairshop": false,
+		"isPlaceAttraction": false,
+		"isAccommodation": false,
+		"phone": "062-229-0510",
+		"virtualPhone": "0507-1334-0510",
+		"phoneOrigin": "062-229-0510",
+		"isCallLink": false,
+		"callLinkKey": "5a1e9c87b401323525972319ac46f0bc",
+		"isPremium": false,
+		"category": "스포츠,오락 &gt; 암벽등반",
+		"twoDepthCategory": "스포츠,오락 &gt; 암벽등반",
+		"lastCategory": "암벽등반",
+		"josaForLastCategory": "을",
+		"cid": "222037",
+		"homepageList": [
+			{
+				"url": "http://blog.naver.com/ba-wi",
+				"landingUrl": "http://blog.naver.com/ba-wi",
+				"korName": "블로그",
+				"type": "blog",
+				"mUrl": "http://blog.naver.com/ba-wi",
+				"mLandingUrl": "http://blog.naver.com/ba-wi",
+				"className": "blog",
+				"isRepresent": true,
+				"isDeadUrl": false
+			},
+			{
+				"url": "http://cafe.naver.com/bawiclimbing",
+				"landingUrl": "http://cafe.naver.com/bawiclimbing",
+				"korName": "카페",
+				"type": "cafe",
+				"mUrl": "http://cafe.naver.com/bawiclimbing",
+				"mLandingUrl": "http://cafe.naver.com/bawiclimbing",
+				"className": "cafe",
+				"isRepresent": false,
+				"isDeadUrl": false
+			},
+			{
+				"url": "http://www.instagram.com/bawi_climbing",
+				"landingUrl": "http://www.instagram.com/bawi_climbing",
+				"korName": "공식",
+				"type": "instagram",
+				"mUrl": "http://www.instagram.com/bawi_climbing",
+				"mLandingUrl": "http://www.instagram.com/bawi_climbing",
+				"className": "official",
+				"isRepresent": false,
+				"isDeadUrl": false
+			}
+		],
+		"description": "",
+		"detailedDescription": "2015년 전국 최대 규모의 실내암장으로 개관하여 운영 중이며 입문반을 포함 다양한 강습 트레이닝 존과 볼더링 존, 실내 리드클라이밍 존을 갖춘 대형 실내암벽장으로 다양한 형태의 체험이 가능하고 초급자부터 고급자까지 충분히 클라이밍을 만끽하고 트레이닝 할 수 있는 시설입니다. 다양한 강습 프로그램이 상시 개설되어 운영되어 누구든 클라이밍을 쉽게 배우고 즐길 수 있도록 도와주고 있습니다. 실내 뿐만 아니라 실외 인공암벽과 자연암벽 등반을 주기적으로 진행중으로 다양한 활동을 통한 네트워크를 형성할 수 있습니다. 광주의 중심가인 금남로에 위치하여 친구, 연인들이 손쉽게 방문하여 체험할 수 있고 다양한 스포츠 클라이밍 이벤트 들이 지역, 전국규모로 치뤄지고 있습니다. 개인뿐 아니라 단체도 수용 할 수 있는 규모의 쾌적한 클라이밍센터 입니다.",
+		"descriptionForMobile": "2015년 전국 최대 규모의 실내암장으로 개관하여 운영...",
+		"moreDescriptionBtnForMobile": true,
+		"moreDetailedDescription": "",
+		"moreDetailedDescriptionUrl": "",
+		"road": "광주 아시아 문화중심도시 센터와 1~2분 거리로 지하철과 버스 모두 아시아문화센터 역에서 하차하셔서 광주 동부경찰서를 지나 \n전남 여고 방향으로 진행하시면 광주아트센터 건물 1층에 미니스톱 대의점을 보시면 왼쪽으로 돌아서 내려오는 유리로된 계단을 이용해 내려오시면 됩니다.",
+		"infoSource": "",
+		"infoSourceUrl": "",
+		"targetUrl": "",
+		"mobileTargetUrl": "",
+		"hasPoint": false,
+		"hasReview": false,
+		"isUserEditCheck": false,
+		"repKeywordList": [
+			"광주클라이밍",
+			"광주실내암벽",
+			"클라이밍",
+			"광주원데이클레스",
+			"다이어트운동"
+		],
+		"brandDirNum": null,
+		"naverTalktalkUrlForPc": null,
+		"naverTalktalkUrlForMobile": null,
+		"isNailshop": false,
+		"isHospital": false,
+		"isNaverhotel": false
+	},
+	"bizHours": {
+		"bizHourList": [
+			{
+				"type": "평일",
+				"startTime": "12:00",
+				"endTime": "24:00",
+				"isDayOff": false,
+				"description": "",
+				"outer-class": {
+					"bizHourList": null
+				}
+			},
+			{
+				"type": "주말",
+				"startTime": "12:00",
+				"endTime": "20:00",
+				"isDayOff": false,
+				"description": "",
+				"outer-class": {
+					"bizHourList": null
+				}
+			},
+			{
+				"type": "공휴일",
+				"startTime": "12:00",
+				"endTime": "20:00",
+				"isDayOff": false,
+				"description": "",
+				"outer-class": {
+					"bizHourList": null
+				}
+			}
+		]
+	},
+	"options": {
+		"optionList": [
+			{
+				"id": "2",
+				"name": "주차",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			},
+			{
+				"id": "1",
+				"name": "예약",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			},
+			{
+				"id": "7",
+				"name": "무선 인터넷",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			},
+			{
+				"id": "8",
+				"name": "남/녀 화장실 구분",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			}
+		],
+		"optionDescList": []
+	},
+	"images": {
+		"imageList": [
+			{
+				"type": "UGC",
+				"number": null,
+				"url": "/바위 클라이밍 센터_main0_.jpg",
+				"source": null,
+				"desc": null,
+				"ugcInfo": {
+					"postUrl": "https://blog.naver.com/ana1052/221096065609",
+					"updateDate": "2017-09-13",
+					"source": "ana1052",
+					"outer-class": {
+						"imageList": null
+					}
+				},
+				"modDate": "2017-09-13",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			},
+			{
+				"type": "UGC",
+				"number": null,
+				"url": "/바위 클라이밍 센터_main1_.jpg",
+				"source": null,
+				"desc": null,
+				"ugcInfo": {
+					"postUrl": "https://blog.naver.com/ana1052/221096065609",
+					"updateDate": "2017-09-13",
+					"source": "ana1052",
+					"outer-class": {
+						"imageList": null
+					}
+				},
+				"modDate": "2017-09-13",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			},
+			{
+				"type": "UGC",
+				"number": null,
+				"url": "/바위 클라이밍 센터_main2_.jpg",
+				"source": null,
+				"desc": null,
+				"ugcInfo": {
+					"postUrl": "https://blog.naver.com/ana1052/221096065609",
+					"updateDate": "2017-09-13",
+					"source": "ana1052",
+					"outer-class": {
+						"imageList": null
+					}
+				},
+				"modDate": "2017-09-13",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			},
+			{
+				"type": "UGC",
+				"number": null,
+				"url": "/바위 클라이밍 센터_main3_.jpg",
+				"source": null,
+				"desc": null,
+				"ugcInfo": {
+					"postUrl": "https://blog.naver.com/ana1052/221096065609",
+					"updateDate": "2017-09-13",
+					"source": "ana1052",
+					"outer-class": {
+						"imageList": null
+					}
+				},
+				"modDate": "2017-09-13",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			},
+			{
+				"type": "UGC",
+				"number": null,
+				"url": "/바위 클라이밍 센터_main4_.jpg",
+				"source": null,
+				"desc": null,
+				"ugcInfo": {
+					"postUrl": "https://blog.naver.com/mnb3472/220985776938",
+					"updateDate": "2017-04-18",
+					"source": "mnb3472",
+					"outer-class": {
+						"imageList": null
+					}
+				},
+				"modDate": "2017-04-18",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			}
+		]
+	},
+	"menus": {
+		"menuImage": null,
+		"menuList": [
+			{
+				"name": "1개월 회원권",
+				"price": "110,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "1개월 회원권(초중고대학생)",
+				"price": "88,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "입문반강습(3회/회원가)",
+				"price": "40,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "1일 이용권",
+				"price": "16,500원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "1일 체험권(강습,장비포함)",
+				"price": "25,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "1개월 회원권(토,일)",
+				"price": "55,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "주니어반강습(4주4회/회원가)",
+				"price": "100,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			}
+		]
+	},
+	"menuImages": {
+		"menuImageList": []
+	},
+	"coupon": {
+		"isShow": false,
+		"url": "",
+		"mobileUrl": ""
+	},
+	"subphones": {
+		"count": "0",
+		"subphoneList": []
+	},
+	"relateInfos": {
+		"relateInfoList": []
+	},
+	"searchInterlock": {
+		"TRUE": "1",
+		"keyword": "cb29b7f64d223efcda26df662f3cd4de920113bc9f0e8c10f75d48360f402357d5053be64c4d5863ea4a7d0d9e3375782ece62ec02af2cda5fd6be58aa00e1c6c85a183805dc31a42b39820465be7367404e27439866ef1b746c24167d383ddc603f7d044cfd2890e45e613a7bce5112",
+		"blog": "1",
+		"cafe": "1"
+	},
+	"streetPanorama": {
+		"id": "xSFA9ypmubtWhXPddMY5/g==",
+		"pan": "-147.05",
+		"tilt": "10",
+		"lng": "126.9198798",
+		"lat": "35.149994",
+		"fov": "120"
+	},
+	"skyPanorama": {
+		"id": "U+xE3rU3ANabJI9uEgwEHA==",
+		"pan": "89.57",
+		"tilt": "-30",
+		"lng": "126.9150009",
+		"lat": "35.1498489",
+		"fov": "124"
+	},
+	"insidePanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"interiorPanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"indoorPanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"indoor": {
+		"floor": "",
+		"underGmid": null,
+		"underMid": "0"
+	},
+	"theme": null,
+	"themeDetail": null,
+	"editButtons": {
+		"editButtonList": [
+			{
+				"name": "정보수정 제안",
+				"type": "report",
+				"url": "\n\t\thttps://report.map.naver.com/form.nhn\n\t",
+				"nclicksName": "wronginfo",
+				"outer-class": {
+					"editButtonList": null
+				}
+			},
+			{
+				"name": "통계",
+				"type": "stats",
+				"url": "https://submit.naver.com/checkLoginType.nhn",
+				"nclicksName": "stats",
+				"outer-class": {
+					"editButtonList": null
+				}
+			}
+		]
+	},
+	"poi": {
+		"poi_info": {
+			"road": {
+				"poiShapeType": "1",
+				"shapeKey": null,
+				"boundary": null,
+				"detail": null
+			},
+			"hasRoad": false,
+			"land": null,
+			"hasLand": false,
+			"polygon": null,
+			"hasPolygon": false
+		},
+		"entrance_coord": {
+			"ENTRANCE_COORD_FIELD_SIZE": 7,
+			"entranceCoords": [
+				{
+					"isRepresentative": "1",
+					"coordType": "5",
+					"entranceCoordX": "126.9197750",
+					"entranceCoordY": "35.1500370",
+					"coordSubType": 1
+				},
+				{
+					"isRepresentative": "0",
+					"coordType": "2",
+					"entranceCoordX": "126.9199070",
+					"entranceCoordY": "35.1497350",
+					"coordSubType": 5
+				}
+			]
+		}
+	},
+	"thumbnail": {
+		"number": "0",
+		"url": "http://blogfiles.naver.net/MjAxNzA5MTFfMjQw/MDAxNTA1MTI5ODkwMjU5.HV1a7gbAOdU3Gbi8hxwn_vm9XCXeVqJ0e_70DYWmakwg.4yL4tnbeB_JnxywtmNPIpJNISFqM2A3dzL45VNZF1pYg.JPEG.ana1052/DSC08610.JPG#3632x5456",
+		"source": null,
+		"imageTabName": "baseInfo",
+		"modDate": null,
+		"hasMore": true
+	},
+	"cpDetail": {
+		"nadleDetail": null,
+		"citymapDetail": null,
+		"baeminDetail": null,
+		"onnuriDetail": null,
+		"campingzoneDetail": null,
+		"parkingModuDetail": null,
+		"toiletDetail": null,
+		"naverBookingDetail": null,
+		"uokDetail": null,
+		"hiraDetail": null,
+		"tvcastDetail": null,
+		"shopwindowDetail": null,
+		"yogiyoDetail": null,
+		"cescoDetail": null,
+		"golfzonDetail": null,
+		"opinetDetail": null,
+		"yanoljaDetail": null,
+		"goodchoiceDetail": null,
+		"yeogiyaDetail": null,
+		"naverhotelDetail": null,
+		"cpMenuList": [
+			"DEFAULT"
+		],
+		"relatedLinks": {
+			"relatedLinkList": []
+		},
+		"michelinGuide": null,
+		"kozazaDetail": null,
+		"heybeautyDetail": null
+	},
+	"card": {
+		"hasBenefit": false
+	},
+	"hairshop": null
+}

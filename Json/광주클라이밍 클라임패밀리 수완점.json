@@ -1,0 +1,474 @@
+{
+	"summary": {
+		"siteInquiryType": "detail",
+		"siteType": "drt",
+		"coordinate": {
+			"x": "126.8194434",
+			"y": "35.2049305",
+			"mapZoomLevel": "8",
+			"isExactPosition": true
+		},
+		"id": "1168244338",
+		"name": "광주클라이밍 클라임패밀리 수완점",
+		"address": "광주광역시 광산구 수완동 669-1",
+		"addressAbbr": "수완동 669-1",
+		"roadAddr": {
+			"text": "광주광역시 광산구 임방울대로 507 D동 B층 102호",
+			"abbrText": "임방울대로 507"
+		},
+		"isPollingPlace": false,
+		"isRestaurant": false,
+		"isHairshop": false,
+		"isPlaceAttraction": false,
+		"isAccommodation": false,
+		"phone": "062-381-3777",
+		"virtualPhone": "",
+		"phoneOrigin": "062-381-3777",
+		"isCallLink": false,
+		"callLinkKey": "b12fe89dab83daa0cb3bc77e23abc794",
+		"isPremium": false,
+		"category": "스포츠,오락 &gt; 암벽등반",
+		"twoDepthCategory": "스포츠,오락 &gt; 암벽등반",
+		"lastCategory": "암벽등반",
+		"josaForLastCategory": "을",
+		"cid": "222037",
+		"homepageList": [
+			{
+				"url": "http://www.instagram.com/climb_family",
+				"landingUrl": "http://www.instagram.com/climb_family",
+				"korName": "공식",
+				"type": "instagram",
+				"mUrl": "http://www.instagram.com/climb_family",
+				"mLandingUrl": "http://www.instagram.com/climb_family",
+				"className": "official",
+				"isRepresent": true,
+				"isDeadUrl": false
+			},
+			{
+				"url": "http://climbfamily.modoo.at",
+				"landingUrl": "http://climbfamily.modoo.at",
+				"korName": "모두",
+				"type": "modoo",
+				"mUrl": "http://climbfamily.modoo.at",
+				"mLandingUrl": "http://climbfamily.modoo.at",
+				"className": "modoo",
+				"isRepresent": false,
+				"isDeadUrl": false
+			}
+		],
+		"description": "",
+		"detailedDescription": "영화 같은 일상 아름다운 감성 클라이밍 센터 \nCLIMB_FAMILY 수완점\n\n수완지구,첨단지구  근접\n최대규모 실평수 250평\n높이 6.5M\n광주 최대 최신시설 스포츠 클라이밍센터\n150대 무료주차가능 (주차비없음)\n\n단체예약,키즈체험,회사단체 체험가능\n동시간200명도 체험가능.\n\n샤워시설완비\n무료PT진행중입니다.\n\n\n\n",
+		"descriptionForMobile": "영화 같은 일상 아름다운 감성 클라이밍 센터 \nCLIM...",
+		"moreDescriptionBtnForMobile": true,
+		"moreDetailedDescription": "",
+		"moreDetailedDescriptionUrl": "",
+		"road": "수완동 탑볼링장 퍼니타운 지하1층\n수완지구~첨단지구 방면 도로위치\n스타벅스-드메르웨딩홀 도로 가운데위치\n",
+		"infoSource": "",
+		"infoSourceUrl": "",
+		"targetUrl": "",
+		"mobileTargetUrl": "",
+		"hasPoint": false,
+		"hasReview": false,
+		"isUserEditCheck": false,
+		"repKeywordList": [
+			"광주클라이밍",
+			"수완지구클라이밍",
+			"암벽등반",
+			"실내암벽",
+			"클라이밍"
+		],
+		"brandDirNum": null,
+		"naverTalktalkUrlForPc": null,
+		"naverTalktalkUrlForMobile": null,
+		"isNailshop": false,
+		"isHospital": false,
+		"isNaverhotel": false
+	},
+	"bizHours": {
+		"bizHourList": [
+			{
+				"type": "월요일",
+				"startTime": "16:00",
+				"endTime": "24:00",
+				"isDayOff": false,
+				"description": "",
+				"outer-class": {
+					"bizHourList": null
+				}
+			},
+			{
+				"type": "금요일",
+				"startTime": "13:00",
+				"endTime": "24:00",
+				"isDayOff": false,
+				"description": "",
+				"outer-class": {
+					"bizHourList": null
+				}
+			},
+			{
+				"type": "목요일",
+				"startTime": "13:00",
+				"endTime": "24:00",
+				"isDayOff": false,
+				"description": "",
+				"outer-class": {
+					"bizHourList": null
+				}
+			},
+			{
+				"type": "수요일",
+				"startTime": "13:00",
+				"endTime": "24:00",
+				"isDayOff": false,
+				"description": "",
+				"outer-class": {
+					"bizHourList": null
+				}
+			},
+			{
+				"type": "화요일",
+				"startTime": "13:00",
+				"endTime": "24:00",
+				"isDayOff": false,
+				"description": "",
+				"outer-class": {
+					"bizHourList": null
+				}
+			},
+			{
+				"type": "토요일",
+				"startTime": "10:00",
+				"endTime": "18:00",
+				"isDayOff": false,
+				"description": "매주 일요일휴무",
+				"outer-class": {
+					"bizHourList": null
+				}
+			}
+		]
+	},
+	"options": {
+		"optionList": [
+			{
+				"id": "2",
+				"name": "주차",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			},
+			{
+				"id": "9",
+				"name": "방문접수/출장",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			},
+			{
+				"id": "1",
+				"name": "예약",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			},
+			{
+				"id": "7",
+				"name": "무선 인터넷",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			},
+			{
+				"id": "8",
+				"name": "남/녀 화장실 구분",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			},
+			{
+				"id": "22",
+				"name": "장애인 편의시설",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			}
+		],
+		"optionDescList": []
+	},
+	"images": {
+		"imageList": [
+			{
+				"type": "DRT",
+				"number": "1",
+				"url": "/광주클라이밍 클라임패밀리 수완점_main0_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2019-07-19 01:39:55",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			},
+			{
+				"type": "DRT",
+				"number": "2",
+				"url": "/광주클라이밍 클라임패밀리 수완점_main1_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2019-07-19 01:39:55",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			},
+			{
+				"type": "DRT",
+				"number": "3",
+				"url": "/광주클라이밍 클라임패밀리 수완점_main2_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2019-07-19 01:39:55",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			},
+			{
+				"type": "DRT",
+				"number": "4",
+				"url": "/광주클라이밍 클라임패밀리 수완점_main3_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2019-07-19 01:39:55",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			},
+			{
+				"type": "DRT",
+				"number": "5",
+				"url": "/광주클라이밍 클라임패밀리 수완점_main4_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2019-07-19 01:39:55",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			}
+		]
+	},
+	"menus": {
+		"menuImage": null,
+		"menuList": [
+			{
+				"name": "센터방문상담",
+				"price": "변동가격(업주문의)",
+				"isRecommended": false,
+				"change": true,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			}
+		]
+	},
+	"menuImages": {
+		"menuImageList": []
+	},
+	"coupon": {
+		"isShow": false,
+		"url": "",
+		"mobileUrl": ""
+	},
+	"subphones": {
+		"count": "0",
+		"subphoneList": []
+	},
+	"relateInfos": {
+		"relateInfoList": []
+	},
+	"searchInterlock": {
+		"TRUE": "1",
+		"keyword": "a1b502c5b57572f656da1ae0196155c2fa11ea23cf0dbbf52f2e22c5bff28e9d2122dbd9eedf969cf24753c16618d6e6f4665db292c95f1ed90d4f912338225c319f8475ae04029caf90111e9ad6255bd232d71a2bcd8425768e376815176f134f62a4fbed59d432ae924531a4357d2973991c0482b8946b3eefbcb2f72641bb410829adbe7022e6cbc8c20566b208c5",
+		"blog": "1",
+		"cafe": "1"
+	},
+	"streetPanorama": {
+		"id": "+cU/EY4cI4fuAyUlBW39+Q==",
+		"pan": "38.3",
+		"tilt": "10",
+		"lng": "126.819342",
+		"lat": "35.204802",
+		"fov": "120"
+	},
+	"skyPanorama": {
+		"id": "55ecYpg12mW9jiFS3ei+jg==",
+		"pan": "-105.24",
+		"tilt": "-30",
+		"lng": "126.8225021",
+		"lat": "35.205761",
+		"fov": "124"
+	},
+	"insidePanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"interiorPanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"indoorPanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"indoor": {
+		"floor": "",
+		"underGmid": null,
+		"underMid": "0"
+	},
+	"theme": null,
+	"themeDetail": null,
+	"editButtons": {
+		"editButtonList": [
+			{
+				"name": "정보수정 제안",
+				"type": "report",
+				"url": "\n\t\thttps://report.map.naver.com/form.nhn\n\t",
+				"nclicksName": "wronginfo",
+				"outer-class": {
+					"editButtonList": null
+				}
+			},
+			{
+				"name": "통계",
+				"type": "stats",
+				"url": "https://submit.naver.com/checkLoginType.nhn",
+				"nclicksName": "stats",
+				"outer-class": {
+					"editButtonList": null
+				}
+			}
+		]
+	},
+	"poi": {
+		"poi_info": {
+			"road": {
+				"poiShapeType": "1",
+				"shapeKey": null,
+				"boundary": null,
+				"detail": null
+			},
+			"hasRoad": false,
+			"land": null,
+			"hasLand": false,
+			"polygon": null,
+			"hasPolygon": false
+		},
+		"entrance_coord": {
+			"ENTRANCE_COORD_FIELD_SIZE": 7,
+			"entranceCoords": [
+				{
+					"isRepresentative": "1",
+					"coordType": "5",
+					"entranceCoordX": "126.8199896",
+					"entranceCoordY": "35.2047273",
+					"coordSubType": 1
+				}
+			]
+		}
+	},
+	"thumbnail": {
+		"number": "0",
+		"url": "http://ldb.phinf.naver.net/20190616_174/15606960195429N6LN_JPEG/3p1cUies-R7TyTOMFgY8LLPV.jpg",
+		"source": null,
+		"imageTabName": "baseInfo",
+		"modDate": null,
+		"hasMore": true
+	},
+	"cpDetail": {
+		"nadleDetail": null,
+		"citymapDetail": null,
+		"baeminDetail": null,
+		"onnuriDetail": null,
+		"campingzoneDetail": null,
+		"parkingModuDetail": null,
+		"toiletDetail": null,
+		"naverBookingDetail": null,
+		"uokDetail": null,
+		"hiraDetail": null,
+		"tvcastDetail": null,
+		"shopwindowDetail": null,
+		"yogiyoDetail": null,
+		"cescoDetail": null,
+		"golfzonDetail": null,
+		"opinetDetail": null,
+		"yanoljaDetail": null,
+		"goodchoiceDetail": null,
+		"yeogiyaDetail": null,
+		"naverhotelDetail": null,
+		"cpMenuList": [
+			"DEFAULT"
+		],
+		"relatedLinks": {
+			"relatedLinkList": []
+		},
+		"michelinGuide": null,
+		"kozazaDetail": null,
+		"heybeautyDetail": null
+	},
+	"card": {
+		"hasBenefit": false
+	},
+	"hairshop": null
+}

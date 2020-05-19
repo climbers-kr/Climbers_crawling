@@ -1,0 +1,315 @@
+{
+	"summary": {
+		"siteInquiryType": "detail",
+		"siteType": "drt",
+		"coordinate": {
+			"x": "126.984903",
+			"y": "37.4792302",
+			"mapZoomLevel": "12",
+			"isExactPosition": true
+		},
+		"id": "38705243",
+		"name": "사당클라이밍",
+		"address": "서울특별시 서초구 방배동 467-19",
+		"addressAbbr": "방배동 467-19",
+		"roadAddr": {
+			"text": "서울특별시 서초구 방배천로6길 38-1 지하층",
+			"abbrText": "방배천로6길 38-1"
+		},
+		"isPollingPlace": false,
+		"isRestaurant": false,
+		"isHairshop": false,
+		"isPlaceAttraction": false,
+		"isAccommodation": false,
+		"phone": "02-583-1257",
+		"virtualPhone": "0507-1411-1257",
+		"phoneOrigin": "02-583-1257",
+		"isCallLink": false,
+		"callLinkKey": "959c652b30912551dc08832e6ad21143",
+		"isPremium": false,
+		"category": "스포츠,오락 &gt; 암벽등반",
+		"twoDepthCategory": "스포츠,오락 &gt; 암벽등반",
+		"lastCategory": "암벽등반",
+		"josaForLastCategory": "을",
+		"cid": "222037",
+		"homepageList": [
+			{
+				"url": "http://cafe.daum.net/mindclimbingclub",
+				"landingUrl": "http://cafe.daum.net/mindclimbingclub",
+				"korName": "공식",
+				"type": "normal",
+				"mUrl": "http://cafe.daum.net/mindclimbingclub",
+				"mLandingUrl": "http://cafe.daum.net/mindclimbingclub",
+				"className": "official",
+				"isRepresent": true,
+				"isDeadUrl": false
+			}
+		],
+		"description": "",
+		"detailedDescription": "사당클라이밍은 사당역 4호선 11번출구, 2호선은 13번출구에서 도보 5분거리에 위치해 있습니다. 한 달 이상 등록하시면 초보들도 쉽고 재미있게 운동할 수 있도록 센터장님이 무료로 강습해주시고 원하시는 분들을 위해 자연바위도 매주 일요일에 등반합니다. 센터장님은 오전 11시부터 오후 11시까지 암장에서 1대 1로 코치해주고 출입문 비밀번호를 알려주어 24시간 언제든 운동할 수 있는건 저희 사당클라이밍의 큰 장점입니다 일년에 한번씩 볼더링대회를 개최하여 축제의 분위기를 만들고 회원들과의 화합과 친분을 쌓을 기회를 만들고 암벽등반 초보들을 위한 암벽교실을 운영하고 있습니다.",
+		"descriptionForMobile": "사당클라이밍은 사당역 4호선 11번출구, 2호선은 13...",
+		"moreDescriptionBtnForMobile": true,
+		"moreDetailedDescription": "",
+		"moreDetailedDescriptionUrl": "",
+		"road": "사당역 11번출구에서 약 100m가량 직진 후, S-oil과 남태령지구대 사잇길로 우회전하여 250m정도 직진하시면 우측 지하 1층에 위치해있습니다.",
+		"infoSource": "",
+		"infoSourceUrl": "",
+		"targetUrl": "",
+		"mobileTargetUrl": "",
+		"hasPoint": false,
+		"hasReview": false,
+		"isUserEditCheck": false,
+		"repKeywordList": [
+			"클라이밍",
+			"서울_클라이밍",
+			"사당역_클라이밍",
+			"방배_클라이밍"
+		],
+		"brandDirNum": null,
+		"naverTalktalkUrlForPc": null,
+		"naverTalktalkUrlForMobile": null,
+		"isNailshop": false,
+		"isHospital": false,
+		"isNaverhotel": false
+	},
+	"bizHours": {
+		"bizHourList": [
+			{
+				"type": "매일",
+				"startTime": "00:00",
+				"endTime": "24:00",
+				"isDayOff": false,
+				"description": "회원등록 후 24시간 언제나 이용가능",
+				"outer-class": {
+					"bizHourList": null
+				}
+			}
+		]
+	},
+	"options": {
+		"optionList": [
+			{
+				"id": "1",
+				"name": "예약",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			},
+			{
+				"id": "7",
+				"name": "무선 인터넷",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			}
+		],
+		"optionDescList": []
+	},
+	"images": {
+		"imageList": []
+	},
+	"menus": {
+		"menuImage": null,
+		"menuList": [
+			{
+				"name": "첫 달 가입비(강습료 포함)",
+				"price": "30,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "1개월 이용요금(가입비 별도)",
+				"price": "70,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "3개월 이용요금(가입비 면제)",
+				"price": "200,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "6개월 이용요금(가입비 면제)",
+				"price": "380,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "12개월 이용요금(가입비 면제)",
+				"price": "700,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			}
+		]
+	},
+	"menuImages": {
+		"menuImageList": []
+	},
+	"coupon": {
+		"isShow": false,
+		"url": "",
+		"mobileUrl": ""
+	},
+	"subphones": {
+		"count": "0",
+		"subphoneList": []
+	},
+	"relateInfos": {
+		"relateInfoList": []
+	},
+	"searchInterlock": {
+		"TRUE": "1",
+		"keyword": "62b66c6296e6065cdf0c140a886978bde6970de88bc6b08557f947a9fc4993976c05f61404e12a5f88c3b46910ed2cae0fa7411c079ee34b36bccb298734230cf2c25e3ee8707d816ab1f63f389bdd35f5dda9b13d3244f58eac1608deea89e2",
+		"blog": "1",
+		"cafe": "1"
+	},
+	"streetPanorama": {
+		"id": "aqe0V3FlGIg/7BRMeOWA/g==",
+		"pan": "105.63",
+		"tilt": "10",
+		"lng": "126.9848302",
+		"lat": "37.4792505",
+		"fov": "120"
+	},
+	"skyPanorama": {
+		"id": "H8SNb8FoxBVFpR08fbr33A==",
+		"pan": "-147.7",
+		"tilt": "-30",
+		"lng": "126.9852142",
+		"lat": "37.4797211",
+		"fov": "124"
+	},
+	"insidePanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"interiorPanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"indoorPanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"indoor": {
+		"floor": "",
+		"underGmid": null,
+		"underMid": "0"
+	},
+	"theme": null,
+	"themeDetail": null,
+	"editButtons": {
+		"editButtonList": [
+			{
+				"name": "정보수정 제안",
+				"type": "report",
+				"url": "\n\t\thttps://report.map.naver.com/form.nhn\n\t",
+				"nclicksName": "wronginfo",
+				"outer-class": {
+					"editButtonList": null
+				}
+			},
+			{
+				"name": "통계",
+				"type": "stats",
+				"url": "https://submit.naver.com/checkLoginType.nhn",
+				"nclicksName": "stats",
+				"outer-class": {
+					"editButtonList": null
+				}
+			}
+		]
+	},
+	"poi": {
+		"poi_info": {
+			"road": {
+				"poiShapeType": "1",
+				"shapeKey": null,
+				"boundary": null,
+				"detail": null
+			},
+			"hasRoad": false,
+			"land": null,
+			"hasLand": false,
+			"polygon": null,
+			"hasPolygon": false
+		},
+		"entrance_coord": {
+			"ENTRANCE_COORD_FIELD_SIZE": 7,
+			"entranceCoords": []
+		}
+	},
+	"thumbnail": null,
+	"cpDetail": {
+		"nadleDetail": null,
+		"citymapDetail": null,
+		"baeminDetail": null,
+		"onnuriDetail": null,
+		"campingzoneDetail": null,
+		"parkingModuDetail": null,
+		"toiletDetail": null,
+		"naverBookingDetail": null,
+		"uokDetail": null,
+		"hiraDetail": null,
+		"tvcastDetail": null,
+		"shopwindowDetail": null,
+		"yogiyoDetail": null,
+		"cescoDetail": null,
+		"golfzonDetail": null,
+		"opinetDetail": null,
+		"yanoljaDetail": null,
+		"goodchoiceDetail": null,
+		"yeogiyaDetail": null,
+		"naverhotelDetail": null,
+		"cpMenuList": [
+			"DEFAULT"
+		],
+		"relatedLinks": {
+			"relatedLinkList": []
+		},
+		"michelinGuide": null,
+		"kozazaDetail": null,
+		"heybeautyDetail": null
+	},
+	"card": {
+		"hasBenefit": false
+	},
+	"hairshop": null
+}

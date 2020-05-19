@@ -1,0 +1,520 @@
+{
+	"summary": {
+		"siteInquiryType": "detail",
+		"siteType": "drt",
+		"coordinate": {
+			"x": "126.8910239",
+			"y": "37.542178",
+			"mapZoomLevel": "8",
+			"isExactPosition": true
+		},
+		"id": "1358959911",
+		"name": "서울볼더스 클라이밍 컴퍼니",
+		"address": "서울특별시 영등포구 양평동6가 13-1",
+		"addressAbbr": "양평동6가 13-1",
+		"roadAddr": {
+			"text": "서울특별시 영등포구 양평로28마길 7 3층",
+			"abbrText": "양평로28마길 7"
+		},
+		"isPollingPlace": false,
+		"isRestaurant": false,
+		"isHairshop": false,
+		"isPlaceAttraction": false,
+		"isAccommodation": false,
+		"phone": "02-2632-4478",
+		"virtualPhone": "0507-1358-4478",
+		"phoneOrigin": "02-2632-4478",
+		"isCallLink": false,
+		"callLinkKey": "3e17b46170ba808c6f5c5a2ac9b01ce6",
+		"isPremium": false,
+		"category": "스포츠,오락 &gt; 암벽등반",
+		"twoDepthCategory": "스포츠,오락 &gt; 암벽등반",
+		"lastCategory": "암벽등반",
+		"josaForLastCategory": "을",
+		"cid": "222037",
+		"homepageList": [
+			{
+				"url": "https://www.instagram.com/seoulboulders_seonyu/",
+				"landingUrl": "https://www.instagram.com/seoulboulders_seonyu/",
+				"korName": "공식",
+				"type": "instagram",
+				"mUrl": "https://www.instagram.com/seoulboulders_seonyu/",
+				"mLandingUrl": "https://www.instagram.com/seoulboulders_seonyu/",
+				"className": "official",
+				"isRepresent": true,
+				"isDeadUrl": false
+			}
+		],
+		"description": "",
+		"detailedDescription": "-서울볼더스는 영등포구 선유도역에 위치한 110평 규모와 5.4m 높이의  클라이밍 짐입니다.\n\n 클라이밍 뿐만 아니라 건강한 라이프를 위해 웨이트 트레이닝, 스트레칭 및 요가 클래스를 제공합니다.\n\n-또한, 서울 러너스는 맴버쉽 회원들의 다양한 활동을 위한 러닝 크루입니다. \n\n-서울볼더스는 처음 오늘 사람들을 위해서는 체계화 된 강습 시스템으로, \n 기존에 클라이밍을 즐겨왔던 사람들에겐 볼더링 짐 세터가 상주하여 \n 매주 새로운 볼더링 문제를 설계하여 항상 흥미롭고 도전적인 클라이밍 문제가 가득합니다.\n\n-클라이밍은 혼자서도 즐길 수 있지만, 함께 즐길 때 즐거움은 배가 됩니다.\n 서울볼더스는 스포츠를 추구하면서 새로운 친구를 사귀고 잊을 수 없는 추억을 만들 수 있는 클라이밍 짐입니다.\n\n-서울볼더스와 함께 클라이밍을 배우고 다양한 사람들과 즐거운 클라이밍을 즐기세요!\n\nSeoulBoulders location opening in Yeongdeungpo-gu's Seonyudo Station area!\n\nOur bouldering gym will offer 3,200 sq ft and 5.4m of bouldering! SeoulBoulders has you covered for all your vertical needs. \nWe also offer a fully equipped training, yoga class, weight lifting and cardio area to meet all your fitness goals. \n\nAlso, Seoul Runners is a running crew for all of those who enjoy getting out! It's an excellent way to meet new people or stay connected within the community. \nWe can also support your life outside our walls. All levels of runners (or walkers) are welcome.\n\nWe design our walls to accommodate people of all backgrounds, and employ route setters who are masters of their craft,ensuring that there will always be fresh, exciting, and challenging boulder problems to come back for. \nClimbing is also a social activity, you will make new friends and create memories while pursuing a sport that can last a lifetime. \n\nBecome part of SeoulBoulders today and create lasting friendships, learn something new, and help us build our local climbing community together.",
+		"descriptionForMobile": "-서울볼더스는 영등포구 선유도역에 위치한 110평 규모...",
+		"moreDescriptionBtnForMobile": true,
+		"moreDetailedDescription": "",
+		"moreDetailedDescriptionUrl": "",
+		"road": "양평로28 마길 7, 3층",
+		"infoSource": "",
+		"infoSourceUrl": "",
+		"targetUrl": "",
+		"mobileTargetUrl": "",
+		"hasPoint": false,
+		"hasReview": false,
+		"isUserEditCheck": false,
+		"repKeywordList": [
+			"암벽등반",
+			"클라이밍",
+			"볼더링",
+			"실내암벽",
+			"이색스포츠"
+		],
+		"brandDirNum": null,
+		"naverTalktalkUrlForPc": null,
+		"naverTalktalkUrlForMobile": null,
+		"isNailshop": false,
+		"isHospital": false,
+		"isNaverhotel": false
+	},
+	"bizHours": {
+		"bizHourList": [
+			{
+				"type": "평일",
+				"startTime": "12:00",
+				"endTime": "23:00",
+				"isDayOff": false,
+				"description": "",
+				"outer-class": {
+					"bizHourList": null
+				}
+			},
+			{
+				"type": "주말",
+				"startTime": "10:00",
+				"endTime": "19:00",
+				"isDayOff": false,
+				"description": "",
+				"outer-class": {
+					"bizHourList": null
+				}
+			},
+			{
+				"type": "공휴일",
+				"startTime": "10:00",
+				"endTime": "19:00",
+				"isDayOff": false,
+				"description": "",
+				"outer-class": {
+					"bizHourList": null
+				}
+			}
+		]
+	},
+	"options": {
+		"optionList": [
+			{
+				"id": "1",
+				"name": "예약",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			},
+			{
+				"id": "7",
+				"name": "무선 인터넷",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			},
+			{
+				"id": "6",
+				"name": "유아시설(놀이방)",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			},
+			{
+				"id": "8",
+				"name": "남/녀 화장실 구분",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			}
+		],
+		"optionDescList": []
+	},
+	"images": {
+		"imageList": [
+			{
+				"type": "DRT",
+				"number": "1",
+				"url": "/서울볼더스 클라이밍 컴퍼니_main0_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2019-08-01 18:10:36",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			},
+			{
+				"type": "DRT",
+				"number": "2",
+				"url": "/서울볼더스 클라이밍 컴퍼니_main1_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2019-08-01 18:10:36",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			},
+			{
+				"type": "DRT",
+				"number": "3",
+				"url": "/서울볼더스 클라이밍 컴퍼니_main2_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2019-08-01 18:10:36",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			},
+			{
+				"type": "DRT",
+				"number": "4",
+				"url": "/서울볼더스 클라이밍 컴퍼니_main3_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2019-08-01 18:10:36",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			},
+			{
+				"type": "DRT",
+				"number": "5",
+				"url": "/서울볼더스 클라이밍 컴퍼니_main4_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2019-08-01 18:10:36",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			}
+		]
+	},
+	"menus": {
+		"menuImage": null,
+		"menuList": [
+			{
+				"name": "일일 강습권",
+				"price": "25,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "일일 이용권",
+				"price": "20,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "강습 1개월 + 자유이용 1개월",
+				"price": "190,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "강습 2개월 + 자유이용 2개월",
+				"price": "290,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "정기권 1개월",
+				"price": "110,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "정기권 3개월",
+				"price": "290,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "3회권",
+				"price": "50,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "주말 강습 2개월",
+				"price": "200,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "주말 이용권 2개월",
+				"price": "120,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			}
+		]
+	},
+	"menuImages": {
+		"menuImageList": [
+			{
+				"type": "drt",
+				"imageUrl": "http://ldb.phinf.naver.net/20191022_28/1571733784387NlQyB_JPEG/fvqtx_SPH8l3wb0GBCSBc9cD.jpg",
+				"postUrl": null,
+				"score": null,
+				"updateDate": "2020-01-30 12:32:26",
+				"source": null
+			}
+		]
+	},
+	"coupon": {
+		"isShow": false,
+		"url": "",
+		"mobileUrl": ""
+	},
+	"subphones": {
+		"count": "0",
+		"subphoneList": []
+	},
+	"relateInfos": {
+		"relateInfoList": []
+	},
+	"searchInterlock": {
+		"TRUE": "1",
+		"keyword": "876ffbe8449074b6f1e0e3b71e8984f081e5b19bd7e799f6d8175186e9a45a59b59eae1e9372c90e0da6ab34dd0d49fe98508ec4a09cfd370a7ec70179c6f395733781777699e9444a75e315243649ce9a62165e7b9302ddcdd63c85e02fee73bfd8ffed3f9f8087c37b302b0d17792e9a1ca4b7f9b820091501917e7a652e2254277e17dcecbdb9b1daa2ac2ac1c027",
+		"blog": "1",
+		"cafe": "1"
+	},
+	"streetPanorama": {
+		"id": "7/XgdeDgiWOd70Cn/i12Ew==",
+		"pan": "43.42",
+		"tilt": "10",
+		"lng": "126.8908175",
+		"lat": "37.5419597",
+		"fov": "120"
+	},
+	"skyPanorama": {
+		"id": "zdvVlJuYrihvjEVXw8lu7A==",
+		"pan": "-111.75",
+		"tilt": "-30",
+		"lng": "126.895211",
+		"lat": "37.543844",
+		"fov": "124"
+	},
+	"insidePanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"interiorPanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"indoorPanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"indoor": {
+		"floor": "",
+		"underGmid": null,
+		"underMid": "0"
+	},
+	"theme": {
+		"isMovie": false,
+		"isOpinet": false,
+		"isWingbus": false,
+		"isWingspoon": false,
+		"isHospital": false,
+		"isLand": false,
+		"isSubway": false,
+		"isStation": false,
+		"isTerminal": false,
+		"isAirport": false,
+		"isAttraction": false,
+		"isLeisure": false,
+		"isIndoorMap": false,
+		"extKey": "238326"
+	},
+	"themeDetail": {
+		"movieDetail": null,
+		"attractionDetail": null,
+		"leisureDetail": null,
+		"indoorMapDetail": null
+	},
+	"editButtons": {
+		"editButtonList": [
+			{
+				"name": "정보수정 제안",
+				"type": "report",
+				"url": "\n\t\thttps://report.map.naver.com/form.nhn\n\t",
+				"nclicksName": "wronginfo",
+				"outer-class": {
+					"editButtonList": null
+				}
+			},
+			{
+				"name": "통계",
+				"type": "stats",
+				"url": "https://submit.naver.com/checkLoginType.nhn",
+				"nclicksName": "stats",
+				"outer-class": {
+					"editButtonList": null
+				}
+			}
+		]
+	},
+	"poi": {
+		"poi_info": {
+			"road": {
+				"poiShapeType": "1",
+				"shapeKey": null,
+				"boundary": null,
+				"detail": null
+			},
+			"hasRoad": false,
+			"land": null,
+			"hasLand": false,
+			"polygon": null,
+			"hasPolygon": false
+		},
+		"entrance_coord": {
+			"ENTRANCE_COORD_FIELD_SIZE": 7,
+			"entranceCoords": []
+		}
+	},
+	"thumbnail": {
+		"number": "0",
+		"url": "http://ldb.phinf.naver.net/20190801_161/1564650570013E8Ii5_JPEG/dIrgizLNjuZXVM0fwI3gJ2hb.jpg",
+		"source": null,
+		"imageTabName": "baseInfo",
+		"modDate": null,
+		"hasMore": true
+	},
+	"cpDetail": {
+		"nadleDetail": null,
+		"citymapDetail": null,
+		"baeminDetail": null,
+		"onnuriDetail": null,
+		"campingzoneDetail": null,
+		"parkingModuDetail": null,
+		"toiletDetail": null,
+		"naverBookingDetail": {
+			"isShow": true,
+			"reserveUrl": "https://booking.naver.com/booking/12/bizes/238326",
+			"isNaverEasyBooking": false
+		},
+		"uokDetail": null,
+		"hiraDetail": null,
+		"tvcastDetail": null,
+		"shopwindowDetail": null,
+		"yogiyoDetail": null,
+		"cescoDetail": null,
+		"golfzonDetail": null,
+		"opinetDetail": null,
+		"yanoljaDetail": null,
+		"goodchoiceDetail": null,
+		"yeogiyaDetail": null,
+		"naverhotelDetail": null,
+		"cpMenuList": [
+			"DEFAULT"
+		],
+		"relatedLinks": {
+			"relatedLinkList": []
+		},
+		"michelinGuide": null,
+		"kozazaDetail": null,
+		"heybeautyDetail": null
+	},
+	"card": {
+		"hasBenefit": false
+	},
+	"hairshop": null
+}

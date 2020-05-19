@@ -1,0 +1,347 @@
+{
+	"summary": {
+		"siteInquiryType": "detail",
+		"siteType": "drt",
+		"coordinate": {
+			"x": "127.0247959",
+			"y": "37.5743374",
+			"mapZoomLevel": "12",
+			"isExactPosition": true
+		},
+		"id": "427957402",
+		"name": "산타클라이밍",
+		"address": "서울특별시 동대문구 신설동 103-15 이조빌딩 지하 1층",
+		"addressAbbr": "신설동 103-15",
+		"roadAddr": {
+			"text": "서울특별시 동대문구 난계로30길 23",
+			"abbrText": "난계로30길 23"
+		},
+		"isPollingPlace": false,
+		"isRestaurant": false,
+		"isHairshop": false,
+		"isPlaceAttraction": false,
+		"isAccommodation": false,
+		"phone": "02-2233-5157",
+		"virtualPhone": "0507-1425-5157",
+		"phoneOrigin": "02-2233-5157",
+		"isCallLink": false,
+		"callLinkKey": "f9619e95006282ff4d1fa23c2c3e3509",
+		"isPremium": false,
+		"category": "스포츠,오락 &gt; 암벽등반",
+		"twoDepthCategory": "스포츠,오락 &gt; 암벽등반",
+		"lastCategory": "암벽등반",
+		"josaForLastCategory": "을",
+		"cid": "222037",
+		"homepageList": [
+			{
+				"url": "http://santaclimbinggym.modoo.at/",
+				"landingUrl": "http://santaclimbinggym.modoo.at/",
+				"korName": "모두",
+				"type": "modoo",
+				"mUrl": "http://santaclimbinggym.modoo.at/",
+				"mLandingUrl": "http://santaclimbinggym.modoo.at/",
+				"className": "modoo",
+				"isRepresent": true,
+				"isDeadUrl": false
+			}
+		],
+		"description": "",
+		"detailedDescription": "스포츠클라이밍이란?\n실내, 실외에 만들어진 인공암벽을 오르는 스포츠를 말하며 인공벽에 설치된 홀드를 잡고 목표지점까지 도달하는 운동입니다.\n일상생활에서 사용하지 않는 근육을 주로 사용하는 전신운동으로, 자연스러운 체중감량 효과와 더불어 완력과 유연성, 균형감각,\n지구력, 순박력 등을 골고루 향상시켜줍니다.\n암벽화 한켤레면 기본적인 운동준비 완료!! 망설이지 말고 지금 산타클라이밍에서 도전해보세요,",
+		"descriptionForMobile": "스포츠클라이밍이란?\n실내, 실외에 만들어진 인공암벽을 ...",
+		"moreDescriptionBtnForMobile": true,
+		"moreDetailedDescription": "",
+		"moreDetailedDescriptionUrl": "",
+		"road": "1호선 신설동역 10번출구 뒷쪽 드림약국 골목으로 직진하신후 신성순대국끼고 좌회전하시면 육전식당 대각선 방향에 위치하고 있습니다. 신설동역에서 도보 2분거리 ^^",
+		"infoSource": "",
+		"infoSourceUrl": "",
+		"targetUrl": "",
+		"mobileTargetUrl": "",
+		"hasPoint": false,
+		"hasReview": false,
+		"isUserEditCheck": false,
+		"repKeywordList": [
+			"클라이밍",
+			"스포츠클라이밍",
+			"실내암벽등반센터",
+			"암벽등반",
+			"볼더링"
+		],
+		"brandDirNum": null,
+		"naverTalktalkUrlForPc": null,
+		"naverTalktalkUrlForMobile": null,
+		"isNailshop": false,
+		"isHospital": false,
+		"isNaverhotel": false
+	},
+	"bizHours": {
+		"bizHourList": [
+			{
+				"type": "매일",
+				"startTime": "11:00",
+				"endTime": "22:30",
+				"isDayOff": false,
+				"description": "매월 첫째, 셋째주 일요일 휴무",
+				"outer-class": {
+					"bizHourList": null
+				}
+			},
+			{
+				"type": "주말",
+				"startTime": "11:00",
+				"endTime": "19:00",
+				"isDayOff": false,
+				"description": "",
+				"outer-class": {
+					"bizHourList": null
+				}
+			},
+			{
+				"type": "공휴일",
+				"startTime": "11:00",
+				"endTime": "19:00",
+				"isDayOff": false,
+				"description": "",
+				"outer-class": {
+					"bizHourList": null
+				}
+			}
+		]
+	},
+	"options": {
+		"optionList": [
+			{
+				"id": "2",
+				"name": "주차",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			},
+			{
+				"id": "1",
+				"name": "예약",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			},
+			{
+				"id": "7",
+				"name": "무선 인터넷",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			},
+			{
+				"id": "8",
+				"name": "남/녀 화장실 구분",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			}
+		],
+		"optionDescList": []
+	},
+	"images": {
+		"imageList": [
+			{
+				"type": "DRT",
+				"number": "1",
+				"url": "/산타클라이밍_main0_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2017-08-09 05:24:09",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			}
+		]
+	},
+	"menus": {
+		"menuImage": null,
+		"menuList": [
+			{
+				"name": "일일체험등반",
+				"price": "27,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			}
+		]
+	},
+	"menuImages": {
+		"menuImageList": []
+	},
+	"coupon": {
+		"isShow": false,
+		"url": "",
+		"mobileUrl": ""
+	},
+	"subphones": {
+		"count": "0",
+		"subphoneList": []
+	},
+	"relateInfos": {
+		"relateInfoList": []
+	},
+	"searchInterlock": {
+		"TRUE": "1",
+		"keyword": "2ffb7ed95082ad1fe18b89d90e29d88e1a3e1f099558fc94458eab010564fdfcc428a40be7c5096d7790edb7ed7016af50edc5fd803a4d3cccb8a7666fa432087f82262a3496dee03ff625b70cc206ba920cf782e31f79b9c37df814d43195db",
+		"blog": "1",
+		"cafe": "1"
+	},
+	"streetPanorama": {
+		"id": "KiEHPnVbwRpyOcVxGvxXRg==",
+		"pan": "32.75",
+		"tilt": "10",
+		"lng": "127.0247137",
+		"lat": "37.5742095",
+		"fov": "120"
+	},
+	"skyPanorama": {
+		"id": "68zHhinkU6yNx7TYEBdVfQ==",
+		"pan": "-86.62",
+		"tilt": "-30",
+		"lng": "127.0316849",
+		"lat": "37.573925",
+		"fov": "124"
+	},
+	"insidePanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"interiorPanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"indoorPanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"indoor": {
+		"floor": "",
+		"underGmid": null,
+		"underMid": "0"
+	},
+	"theme": null,
+	"themeDetail": null,
+	"editButtons": {
+		"editButtonList": [
+			{
+				"name": "정보수정 제안",
+				"type": "report",
+				"url": "\n\t\thttps://report.map.naver.com/form.nhn\n\t",
+				"nclicksName": "wronginfo",
+				"outer-class": {
+					"editButtonList": null
+				}
+			},
+			{
+				"name": "통계",
+				"type": "stats",
+				"url": "https://submit.naver.com/checkLoginType.nhn",
+				"nclicksName": "stats",
+				"outer-class": {
+					"editButtonList": null
+				}
+			}
+		]
+	},
+	"poi": {
+		"poi_info": {
+			"road": {
+				"poiShapeType": "1",
+				"shapeKey": null,
+				"boundary": null,
+				"detail": null
+			},
+			"hasRoad": false,
+			"land": null,
+			"hasLand": false,
+			"polygon": null,
+			"hasPolygon": false
+		},
+		"entrance_coord": {
+			"ENTRANCE_COORD_FIELD_SIZE": 7,
+			"entranceCoords": [
+				{
+					"isRepresentative": "1",
+					"coordType": "5",
+					"entranceCoordX": "127.0247210",
+					"entranceCoordY": "37.5742500",
+					"coordSubType": 1
+				}
+			]
+		}
+	},
+	"thumbnail": {
+		"number": "0",
+		"url": "http://ldb.phinf.naver.net/20170328_65/1490695450165Yyt2H_JPEG/userRegistration_70bf6d9f606145ababb557e994c7000d_photo_2017-03-27_11-24-10.jpg",
+		"source": null,
+		"imageTabName": "baseInfo",
+		"modDate": null,
+		"hasMore": false
+	},
+	"cpDetail": {
+		"nadleDetail": null,
+		"citymapDetail": null,
+		"baeminDetail": null,
+		"onnuriDetail": null,
+		"campingzoneDetail": null,
+		"parkingModuDetail": null,
+		"toiletDetail": null,
+		"naverBookingDetail": null,
+		"uokDetail": null,
+		"hiraDetail": null,
+		"tvcastDetail": null,
+		"shopwindowDetail": null,
+		"yogiyoDetail": null,
+		"cescoDetail": null,
+		"golfzonDetail": null,
+		"opinetDetail": null,
+		"yanoljaDetail": null,
+		"goodchoiceDetail": null,
+		"yeogiyaDetail": null,
+		"naverhotelDetail": null,
+		"cpMenuList": [
+			"DEFAULT"
+		],
+		"relatedLinks": {
+			"relatedLinkList": []
+		},
+		"michelinGuide": null,
+		"kozazaDetail": null,
+		"heybeautyDetail": null
+	},
+	"card": {
+		"hasBenefit": false
+	},
+	"hairshop": null
+}

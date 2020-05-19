@@ -1,0 +1,331 @@
+{
+	"summary": {
+		"siteInquiryType": "detail",
+		"siteType": "drt",
+		"coordinate": {
+			"x": "127.0260962",
+			"y": "37.5168044",
+			"mapZoomLevel": "8",
+			"isExactPosition": true
+		},
+		"id": "1384748029",
+		"name": "콜스에듀케이션",
+		"address": "서울특별시 강남구 논현동 27-9",
+		"addressAbbr": "논현동 27-9",
+		"roadAddr": {
+			"text": "서울특별시 강남구 학동로23길 59",
+			"abbrText": "학동로23길 59"
+		},
+		"isPollingPlace": false,
+		"isRestaurant": false,
+		"isHairshop": false,
+		"isPlaceAttraction": false,
+		"isAccommodation": false,
+		"phone": "070-7766-2152",
+		"virtualPhone": "0507-1302-2152",
+		"phoneOrigin": "070-7766-2152",
+		"isCallLink": false,
+		"callLinkKey": "b2ac6dc888cf947b2c742a358f63a90a",
+		"isPremium": false,
+		"category": "스포츠,오락 &gt; 암벽등반",
+		"twoDepthCategory": "스포츠,오락 &gt; 암벽등반",
+		"lastCategory": "암벽등반",
+		"josaForLastCategory": "을",
+		"cid": "222037",
+		"homepageList": [
+			{
+				"url": "https://colsschool.modoo.at/",
+				"landingUrl": "https://colsschool.modoo.at/",
+				"korName": "모두",
+				"type": "modoo",
+				"mUrl": "https://colsschool.modoo.at/",
+				"mLandingUrl": "https://colsschool.modoo.at/",
+				"className": "modoo",
+				"isRepresent": true,
+				"isDeadUrl": false
+			},
+			{
+				"url": "https://blog.naver.com/colsschool",
+				"landingUrl": "https://blog.naver.com/colsschool",
+				"korName": "블로그",
+				"type": "blog",
+				"mUrl": "https://blog.naver.com/colsschool",
+				"mLandingUrl": "https://blog.naver.com/colsschool",
+				"className": "blog",
+				"isRepresent": false,
+				"isDeadUrl": false
+			}
+		],
+		"description": "",
+		"detailedDescription": "다양한 레포츠를 즐기고 쉽게 배울수 있는 스포츠교육커뮤니티로 컨탠츠별로 수업의 장소가 틀리오니 필히 사전 대표번호로 문의해주세요.\n사전예약 필수!",
+		"descriptionForMobile": "다양한 레포츠를 즐기고 쉽게 배울수 있는 스포츠교육커뮤...",
+		"moreDescriptionBtnForMobile": true,
+		"moreDetailedDescription": "",
+		"moreDetailedDescriptionUrl": "",
+		"road": "",
+		"infoSource": "",
+		"infoSourceUrl": "",
+		"targetUrl": "",
+		"mobileTargetUrl": "",
+		"hasPoint": false,
+		"hasReview": false,
+		"isUserEditCheck": false,
+		"repKeywordList": [
+			"어린이클라이밍",
+			"키즈스포츠",
+			"실내스포츠",
+			"어린이체육",
+			"스쿠버다이빙"
+		],
+		"brandDirNum": null,
+		"naverTalktalkUrlForPc": null,
+		"naverTalktalkUrlForMobile": null,
+		"isNailshop": false,
+		"isHospital": false,
+		"isNaverhotel": false
+	},
+	"bizHours": {
+		"bizHourList": [
+			{
+				"type": "매일",
+				"startTime": "10:00",
+				"endTime": "18:00",
+				"isDayOff": false,
+				"description": "",
+				"outer-class": {
+					"bizHourList": null
+				}
+			}
+		]
+	},
+	"options": {
+		"optionList": [
+			{
+				"id": "1",
+				"name": "예약",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			}
+		],
+		"optionDescList": []
+	},
+	"images": {
+		"imageList": [
+			{
+				"type": "DRT",
+				"number": "1",
+				"url": "/콜스에듀케이션_main0_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2018-01-20 23:55:30",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			}
+		]
+	},
+	"menus": {
+		"menuImage": null,
+		"menuList": []
+	},
+	"menuImages": {
+		"menuImageList": []
+	},
+	"coupon": {
+		"isShow": false,
+		"url": "",
+		"mobileUrl": ""
+	},
+	"subphones": {
+		"count": "0",
+		"subphoneList": []
+	},
+	"relateInfos": {
+		"relateInfoList": []
+	},
+	"searchInterlock": {
+		"TRUE": "1",
+		"keyword": "12ff9eb052e7299b931c8035715a33f53566317b125897155b4a85aa48d91f420b77676c5723cdcab905c8379da8955b50edc5fd803a4d3cccb8a7666fa432088893a96e5fed640a10ad4c340e08f992047392cbbead41b85b61cee8e3bc46bb",
+		"blog": "1",
+		"cafe": "1"
+	},
+	"streetPanorama": {
+		"id": "e5FaLs3DxvQFzhGiuNsL0w==",
+		"pan": "125.94",
+		"tilt": "10",
+		"lng": "127.0259943",
+		"lat": "37.5168781",
+		"fov": "120"
+	},
+	"skyPanorama": {
+		"id": "1o2uG0jvSNFSZYtatncaAQ==",
+		"pan": "32.36",
+		"tilt": "-30",
+		"lng": "127.0254822",
+		"lat": "37.5158348",
+		"fov": "124"
+	},
+	"insidePanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"interiorPanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"indoorPanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"indoor": {
+		"floor": "",
+		"underGmid": null,
+		"underMid": "0"
+	},
+	"theme": {
+		"isMovie": false,
+		"isOpinet": false,
+		"isWingbus": false,
+		"isWingspoon": false,
+		"isHospital": false,
+		"isLand": false,
+		"isSubway": false,
+		"isStation": false,
+		"isTerminal": false,
+		"isAirport": false,
+		"isAttraction": false,
+		"isLeisure": false,
+		"isIndoorMap": false,
+		"extKey": "141629"
+	},
+	"themeDetail": {
+		"movieDetail": null,
+		"attractionDetail": null,
+		"leisureDetail": null,
+		"indoorMapDetail": null
+	},
+	"editButtons": {
+		"editButtonList": [
+			{
+				"name": "정보수정 제안",
+				"type": "report",
+				"url": "\n\t\thttps://report.map.naver.com/form.nhn\n\t",
+				"nclicksName": "wronginfo",
+				"outer-class": {
+					"editButtonList": null
+				}
+			},
+			{
+				"name": "통계",
+				"type": "stats",
+				"url": "https://submit.naver.com/checkLoginType.nhn",
+				"nclicksName": "stats",
+				"outer-class": {
+					"editButtonList": null
+				}
+			}
+		]
+	},
+	"poi": {
+		"poi_info": {
+			"road": {
+				"poiShapeType": "1",
+				"shapeKey": null,
+				"boundary": null,
+				"detail": null
+			},
+			"hasRoad": false,
+			"land": null,
+			"hasLand": false,
+			"polygon": null,
+			"hasPolygon": false
+		},
+		"entrance_coord": {
+			"ENTRANCE_COORD_FIELD_SIZE": 7,
+			"entranceCoords": [
+				{
+					"isRepresentative": "1",
+					"coordType": "3",
+					"entranceCoordX": "127.0260220",
+					"entranceCoordY": "37.5168370",
+					"coordSubType": 1
+				},
+				{
+					"isRepresentative": "1",
+					"coordType": "1",
+					"entranceCoordX": "127.0262580",
+					"entranceCoordY": "37.5168210",
+					"coordSubType": 5
+				}
+			]
+		}
+	},
+	"thumbnail": {
+		"number": "0",
+		"url": "http://ldb.phinf.naver.net/20180120_85/1516460035991Ak9l3_JPEG/YIJRnC_3PsBf8qPu8nhkdj0Z.JPG.jpg",
+		"source": null,
+		"imageTabName": "baseInfo",
+		"modDate": null,
+		"hasMore": false
+	},
+	"cpDetail": {
+		"nadleDetail": null,
+		"citymapDetail": null,
+		"baeminDetail": null,
+		"onnuriDetail": null,
+		"campingzoneDetail": null,
+		"parkingModuDetail": null,
+		"toiletDetail": null,
+		"naverBookingDetail": {
+			"isShow": true,
+			"reserveUrl": "https://booking.naver.com/booking/5/bizes/141629",
+			"isNaverEasyBooking": false
+		},
+		"uokDetail": null,
+		"hiraDetail": null,
+		"tvcastDetail": null,
+		"shopwindowDetail": null,
+		"yogiyoDetail": null,
+		"cescoDetail": null,
+		"golfzonDetail": null,
+		"opinetDetail": null,
+		"yanoljaDetail": null,
+		"goodchoiceDetail": null,
+		"yeogiyaDetail": null,
+		"naverhotelDetail": null,
+		"cpMenuList": [
+			"DEFAULT"
+		],
+		"relatedLinks": {
+			"relatedLinkList": []
+		},
+		"michelinGuide": null,
+		"kozazaDetail": null,
+		"heybeautyDetail": null
+	},
+	"card": {
+		"hasBenefit": false
+	},
+	"hairshop": null
+}

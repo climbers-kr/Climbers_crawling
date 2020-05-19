@@ -1,0 +1,265 @@
+{
+	"summary": {
+		"siteInquiryType": "detail",
+		"siteType": "drt",
+		"coordinate": {
+			"x": "126.8917869",
+			"y": "37.5268582",
+			"mapZoomLevel": "12",
+			"isExactPosition": true
+		},
+		"id": "38591347",
+		"name": "코드홀드",
+		"address": "서울특별시 영등포구 양평동3가 46",
+		"addressAbbr": "양평동3가 46",
+		"roadAddr": {
+			"text": "서울특별시 영등포구 선유로 146 이앤씨드림타워",
+			"abbrText": "선유로 146"
+		},
+		"isPollingPlace": false,
+		"isRestaurant": false,
+		"isHairshop": false,
+		"isPlaceAttraction": false,
+		"isAccommodation": false,
+		"phone": "02-1577-8716",
+		"virtualPhone": "",
+		"phoneOrigin": "02-1577-8716",
+		"isCallLink": false,
+		"callLinkKey": "8434f4971ff35e5a2d345668b270fe30",
+		"isPremium": false,
+		"category": "스포츠,오락 &gt; 암벽등반",
+		"twoDepthCategory": "스포츠,오락 &gt; 암벽등반",
+		"lastCategory": "암벽등반",
+		"josaForLastCategory": "을",
+		"cid": "222037",
+		"homepageList": [
+			{
+				"url": "http://holds-wholesale.com/",
+				"landingUrl": "http://holds-wholesale.com/",
+				"korName": "공식",
+				"type": "normal",
+				"mUrl": "http://holds-wholesale.com/",
+				"mLandingUrl": "http://holds-wholesale.com/",
+				"className": "official",
+				"isRepresent": true,
+				"isDeadUrl": false
+			},
+			{
+				"url": "https://www.facebook.com/Holdswholesale/",
+				"landingUrl": "https://www.facebook.com/Holdswholesale/",
+				"korName": "공식",
+				"type": "facebook",
+				"mUrl": "https://www.facebook.com/Holdswholesale/",
+				"mLandingUrl": "https://www.facebook.com/Holdswholesale/",
+				"className": "official",
+				"isRepresent": false,
+				"isDeadUrl": false
+			},
+			{
+				"url": "https://www.instagram.com/codeholds/",
+				"landingUrl": "https://www.instagram.com/codeholds/",
+				"korName": "공식",
+				"type": "instagram",
+				"mUrl": "https://www.instagram.com/codeholds/",
+				"mLandingUrl": "https://www.instagram.com/codeholds/",
+				"className": "official",
+				"isRepresent": false,
+				"isDeadUrl": false
+			}
+		],
+		"description": "",
+		"detailedDescription": "",
+		"descriptionForMobile": "",
+		"moreDescriptionBtnForMobile": false,
+		"moreDetailedDescription": "",
+		"moreDetailedDescriptionUrl": "",
+		"road": "",
+		"infoSource": "",
+		"infoSourceUrl": "",
+		"targetUrl": "",
+		"mobileTargetUrl": "",
+		"hasPoint": false,
+		"hasReview": false,
+		"isUserEditCheck": false,
+		"repKeywordList": [
+			"인공암벽홀드",
+			"클라이밍홀드"
+		],
+		"brandDirNum": null,
+		"naverTalktalkUrlForPc": null,
+		"naverTalktalkUrlForMobile": null,
+		"isNailshop": false,
+		"isHospital": false,
+		"isNaverhotel": false
+	},
+	"bizHours": {
+		"bizHourList": [
+			{
+				"type": "평일",
+				"startTime": "09:00",
+				"endTime": "18:00",
+				"isDayOff": false,
+				"description": "",
+				"outer-class": {
+					"bizHourList": null
+				}
+			}
+		]
+	},
+	"options": {
+		"optionList": [],
+		"optionDescList": []
+	},
+	"images": {
+		"imageList": []
+	},
+	"menus": {
+		"menuImage": null,
+		"menuList": []
+	},
+	"menuImages": {
+		"menuImageList": []
+	},
+	"coupon": {
+		"isShow": false,
+		"url": "",
+		"mobileUrl": ""
+	},
+	"subphones": {
+		"count": "0",
+		"subphoneList": []
+	},
+	"relateInfos": {
+		"relateInfoList": []
+	},
+	"searchInterlock": {
+		"TRUE": "1",
+		"keyword": "bb4ca3bf22be1b1a5eac74af28a387ab2e5a2400e5e746adb079c36d98d102a250eaee2bf269af82418b513aa14c2e1e57bf8320dc49b09902edd489fd14cc310841415680f5018fa8fdfea6d5ada996",
+		"blog": "1",
+		"cafe": "1"
+	},
+	"streetPanorama": {
+		"id": "Sl/9xKJ6Z7LDTU0F+i1lbQ==",
+		"pan": "97.29",
+		"tilt": "10",
+		"lng": "126.8911982",
+		"lat": "37.526933",
+		"fov": "120"
+	},
+	"skyPanorama": {
+		"id": "KG9cK7d0Xib072UeUzjmUA==",
+		"pan": "-96.98",
+		"tilt": "-30",
+		"lng": "126.8924866",
+		"lat": "37.5269432",
+		"fov": "124"
+	},
+	"insidePanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"interiorPanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"indoorPanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"indoor": {
+		"floor": "",
+		"underGmid": null,
+		"underMid": "0"
+	},
+	"theme": null,
+	"themeDetail": null,
+	"editButtons": {
+		"editButtonList": [
+			{
+				"name": "정보수정 제안",
+				"type": "report",
+				"url": "\n\t\thttps://report.map.naver.com/form.nhn\n\t",
+				"nclicksName": "wronginfo",
+				"outer-class": {
+					"editButtonList": null
+				}
+			},
+			{
+				"name": "통계",
+				"type": "stats",
+				"url": "https://submit.naver.com/checkLoginType.nhn",
+				"nclicksName": "stats",
+				"outer-class": {
+					"editButtonList": null
+				}
+			}
+		]
+	},
+	"poi": {
+		"poi_info": {
+			"road": {
+				"poiShapeType": "1",
+				"shapeKey": null,
+				"boundary": null,
+				"detail": null
+			},
+			"hasRoad": false,
+			"land": null,
+			"hasLand": false,
+			"polygon": null,
+			"hasPolygon": false
+		},
+		"entrance_coord": {
+			"ENTRANCE_COORD_FIELD_SIZE": 7,
+			"entranceCoords": []
+		}
+	},
+	"thumbnail": null,
+	"cpDetail": {
+		"nadleDetail": null,
+		"citymapDetail": null,
+		"baeminDetail": null,
+		"onnuriDetail": null,
+		"campingzoneDetail": null,
+		"parkingModuDetail": null,
+		"toiletDetail": null,
+		"naverBookingDetail": null,
+		"uokDetail": null,
+		"hiraDetail": null,
+		"tvcastDetail": null,
+		"shopwindowDetail": null,
+		"yogiyoDetail": null,
+		"cescoDetail": null,
+		"golfzonDetail": null,
+		"opinetDetail": null,
+		"yanoljaDetail": null,
+		"goodchoiceDetail": null,
+		"yeogiyaDetail": null,
+		"naverhotelDetail": null,
+		"cpMenuList": [
+			"DEFAULT"
+		],
+		"relatedLinks": {
+			"relatedLinkList": []
+		},
+		"michelinGuide": null,
+		"kozazaDetail": null,
+		"heybeautyDetail": null
+	},
+	"card": {
+		"hasBenefit": false
+	},
+	"hairshop": null
+}

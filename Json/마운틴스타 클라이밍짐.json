@@ -1,0 +1,485 @@
+{
+	"summary": {
+		"siteInquiryType": "detail",
+		"siteType": "drt",
+		"coordinate": {
+			"x": "127.1381487",
+			"y": "37.5919076",
+			"mapZoomLevel": "8",
+			"isExactPosition": true
+		},
+		"id": "1529658830",
+		"name": "마운틴스타 클라이밍짐",
+		"address": "경기도 구리시 수택동 847-9",
+		"addressAbbr": "수택동 847-9",
+		"roadAddr": {
+			"text": "경기도 구리시 체육관로 82 타워클래스 6층",
+			"abbrText": "체육관로 82"
+		},
+		"isPollingPlace": false,
+		"isRestaurant": false,
+		"isHairshop": false,
+		"isPlaceAttraction": false,
+		"isAccommodation": false,
+		"phone": "031-565-8849",
+		"virtualPhone": "0507-1378-8849",
+		"phoneOrigin": "031-565-8849",
+		"isCallLink": false,
+		"callLinkKey": "95e3347d38116d78d11f331720ea8758",
+		"isPremium": false,
+		"category": "스포츠,오락 &gt; 암벽등반",
+		"twoDepthCategory": "스포츠,오락 &gt; 암벽등반",
+		"lastCategory": "암벽등반",
+		"josaForLastCategory": "을",
+		"cid": "222037",
+		"homepageList": [
+			{
+				"url": "http://www.instagram.com/mountainstar2020",
+				"landingUrl": "http://www.instagram.com/mountainstar2020",
+				"korName": "공식",
+				"type": "instagram",
+				"mUrl": "http://www.instagram.com/mountainstar2020",
+				"mLandingUrl": "http://www.instagram.com/mountainstar2020",
+				"className": "official",
+				"isRepresent": true,
+				"isDeadUrl": false
+			},
+			{
+				"url": "https://mountainstarclimbing.modoo.at/",
+				"landingUrl": "https://mountainstarclimbing.modoo.at/",
+				"korName": "공식",
+				"type": "normal",
+				"mUrl": "https://mountainstarclimbing.modoo.at/",
+				"mLandingUrl": "https://mountainstarclimbing.modoo.at/",
+				"className": "official",
+				"isRepresent": false,
+				"isDeadUrl": false
+			},
+			{
+				"url": "https://cafe.naver.com/mtstarclimbing",
+				"landingUrl": "https://cafe.naver.com/mtstarclimbing",
+				"korName": "카페",
+				"type": "cafe",
+				"mUrl": "https://cafe.naver.com/mtstarclimbing",
+				"mLandingUrl": "https://cafe.naver.com/mtstarclimbing",
+				"className": "cafe",
+				"isRepresent": false,
+				"isDeadUrl": false
+			},
+			{
+				"url": "https://mountainstarclimbing.modoo.at",
+				"landingUrl": "https://mountainstarclimbing.modoo.at",
+				"korName": "모두",
+				"type": "modoo",
+				"mUrl": "https://mountainstarclimbing.modoo.at",
+				"mLandingUrl": "https://mountainstarclimbing.modoo.at",
+				"className": "modoo",
+				"isRepresent": false,
+				"isDeadUrl": false
+			}
+		],
+		"description": "",
+		"detailedDescription": "전화: 031-565-8849\n마운틴스타 클라이밍짐 입니다. \n회원 한분한분의 건강유지와 즐겁고 에너지 넘치는 생활과 평생의 여가 활동을 누릴 수 있도록 최선의 노력을 기울이겠습니다 ^_^\n파이팅 넘치는 구리 마운틴스타로 오세요~~~>_<\n\n카카오채널 : 마운틴스타 클라이밍짐",
+		"descriptionForMobile": "전화: 031-565-8849\n마운틴스타 클라이밍짐 입...",
+		"moreDescriptionBtnForMobile": true,
+		"moreDetailedDescription": "",
+		"moreDetailedDescriptionUrl": "",
+		"road": "한성아파트 앞 사거리 위치\n수택동 행정복지센터 맞은편에 있습니다. \n\n구리시 체육관로 82 타워클래스 6층",
+		"infoSource": "",
+		"infoSourceUrl": "",
+		"targetUrl": "",
+		"mobileTargetUrl": "",
+		"hasPoint": false,
+		"hasReview": false,
+		"isUserEditCheck": false,
+		"repKeywordList": [
+			"구리클라이밍",
+			"구리실내암벽",
+			"실내클라이밍",
+			"스포츠클라이밍",
+			"클라이밍"
+		],
+		"brandDirNum": null,
+		"naverTalktalkUrlForPc": null,
+		"naverTalktalkUrlForMobile": null,
+		"isNailshop": false,
+		"isHospital": false,
+		"isNaverhotel": false
+	},
+	"bizHours": {
+		"bizHourList": [
+			{
+				"type": "평일",
+				"startTime": "10:00",
+				"endTime": "23:00",
+				"isDayOff": false,
+				"description": "",
+				"outer-class": {
+					"bizHourList": null
+				}
+			},
+			{
+				"type": "주말",
+				"startTime": "10:00",
+				"endTime": "19:00",
+				"isDayOff": false,
+				"description": "",
+				"outer-class": {
+					"bizHourList": null
+				}
+			}
+		]
+	},
+	"options": {
+		"optionList": [
+			{
+				"id": "13",
+				"name": "단체석",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			},
+			{
+				"id": "2",
+				"name": "주차",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			},
+			{
+				"id": "7",
+				"name": "무선 인터넷",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			},
+			{
+				"id": "15",
+				"name": "반려동물 동반",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			},
+			{
+				"id": "8",
+				"name": "남/녀 화장실 구분",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			}
+		],
+		"optionDescList": []
+	},
+	"images": {
+		"imageList": [
+			{
+				"type": "DRT",
+				"number": "1",
+				"url": "/마운틴스타 클라이밍짐_main0_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2020-03-21 17:55:58",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			},
+			{
+				"type": "DRT",
+				"number": "2",
+				"url": "/마운틴스타 클라이밍짐_main1_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2020-03-21 17:55:58",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			}
+		]
+	},
+	"menus": {
+		"menuImage": null,
+		"menuList": [
+			{
+				"name": "1개월 이용권(성인)",
+				"price": "110,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "1일 이용권(성인)",
+				"price": "15,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "1개월 이용권(유소년)",
+				"price": "90,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "1일 이용권(유소년)",
+				"price": "12,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "2개월패키지(16회강습+2개월자유이용)성인",
+				"price": "290,000원",
+				"isRecommended": true,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "2개월패키지(16회강습+2개월자유이용)유소년",
+				"price": "260,000원",
+				"isRecommended": true,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "2개월 강습(16회강습)",
+				"price": "220,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "일일체험/강습 (성인) 암벽화무료대여",
+				"price": "25,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "일일체험/강습 (유소년) 암벽화무료대여",
+				"price": "20,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			}
+		]
+	},
+	"menuImages": {
+		"menuImageList": [
+			{
+				"type": "drt",
+				"imageUrl": "http://ldb.phinf.naver.net/20200510_190/1589090365581TY8rr_JPEG/sD8SW3r_DqKDtFHwP2Xw0Mvd.JPG.jpg",
+				"postUrl": null,
+				"score": null,
+				"updateDate": "2020-05-13 11:52:43",
+				"source": null
+			},
+			{
+				"type": "drt",
+				"imageUrl": "http://ldb.phinf.naver.net/20200424_262/1587706971076VfNLo_JPEG/HNNWLHGIS60Fe8OPwyel-sBU.jpg",
+				"postUrl": null,
+				"score": null,
+				"updateDate": "2020-05-13 11:52:43",
+				"source": null
+			}
+		]
+	},
+	"coupon": {
+		"isShow": false,
+		"url": "",
+		"mobileUrl": ""
+	},
+	"subphones": {
+		"count": "0",
+		"subphoneList": []
+	},
+	"relateInfos": {
+		"relateInfoList": []
+	},
+	"searchInterlock": {
+		"TRUE": "1",
+		"keyword": "0f74352cec00cfcb008a78e0a58df2fe2ce1351e15e3f13e495134a53d94c7e6799d0868e7a8ebd7fc46c3036a1eff6c138ffbdac1fe99ff8c1247df3488cd371c95940b85af77f60ed3efcb621383e21d35229dfc2f904474fa9d1b3461c6fa5025b1c86e13b6e86b0e9eb082f90c65",
+		"blog": "1",
+		"cafe": "1"
+	},
+	"streetPanorama": {
+		"id": "bMv1q9dK9ziT44iWfkptDw==",
+		"pan": "100.28",
+		"tilt": "10",
+		"lng": "127.1379203",
+		"lat": "37.5919488",
+		"fov": "120"
+	},
+	"skyPanorama": {
+		"id": "s9gLOhGeKvcXBbbn5djdzA==",
+		"pan": "-162.69",
+		"tilt": "-30",
+		"lng": "127.1385956",
+		"lat": "37.5933342",
+		"fov": "124"
+	},
+	"insidePanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"interiorPanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"indoorPanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"indoor": {
+		"floor": "",
+		"underGmid": null,
+		"underMid": "0"
+	},
+	"theme": null,
+	"themeDetail": null,
+	"editButtons": {
+		"editButtonList": [
+			{
+				"name": "정보수정 제안",
+				"type": "report",
+				"url": "\n\t\thttps://report.map.naver.com/form.nhn\n\t",
+				"nclicksName": "wronginfo",
+				"outer-class": {
+					"editButtonList": null
+				}
+			},
+			{
+				"name": "통계",
+				"type": "stats",
+				"url": "https://submit.naver.com/checkLoginType.nhn",
+				"nclicksName": "stats",
+				"outer-class": {
+					"editButtonList": null
+				}
+			}
+		]
+	},
+	"poi": {
+		"poi_info": {
+			"road": {
+				"poiShapeType": "1",
+				"shapeKey": null,
+				"boundary": null,
+				"detail": null
+			},
+			"hasRoad": false,
+			"land": null,
+			"hasLand": false,
+			"polygon": null,
+			"hasPolygon": false
+		},
+		"entrance_coord": {
+			"ENTRANCE_COORD_FIELD_SIZE": 7,
+			"entranceCoords": []
+		}
+	},
+	"thumbnail": {
+		"number": "0",
+		"url": "http://ldb.phinf.naver.net/20200321_156/1584778603639NLsx0_JPEG/6JA4MqpQl_oKh0jym8N79XEy.jpg",
+		"source": null,
+		"imageTabName": "baseInfo",
+		"modDate": null,
+		"hasMore": true
+	},
+	"cpDetail": {
+		"nadleDetail": null,
+		"citymapDetail": null,
+		"baeminDetail": null,
+		"onnuriDetail": null,
+		"campingzoneDetail": null,
+		"parkingModuDetail": null,
+		"toiletDetail": null,
+		"naverBookingDetail": null,
+		"uokDetail": null,
+		"hiraDetail": null,
+		"tvcastDetail": null,
+		"shopwindowDetail": null,
+		"yogiyoDetail": null,
+		"cescoDetail": null,
+		"golfzonDetail": null,
+		"opinetDetail": null,
+		"yanoljaDetail": null,
+		"goodchoiceDetail": null,
+		"yeogiyaDetail": null,
+		"naverhotelDetail": null,
+		"cpMenuList": [
+			"DEFAULT"
+		],
+		"relatedLinks": {
+			"relatedLinkList": []
+		},
+		"michelinGuide": null,
+		"kozazaDetail": null,
+		"heybeautyDetail": null
+	},
+	"card": {
+		"hasBenefit": false
+	},
+	"hairshop": null
+}

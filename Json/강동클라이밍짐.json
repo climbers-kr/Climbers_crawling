@@ -1,0 +1,563 @@
+{
+	"summary": {
+		"siteInquiryType": "detail",
+		"siteType": "drt",
+		"coordinate": {
+			"x": "127.1422785",
+			"y": "37.5336991",
+			"mapZoomLevel": "8",
+			"isExactPosition": true
+		},
+		"id": "13495026",
+		"name": "강동클라이밍짐",
+		"address": "서울특별시 강동구 둔촌동 63-2",
+		"addressAbbr": "둔촌동 63-2",
+		"roadAddr": {
+			"text": "서울특별시 강동구 천호대로 1178 알레소 빌딩 지하",
+			"abbrText": "천호대로 1178"
+		},
+		"isPollingPlace": false,
+		"isRestaurant": false,
+		"isHairshop": false,
+		"isPlaceAttraction": false,
+		"isAccommodation": false,
+		"phone": "070-8828-8848",
+		"virtualPhone": "0507-1438-8849",
+		"phoneOrigin": "070-8828-8848",
+		"isCallLink": false,
+		"callLinkKey": "17bc54f5c0fa0b03a0744adb5e523e84",
+		"isPremium": false,
+		"category": "스포츠,오락 &gt; 암벽등반",
+		"twoDepthCategory": "스포츠,오락 &gt; 암벽등반",
+		"lastCategory": "암벽등반",
+		"josaForLastCategory": "을",
+		"cid": "222037",
+		"homepageList": [
+			{
+				"url": "http://climbinggym.modoo.at/",
+				"landingUrl": "http://climbinggym.modoo.at/",
+				"korName": "모두",
+				"type": "modoo",
+				"mUrl": "http://climbinggym.modoo.at/",
+				"mLandingUrl": "http://climbinggym.modoo.at/",
+				"className": "modoo",
+				"isRepresent": true,
+				"isDeadUrl": false
+			},
+			{
+				"url": "http://cafe.daum.net/coodclimbing/",
+				"landingUrl": "http://cafe.daum.net/coodclimbing/",
+				"korName": "공식",
+				"type": "normal",
+				"mUrl": "http://cafe.daum.net/coodclimbing/",
+				"mLandingUrl": "http://cafe.daum.net/coodclimbing/",
+				"className": "official",
+				"isRepresent": false,
+				"isDeadUrl": false
+			},
+			{
+				"url": "http://cafe.naver.com/climbing/111",
+				"landingUrl": "http://cafe.naver.com/climbing/111",
+				"korName": "카페",
+				"type": "cafe",
+				"mUrl": "http://cafe.naver.com/climbing/111",
+				"mLandingUrl": "http://cafe.naver.com/climbing/111",
+				"className": "cafe",
+				"isRepresent": false,
+				"isDeadUrl": false
+			},
+			{
+				"url": "http://blog.naver.com/suwonclimb",
+				"landingUrl": "http://blog.naver.com/suwonclimb",
+				"korName": "블로그",
+				"type": "blog",
+				"mUrl": "http://blog.naver.com/suwonclimb",
+				"mLandingUrl": "http://blog.naver.com/suwonclimb",
+				"className": "blog",
+				"isRepresent": false,
+				"isDeadUrl": false
+			},
+			{
+				"url": "https://www.instagram.com/gdclimbing_gym/",
+				"landingUrl": "https://www.instagram.com/gdclimbing_gym/",
+				"korName": "공식",
+				"type": "instagram",
+				"mUrl": "https://www.instagram.com/gdclimbing_gym/",
+				"mLandingUrl": "https://www.instagram.com/gdclimbing_gym/",
+				"className": "official",
+				"isRepresent": false,
+				"isDeadUrl": false
+			},
+			{
+				"url": "https://www.facebook.com/gdclimbing/",
+				"landingUrl": "https://www.facebook.com/gdclimbing/",
+				"korName": "공식",
+				"type": "facebook",
+				"mUrl": "https://www.facebook.com/gdclimbing/",
+				"mLandingUrl": "https://www.facebook.com/gdclimbing/",
+				"className": "official",
+				"isRepresent": false,
+				"isDeadUrl": false
+			}
+		],
+		"description": "",
+		"detailedDescription": "스포츠클라이밍은 누구나 재미있게 즐기며 몸매관리 및 다이어트 효과가 있는 운동입니다.\n일일예약 및 단체 예약 후 이용 가능합니다.\n일반 성인 및 청소년 정규 강습반도 운영합니다.\n",
+		"descriptionForMobile": "스포츠클라이밍은 누구나 재미있게 즐기며 몸매관리 및 다...",
+		"moreDescriptionBtnForMobile": true,
+		"moreDetailedDescription": "",
+		"moreDetailedDescriptionUrl": "",
+		"road": "길동 4거리에서 하남방향으로 700m 지점 버스정류장(둔촌2동 주민센터)옆 - 셀프 세차장 우측 알레소 커피샵 건물내 ",
+		"infoSource": "",
+		"infoSourceUrl": "",
+		"targetUrl": "",
+		"mobileTargetUrl": "",
+		"hasPoint": false,
+		"hasReview": false,
+		"isUserEditCheck": false,
+		"repKeywordList": [
+			"스포츠클라이밍",
+			"실내인공암벽",
+			"암벽등반",
+			"볼더링",
+			"클라이밍짐"
+		],
+		"brandDirNum": null,
+		"naverTalktalkUrlForPc": "https://talk.naver.com/wcb27a?frm=pnmb",
+		"naverTalktalkUrlForMobile": "https://talk.naver.com/wcb27a?frm=mnmb",
+		"isNailshop": false,
+		"isHospital": false,
+		"isNaverhotel": false
+	},
+	"bizHours": {
+		"bizHourList": [
+			{
+				"type": "일요일",
+				"startTime": "00:00",
+				"endTime": "00:00",
+				"isDayOff": true,
+				"description": "",
+				"outer-class": {
+					"bizHourList": null
+				}
+			},
+			{
+				"type": "평일",
+				"startTime": "14:00",
+				"endTime": "23:00",
+				"isDayOff": false,
+				"description": "",
+				"outer-class": {
+					"bizHourList": null
+				}
+			},
+			{
+				"type": "공휴일",
+				"startTime": "00:00",
+				"endTime": "00:00",
+				"isDayOff": true,
+				"description": "",
+				"outer-class": {
+					"bizHourList": null
+				}
+			},
+			{
+				"type": "토요일",
+				"startTime": "11:00",
+				"endTime": "18:00",
+				"isDayOff": false,
+				"description": "강습시간내 개방합니다.",
+				"outer-class": {
+					"bizHourList": null
+				}
+			}
+		]
+	},
+	"options": {
+		"optionList": [
+			{
+				"id": "2",
+				"name": "주차",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			},
+			{
+				"id": "1",
+				"name": "예약",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			},
+			{
+				"id": "7",
+				"name": "무선 인터넷",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			},
+			{
+				"id": "8",
+				"name": "남/녀 화장실 구분",
+				"desc": null,
+				"outer-class": {
+					"optionList": null,
+					"optionDescList": null
+				}
+			}
+		],
+		"optionDescList": []
+	},
+	"images": {
+		"imageList": [
+			{
+				"type": "DRT",
+				"number": "1",
+				"url": "/강동클라이밍짐_main0_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2017-08-09 01:41:07",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			},
+			{
+				"type": "DRT",
+				"number": "2",
+				"url": "/강동클라이밍짐_main1_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2017-08-09 01:41:07",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			},
+			{
+				"type": "DRT",
+				"number": "3",
+				"url": "/강동클라이밍짐_main2_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2017-08-09 01:41:07",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			},
+			{
+				"type": "DRT",
+				"number": "4",
+				"url": "/강동클라이밍짐_main3_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2017-08-09 01:41:07",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			},
+			{
+				"type": "DRT",
+				"number": "5",
+				"url": "/강동클라이밍짐_main4_.jpg",
+				"source": null,
+				"desc": "",
+				"ugcInfo": null,
+				"modDate": "2017-08-09 01:41:07",
+				"moreImageUrlForPC": null,
+				"moreImageUrlForMobile": null,
+				"nclickForPC": null,
+				"tabName": "baseInfo",
+				"hideProviderText": false,
+				"outer-class": {
+					"imageList": null
+				}
+			}
+		]
+	},
+	"menus": {
+		"menuImage": null,
+		"menuList": [
+			{
+				"name": "자유이용료(1개월)",
+				"price": "90,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "기초반/초급반 강습비",
+				"price": "140,000원",
+				"isRecommended": true,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "토요반 강습비-4회",
+				"price": "80,000원",
+				"isRecommended": true,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "단체체험(1시간)",
+				"price": "10,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "일일학생체험(1시간)",
+				"price": "10,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			},
+			{
+				"name": "일일성인체험(1시간)",
+				"price": "15,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			}
+		]
+	},
+	"menuImages": {
+		"menuImageList": []
+	},
+	"coupon": {
+		"isShow": false,
+		"url": "",
+		"mobileUrl": ""
+	},
+	"subphones": {
+		"count": "1",
+		"subphoneList": [
+			{
+				"department": "",
+				"phone": "010-8737-5014",
+				"outer-class": {
+					"count": null,
+					"subphoneList": null
+				}
+			}
+		]
+	},
+	"relateInfos": {
+		"relateInfoList": []
+	},
+	"searchInterlock": {
+		"TRUE": "1",
+		"keyword": "2b0032d5b219e4d3d37b48e4ac4f622f8a3a110b851a985769c01158bfd334edb27c9906d282d44e62c6a7947d1e2c2550edc5fd803a4d3cccb8a7666fa432086680243257fa346d537a7f8be78366c6a4b5548435e0e630c21746dfcdc1e987",
+		"blog": "1",
+		"cafe": "1"
+	},
+	"streetPanorama": {
+		"id": "MqBkAHPtMhLRjFkTpaE04A==",
+		"pan": "179.37",
+		"tilt": "10",
+		"lng": "127.1422762",
+		"lat": "37.5338828",
+		"fov": "120"
+	},
+	"skyPanorama": {
+		"id": "FjCtU5LxX9yimlwroEgT0w==",
+		"pan": "-97.22",
+		"tilt": "-30",
+		"lng": "127.1455536",
+		"lat": "37.534111",
+		"fov": "124"
+	},
+	"insidePanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"interiorPanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"indoorPanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"indoor": {
+		"floor": "",
+		"underGmid": null,
+		"underMid": "0"
+	},
+	"theme": {
+		"isMovie": false,
+		"isOpinet": false,
+		"isWingbus": false,
+		"isWingspoon": false,
+		"isHospital": false,
+		"isLand": false,
+		"isSubway": false,
+		"isStation": false,
+		"isTerminal": false,
+		"isAirport": false,
+		"isAttraction": false,
+		"isLeisure": false,
+		"isIndoorMap": false,
+		"extKey": "357351"
+	},
+	"themeDetail": {
+		"movieDetail": null,
+		"attractionDetail": null,
+		"leisureDetail": null,
+		"indoorMapDetail": null
+	},
+	"editButtons": {
+		"editButtonList": [
+			{
+				"name": "정보수정 제안",
+				"type": "report",
+				"url": "\n\t\thttps://report.map.naver.com/form.nhn\n\t",
+				"nclicksName": "wronginfo",
+				"outer-class": {
+					"editButtonList": null
+				}
+			},
+			{
+				"name": "통계",
+				"type": "stats",
+				"url": "https://submit.naver.com/checkLoginType.nhn",
+				"nclicksName": "stats",
+				"outer-class": {
+					"editButtonList": null
+				}
+			}
+		]
+	},
+	"poi": {
+		"poi_info": {
+			"road": {
+				"poiShapeType": "1",
+				"shapeKey": null,
+				"boundary": null,
+				"detail": null
+			},
+			"hasRoad": false,
+			"land": null,
+			"hasLand": false,
+			"polygon": null,
+			"hasPolygon": false
+		},
+		"entrance_coord": {
+			"ENTRANCE_COORD_FIELD_SIZE": 7,
+			"entranceCoords": [
+				{
+					"isRepresentative": "1",
+					"coordType": "5",
+					"entranceCoordX": "127.1422510",
+					"entranceCoordY": "37.5337440",
+					"coordSubType": 1
+				}
+			]
+		}
+	},
+	"thumbnail": {
+		"number": "0",
+		"url": "http://ldb.phinf.naver.net/20150901_13/1441046169003Q6QhA_JPEG/SUBMIT_1431072446784_13495026.jpg",
+		"source": null,
+		"imageTabName": "baseInfo",
+		"modDate": null,
+		"hasMore": true
+	},
+	"cpDetail": {
+		"nadleDetail": null,
+		"citymapDetail": null,
+		"baeminDetail": null,
+		"onnuriDetail": null,
+		"campingzoneDetail": null,
+		"parkingModuDetail": null,
+		"toiletDetail": null,
+		"naverBookingDetail": {
+			"isShow": true,
+			"reserveUrl": "https://booking.naver.com/booking/6/bizes/357351",
+			"isNaverEasyBooking": false
+		},
+		"uokDetail": null,
+		"hiraDetail": null,
+		"tvcastDetail": null,
+		"shopwindowDetail": null,
+		"yogiyoDetail": null,
+		"cescoDetail": null,
+		"golfzonDetail": null,
+		"opinetDetail": null,
+		"yanoljaDetail": null,
+		"goodchoiceDetail": null,
+		"yeogiyaDetail": null,
+		"naverhotelDetail": null,
+		"cpMenuList": [
+			"DEFAULT"
+		],
+		"relatedLinks": {
+			"relatedLinkList": []
+		},
+		"michelinGuide": null,
+		"kozazaDetail": null,
+		"heybeautyDetail": null
+	},
+	"card": {
+		"hasBenefit": false
+	},
+	"hairshop": null
+}

@@ -1,0 +1,271 @@
+{
+	"summary": {
+		"siteInquiryType": "detail",
+		"siteType": "drt",
+		"coordinate": {
+			"x": "128.7626069",
+			"y": "35.8421783",
+			"mapZoomLevel": "12",
+			"isExactPosition": true
+		},
+		"id": "37991929",
+		"name": "챌린져클라이밍",
+		"address": "경상북도 경산시 압량읍 신대리 434 6층",
+		"addressAbbr": "신대리 434",
+		"roadAddr": {
+			"text": "경상북도 경산시 압량읍 대학로 388",
+			"abbrText": "대학로 388"
+		},
+		"isPollingPlace": false,
+		"isRestaurant": false,
+		"isHairshop": false,
+		"isPlaceAttraction": false,
+		"isAccommodation": false,
+		"phone": "053-813-3918",
+		"virtualPhone": "0507-1400-3918",
+		"phoneOrigin": "053-813-3918",
+		"isCallLink": false,
+		"callLinkKey": "a2d3edd21725d5f38688daff68cc214a",
+		"isPremium": false,
+		"category": "스포츠,오락 &gt; 암벽등반",
+		"twoDepthCategory": "스포츠,오락 &gt; 암벽등반",
+		"lastCategory": "암벽등반",
+		"josaForLastCategory": "을",
+		"cid": "222037",
+		"homepageList": [
+			{
+				"url": "http://cafe.daum.net/chgcc2",
+				"landingUrl": "http://cafe.daum.net/chgcc2",
+				"korName": "공식",
+				"type": "normal",
+				"mUrl": "http://cafe.daum.net/chgcc2",
+				"mLandingUrl": "http://cafe.daum.net/chgcc2",
+				"className": "official",
+				"isRepresent": true,
+				"isDeadUrl": false
+			}
+		],
+		"description": "",
+		"detailedDescription": "10년 역사의 챌린져클라이밍센터의 두번째 이야기 경산 영대점으로 오세요^^\n챌린져클라이밍센터 경산 영대점에 오신것을 격하게 환영합니다. 우리 모두 몸짱되어 보세!",
+		"descriptionForMobile": "10년 역사의 챌린져클라이밍센터의 두번째 이야기 경산 ...",
+		"moreDescriptionBtnForMobile": true,
+		"moreDetailedDescription": "",
+		"moreDetailedDescriptionUrl": "",
+		"road": "",
+		"infoSource": "",
+		"infoSourceUrl": "",
+		"targetUrl": "",
+		"mobileTargetUrl": "",
+		"hasPoint": false,
+		"hasReview": false,
+		"isUserEditCheck": false,
+		"repKeywordList": [
+			"암벽등반",
+			"실내암벽",
+			"볼더링",
+			"암벽등반교육"
+		],
+		"brandDirNum": null,
+		"naverTalktalkUrlForPc": null,
+		"naverTalktalkUrlForMobile": null,
+		"isNailshop": false,
+		"isHospital": false,
+		"isNaverhotel": false
+	},
+	"bizHours": {
+		"bizHourList": [
+			{
+				"type": "매일",
+				"startTime": "10:00",
+				"endTime": "11:00",
+				"isDayOff": false,
+				"description": "공휴일휴무",
+				"outer-class": {
+					"bizHourList": null
+				}
+			}
+		]
+	},
+	"options": {
+		"optionList": [],
+		"optionDescList": []
+	},
+	"images": {
+		"imageList": []
+	},
+	"menus": {
+		"menuImage": null,
+		"menuList": [
+			{
+				"name": "한달",
+				"price": "90,000원",
+				"isRecommended": false,
+				"change": false,
+				"outer-class": {
+					"menuImage": null,
+					"menuList": null
+				}
+			}
+		]
+	},
+	"menuImages": {
+		"menuImageList": []
+	},
+	"coupon": {
+		"isShow": false,
+		"url": "",
+		"mobileUrl": ""
+	},
+	"subphones": {
+		"count": "0",
+		"subphoneList": []
+	},
+	"relateInfos": {
+		"relateInfoList": []
+	},
+	"searchInterlock": {
+		"TRUE": "1",
+		"keyword": "0a9b54e5a703727407edb2d805d1cd43a5552b4df867941d871da7cc70674282b4b1d3d9ce12c55f4e79ad01421fe22e50edc5fd803a4d3cccb8a7666fa4320878b0bf954e0cc2b70beb7ad379269e3e35e98589b764cc2a8584e83f7922a39d",
+		"blog": "1",
+		"cafe": "1"
+	},
+	"streetPanorama": {
+		"id": "21vM3T+x3CPRHRTapOHUfg==",
+		"pan": "106.14",
+		"tilt": "10",
+		"lng": "128.7624071",
+		"lat": "35.8422359",
+		"fov": "120"
+	},
+	"skyPanorama": {
+		"id": "oy79UDOqwlT0BJeMUJZtcg==",
+		"pan": "95.46",
+		"tilt": "-30",
+		"lng": "128.7608337",
+		"lat": "35.8423462",
+		"fov": "124"
+	},
+	"insidePanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"interiorPanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"indoorPanorama": {
+		"id": "",
+		"pan": "0.0",
+		"tilt": "0.0",
+		"lng": "0.0",
+		"lat": "0.0",
+		"fov": "0"
+	},
+	"indoor": {
+		"floor": "",
+		"underGmid": null,
+		"underMid": "0"
+	},
+	"theme": null,
+	"themeDetail": null,
+	"editButtons": {
+		"editButtonList": [
+			{
+				"name": "정보수정 제안",
+				"type": "report",
+				"url": "\n\t\thttps://report.map.naver.com/form.nhn\n\t",
+				"nclicksName": "wronginfo",
+				"outer-class": {
+					"editButtonList": null
+				}
+			},
+			{
+				"name": "통계",
+				"type": "stats",
+				"url": "https://submit.naver.com/checkLoginType.nhn",
+				"nclicksName": "stats",
+				"outer-class": {
+					"editButtonList": null
+				}
+			}
+		]
+	},
+	"poi": {
+		"poi_info": {
+			"road": {
+				"poiShapeType": "1",
+				"shapeKey": null,
+				"boundary": null,
+				"detail": null
+			},
+			"hasRoad": false,
+			"land": null,
+			"hasLand": false,
+			"polygon": null,
+			"hasPolygon": false
+		},
+		"entrance_coord": {
+			"ENTRANCE_COORD_FIELD_SIZE": 7,
+			"entranceCoords": [
+				{
+					"isRepresentative": "1",
+					"coordType": "3",
+					"entranceCoordX": "128.7627400",
+					"entranceCoordY": "35.8421700",
+					"coordSubType": 1
+				},
+				{
+					"isRepresentative": "1",
+					"coordType": "1",
+					"entranceCoordX": "128.7625100",
+					"entranceCoordY": "35.8421810",
+					"coordSubType": 5
+				}
+			]
+		}
+	},
+	"thumbnail": null,
+	"cpDetail": {
+		"nadleDetail": null,
+		"citymapDetail": null,
+		"baeminDetail": null,
+		"onnuriDetail": null,
+		"campingzoneDetail": null,
+		"parkingModuDetail": null,
+		"toiletDetail": null,
+		"naverBookingDetail": null,
+		"uokDetail": null,
+		"hiraDetail": null,
+		"tvcastDetail": null,
+		"shopwindowDetail": null,
+		"yogiyoDetail": null,
+		"cescoDetail": null,
+		"golfzonDetail": null,
+		"opinetDetail": null,
+		"yanoljaDetail": null,
+		"goodchoiceDetail": null,
+		"yeogiyaDetail": null,
+		"naverhotelDetail": null,
+		"cpMenuList": [
+			"DEFAULT"
+		],
+		"relatedLinks": {
+			"relatedLinkList": []
+		},
+		"michelinGuide": null,
+		"kozazaDetail": null,
+		"heybeautyDetail": null
+	},
+	"card": {
+		"hasBenefit": false
+	},
+	"hairshop": null
+}
