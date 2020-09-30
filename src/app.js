@@ -3,13 +3,14 @@ const express=require('express');
 const morgan=require('morgan');
 const path=require('path');
 const mongoose = require("mongoose");
+import fileReadTest from './fileReadTest';
 
 const { MONGO_URI }=process.env;
 mongoose
     .connect(MONGO_URI, {useNewUrlParser: true, useFindAndModify: false})
     .then(()=>{
         console.log('Connected to MongoDB');
-        //createFakeData();
+        fileReadTest();
     })
     .catch(e=>{
         console.error(e);
