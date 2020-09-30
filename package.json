@@ -1,0 +1,22 @@
+{
+  "name": "Climbers_crawling",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node -r esm src",
+    "start:dev": "nodemon --watch src -r esm src/index.js"
+  },
+  "repository": "https://github.com/climbers-kr/Climbers_crawling.git",
+  "author": "dvlprsh",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "esm": "^3.2.25",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.7",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
