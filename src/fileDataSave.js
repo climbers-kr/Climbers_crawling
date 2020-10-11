@@ -1,11 +1,11 @@
 import { promises as fs } from 'fs';
 import Gym from './models/gym';
 
-const fileReadTest = async () => {
+const fileDataSave = async () => {
   try {
     const fileList = await fs.readdir('./Json');
 
-    fileList.slice(0, 10).forEach(async file => {
+    fileList.forEach(async file => {
       const data = await fs.readFile(`./Json/${file}`);
       const gymJson = JSON.parse(data);
       const {
@@ -44,7 +44,7 @@ const fileReadTest = async () => {
         roadDescription: road,
       });
 
-      await gym.save();
+      //await gym.save();
     });
 
     
@@ -54,4 +54,4 @@ const fileReadTest = async () => {
 
 };
 
-export default fileReadTest;
+export default fileDataSave;

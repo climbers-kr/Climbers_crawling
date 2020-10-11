@@ -19,10 +19,12 @@ const bizHourSchema = new Schema({
     description: String,
 });
 const GymSchema = new Schema({
+    dataId: String, //크롤링 해온 데이터 id
     imgUrlList: [String],
     name: String,
     address: String,
     addressAbbr: String,
+    roadAddr: Object,
     locationObject: Object,
     coordinate: Object,
     homepages: [Object],
@@ -30,6 +32,8 @@ const GymSchema = new Schema({
     phone: String,
     bizHour: [bizHourSchema],
     keywords: [String],
+    detailedDescription: String,
+    roadDescription: String,
     hasParking: Boolean,
     facility: facilitySchema,
     imageSource: [String],
